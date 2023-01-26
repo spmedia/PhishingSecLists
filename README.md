@@ -9,6 +9,6 @@ These lists were compiled by looking at the source code of all the popular phish
 
 ![](https://i.giphy.com/media/hQL0xnCrnT3jXn8RJc/giphy.webp)
 
-This is a work in progress █▒▒▒▒▒▒▒▒▒ 10%
+This is a work in progress █▒▒▒▒▒▒▒▒▒ 10% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
 
 protecc ya necc
