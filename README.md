@@ -1,7 +1,7 @@
 # PhishingSecLists
 To be used with tools like GoBuster & DirBuster but these lists are specifically tailored and designed for scanning phishing <>< landing pages and other malicious or sketch af websites.
 
-By finding their victim or target lists, you can help prevent further criem. 
+By finding their victim or target lists, you can help prevent further criem. If you can peer behind the curtain of their operation(s), you can dismantle em.
 
 What are they gunna do? Report you to teh cops? lololo
 
