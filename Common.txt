@@ -69,6 +69,7 @@ ccz.txt
 CCz.txt
 cc_submit.txt
 cc_submits.txt
+cell.txt
 chase.txt
 chatlogs.txt
 citigroup.txt
@@ -321,6 +322,11 @@ phish.json
 phish.txt
 phished.txt
 phishz.txt
+phone.txt
+phonenumber.txt
+phonenumbers.txt
+phones.txt
+phone_numbers.txt
 phrase.txt
 phrases.txt
 pnc.txt
@@ -378,6 +384,8 @@ sites/dropbox/
 sites/paypal/
 sites/paypal/logins.txt
 sites/venmo/logins.txt
+skype.txt
+Skype.txt
 snapchat.txt
 social.txt
 socials.txt
