@@ -547,6 +547,7 @@ results.txt
 Results.txt
 robinhood.txt
 Roblox.txt
+rockyou.txt
 RU.txt
 ru.txt
 run.txt
