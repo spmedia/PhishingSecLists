@@ -1,4 +1,4 @@
-1pass.com
+1pass.txt
 2021.txt
 2022.txt
 2023.txt
