@@ -5,7 +5,7 @@ By finding their victim or target lists, you can help prevent further criem.
 
 What are they gunna do? Report you to teh cops? lololo
 
-These lists were compiled by looking at the source code of all the popular phishing tool kits out there to find what they saved files as + combing through active abuse reports.
+These lists were compiled by looking at the source code of all the popular phishing tool kits out there to find what they saved files as + combing through active abuse reports and live phising landing pages.
 
 ![](https://i.giphy.com/media/hQL0xnCrnT3jXn8RJc/giphy.webp)
 
