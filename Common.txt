@@ -35,6 +35,9 @@ aols.txt
 asdf.txt
 att.txt
 ATT.txt
+auth
+auth.txt
+authorize
 azure.txt
 backup.dat
 backup.log
@@ -206,7 +209,9 @@ fedex.txt
 final.txt
 Final.txt
 find.txt
+Finds
 finds.txt
+Finds.txt
 finished.txt
 fish.txt
 fished.txt
@@ -263,6 +268,8 @@ key_logger.txt
 kraken.txt
 l.txt
 landed.txt
+lander
+Lander
 landing.txt
 leaked-pass.txt
 leaked.txt
@@ -350,6 +357,7 @@ netflix.txt
 Netflix.txt
 notes.txt
 o365.txt
+oauth2
 ok.dat
 ok.txt
 okay.txt
@@ -361,6 +369,7 @@ OnlyFans.txt
 otp_files/f(1).txt
 otp_files/f(2).txt
 otp_files/f.txt
+Outlook
 outlook.dat
 outlook.log
 outlook.txt
@@ -516,6 +525,7 @@ Stolen.txt
 string_attach.txt
 sub.txt
 submit.txt
+Submits
 submits.txt
 Submits.txt
 submitted.txt
@@ -570,12 +580,16 @@ usernames.dat
 usernames.log
 Usernames.txt
 users2023.txt
+v2.0
+valid
 valid.txt
 Valid.txt
 valid2.txt
+validated.txt
 validemails.txt
 validlogins.txt
 validphish.txt
+Valids
 valids.txt
 Valids.txt
 validusers.txt
