@@ -12,3 +12,11 @@ These lists were compiled by looking at the source code of all the popular phish
 This is a work in progress █▒▒▒▒▒▒▒▒▒ 10% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
 
 protecc ya necc
+
+-------------------
+ABOUT TEH LISTS
+-------------------
+
+**Common.txt** = common filenames and dirs where they might be saving captured credentials, emails, admin and control panel logins, campaign data, etc. A smorgasbord of all targeted industries like finance/crypto/banking/etc.
+
+**Shells.txt** = popular shell file names to scan for
