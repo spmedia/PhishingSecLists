@@ -687,6 +687,7 @@ Reddit.txt
 reddit.txt
 rerun.txt
 reservado.txt
+result.txt
 results
 Results.txt
 results.txt
