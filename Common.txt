@@ -207,6 +207,7 @@ contrasena.txt
 contraseÃ�Â±a.txt
 control
 Control
+controlpanel
 cookies.txt
 Cookies.txt
 cred.txt
@@ -223,6 +224,7 @@ crypto.log
 crypto.txt
 cryptos.txt
 crypto_com.txt
+data
 database.txt
 db.txt
 Debug.txt
@@ -935,6 +937,7 @@ wallets.log
 wallets.txt
 wallets_saved.txt
 wallet_saved.txt
+webmail
 wellsfargo.txt
 Whatsapp.txt
 whatsapp.txt
