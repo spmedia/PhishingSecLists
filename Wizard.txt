@@ -20,6 +20,8 @@
 7
 8
 9
+a
+a.zip
 abuse.txt
 Acceso
 acceso
@@ -69,6 +71,8 @@ amex.txt
 Android
 Android.txt
 android.txt
+anon
+anonymous
 AOL.txt
 aol.txt
 aols.txt
@@ -357,6 +361,7 @@ feed.txt
 files.zip
 Final.txt
 final.txt
+final.zip
 find.txt
 Finds
 Finds.txt
@@ -522,11 +527,16 @@ logz.txt
 lol
 LOL.txt
 lol.txt
+lol.zip
 lolol.txt
+lols.zip
+lolz.zip
+lul.zip
 lulul.txt
 lulz
 LULZ.txt
 lulz.txt
+lulz.zip
 lure
 lure.txt
 mail
@@ -604,10 +614,13 @@ office365
 Office365.txt
 office365.txt
 office_365.txt
+ok
 ok.dat
 ok.txt
+ok.zip
 Okay.txt
 okay.txt
+okay.zip
 okay_emails.txt
 onlyfans
 OnlyFans.txt
@@ -738,6 +751,7 @@ results.txt
 robinhood.txt
 Roblox.txt
 rockyou.txt
+rofl.zip
 RU.txt
 ru.txt
 run.txt
