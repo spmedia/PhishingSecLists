@@ -29,7 +29,7 @@ I like to use gobuster for scanning
 
 ![](https://i.imgur.com/BhSrmIb.png)
 
-Scanning a rando phishing page I found on [PhishTank](https://phishtank.com/). It let's us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc.
+Scanning a rando phishing page I found on [PhishTank](https://phishtank.com/). It lets us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc.
 
 Scam lander
 
