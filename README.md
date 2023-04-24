@@ -20,3 +20,21 @@ ABOUT TEH LISTS
 **Wizard.txt** = common filenames and dirs where they might be saving captured credentials, emails, admin and control panel logins, campaign data, etc. A smorgasbord of all targeted industries like finance/crypto/banking/etc.
 
 **Shells.txt** = popular shell file names to scan for
+
+-------------------
+EXAMPLE USAGE
+-------------------
+
+I like to use gobuster for scanning
+
+![](https://i.imgur.com/BhSrmIb.png)
+
+Scanning a rando phishing page I found on [PhishTank](https://phishtank.com/). It let's us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc.
+
+Scam lander
+
+![](https://i.imgur.com/g5iDlMS.png)
+
+Discovery of 1.txt
+
+![](https://i.imgur.com/LLzJAOo.png)
