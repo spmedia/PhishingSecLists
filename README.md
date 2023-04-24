@@ -29,12 +29,12 @@ I like to use gobuster for scanning
 
 ![](https://i.imgur.com/BIYi1dr.png)
 
-Scanning a rando phishing page I found on [PhishTank](https://phishtank.com/). It lets us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc.
+Scanning a rando phishing page I found on [PhishTank](https://phishtank.com/). It lets us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc. It also lets us know there is a /controlpanel (commonly cPanel) and /webmail on the box.
 
-Scam lander
+Scam landing page
 
 ![](https://i.imgur.com/g5iDlMS.png)
 
-Discovery of 1.txt
+Discovery of 1.txt that has user-agent logs in it
 
 ![](https://i.imgur.com/LLzJAOo.png)
