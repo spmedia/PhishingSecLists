@@ -50,6 +50,7 @@ admin/index.html
 admin/sign_in
 admin_panel
 adminpanel
+adminlogin
 Admins
 admins
 admins.zip
@@ -896,6 +897,9 @@ tesla.dat
 Tesla.txt
 tesla.txt
 Test
+Test.zip
+Test.dat
+Test.txt
 test
 test.dat
 test.log
