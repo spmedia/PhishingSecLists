@@ -39,6 +39,6 @@ Discovery of 1.txt that has user-agent logs in it
 
 ![](https://i.imgur.com/LLzJAOo.png)
 
-Discovery of this type of info is awesome! This gives you new enhanced addtional info to go off of for your investigation and OSINT gathering.
+Discovery of this type of info is awesome! This gives you new enhanced addtional intel to go off of for your investigation and OSINT gathering. Some people really be leaving the wildest and easiest files to discover on their scam and malicious landers.
 
 Greetz to all the CTI and data nerds out there!
