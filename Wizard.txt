@@ -1,8 +1,10 @@
 0
+0.json
 0.txt
 00.txt
 000.txt
 1
+1.json
 1.txt
 1.zip
 10
@@ -69,6 +71,7 @@
 9.zip
 900.txt
 a
+a.json
 a.txt
 a.zip
 aa.txt
@@ -92,7 +95,9 @@ acctz.txt
 ADA.txt
 ada.txt
 addies.txt
+address.json
 address.zip
+addresses.json
 addy.txt
 ADMIN
 Admin
@@ -338,8 +343,11 @@ c.txt
 c.zip
 cad.txt
 call.zip
+called.json
 called.zip
+caller.json
 caller.zip
+callers.json
 callers.zip
 calls.txt
 calls.zip
@@ -398,6 +406,7 @@ chatbot.txt
 chatbot.zip
 chatlogs.txt
 check.txt
+checked.json
 checked.txt
 Checked.txt
 checker.txt
@@ -434,6 +443,7 @@ combo-pass.txt
 combo-users.txt
 combo-yahoo.txt
 combo.dat
+combo.json
 combo.log
 combo.txt
 combo.zip
@@ -446,6 +456,7 @@ combolist.txt
 combolist.zip
 combolist2.txt
 combolists.txt
+combos.json
 combos.txt
 combos.zip
 comboslist2.txt
@@ -508,14 +519,17 @@ data
 data.zip
 database
 Database
+database.json
 database.txt
 database.zip
 databases
 Databases
 db.txt
 de.txt
+debug.json
 Debug.txt
 debug.txt
+debugged.json
 december.txt
 Deduped
 deduped
@@ -523,6 +537,7 @@ Deduped.txt
 deduped.txt
 Default
 default
+default.json
 Default.txt
 default.txt
 Desktop
@@ -570,6 +585,7 @@ drain.txt
 drain.zip
 drained.txt
 drainer
+drainer.json
 drainer.zip
 drainers
 drainers.txt
@@ -615,7 +631,9 @@ email_deduped.txt
 email_lists
 email_submit.txt
 email_submits.txt
+emailed.json
 emailkk.txt
+emaillist.json
 EmailLists.txt
 Emails
 emails
@@ -658,6 +676,7 @@ example.zip
 Exodus
 exodus
 exodus.wallet
+exploit.json
 exploit.txt
 exploit.zip
 exploited.txt
@@ -673,6 +692,7 @@ Fails.txt
 Failure.txt
 FanDuel.txt
 fanduel.txt
+fb.json
 fb.txt
 feb.txt
 fedex.txt
@@ -687,6 +707,7 @@ feeds.txt
 feeds.zip
 files.zip
 final
+final.json
 final.log
 Final.txt
 final.txt
@@ -705,6 +726,7 @@ Finds
 Finds.txt
 finds.txt
 finished.txt
+first.json
 first_name.txt
 firstname.txt
 fish.dat
@@ -712,6 +734,14 @@ fish.json
 fish.log
 fish.txt
 fished.txt
+format.json
+format.log
+format.txt
+format.zip
+formatted.json
+formatted.log
+formatted.txt
+formatted.zip
 found.txt
 france.txt
 fraud.txt
@@ -721,6 +751,7 @@ free.txt
 Free.txt
 fresh
 fresh.dat
+fresh.json
 fresh.log
 fresh.txt
 fresh.zip
@@ -785,6 +816,7 @@ help.txt
 help.zip
 help/help.txt
 hidden.txt
+hits.json
 Hosts.txt
 hosts.txt
 HTTP.txt
@@ -888,6 +920,7 @@ landing_page.zip
 landingpage.zip
 landingpages.zip
 laravel.log
+last.json
 last_name.txt
 lastname.txt
 lastpass
@@ -918,6 +951,7 @@ Linkedin.txt
 linkedin.txt
 list
 list.dat
+list.json
 List.txt
 list.txt
 LISTS
@@ -948,6 +982,7 @@ logged.json
 logged.txt
 logged.zip
 logged/logged.txt
+logger.json
 Logger.txt
 logger.txt
 logging.json
@@ -1102,6 +1137,7 @@ ms.txt
 mx.txt
 n.txt
 name.dat
+name.json
 name.log
 name.txt
 name.zip
@@ -1151,9 +1187,11 @@ office365.txt
 office_365.txt
 ok
 ok.dat
+ok.json
 ok.txt
 ok.zip
 okay
+okay.json
 okay.txt
 Okay.txt
 okay.zip
@@ -1259,6 +1297,7 @@ phish.zip
 phish/phish.txt
 phish2023.txt
 phished
+phished.json
 phished.txt
 PHISHED.txt
 phished.zip
@@ -1272,6 +1311,7 @@ phishz.txt
 phone
 Phone
 phone.dat
+phone.json
 phone.txt
 Phone.txt
 phone.zip
@@ -1282,6 +1322,7 @@ phonenumbers
 phonenumbers.txt
 phones
 Phones
+phones.json
 phones.txt
 Phones.txt
 phones.zip
@@ -1305,6 +1346,7 @@ protonmail.txt
 prox.txt
 Proxies
 proxies.dat
+proxies.json
 proxies.log
 Proxies.txt
 proxies.txt
@@ -1313,6 +1355,7 @@ proxies2.txt
 proxieshttp.txt
 Proxy
 proxy.dat
+proxy.json
 Proxy.txt
 proxy.txt
 ProxyList.txt
@@ -1372,17 +1415,20 @@ russian.txt
 s.txt
 salvado.txt
 save.dat
+save.json
 save.log
 save.txt
 Save.txt
 Saved
 saved
 saved.dat
+saved.json
 saved.log
 saved.txt
 saved.usernames.txt
 saved/saved.txt
 SavedNetworks.txt
+saves.json
 saves.txt
 Saves.txt
 Scam
@@ -1561,6 +1607,7 @@ submits.json
 Submits.txt
 submits.txt
 submits.zip
+submitted.json
 submitted.txt
 submitz.txt
 subs
@@ -1603,6 +1650,7 @@ test
 test.7z
 Test.dat
 test.dat
+test.json
 test.log
 Test.txt
 test.txt
@@ -1619,6 +1667,7 @@ testing.txt
 testing.zip
 Tests
 tests
+tests.json
 tests.txt
 tests.zip
 testt.txt
@@ -1732,6 +1781,7 @@ valid_logins
 valid_logins.txt
 valid_phish.txt
 valid_users.txt
+validated.json
 validated.txt
 Validated.txt
 validemails.txt
@@ -1739,6 +1789,7 @@ validlogins.txt
 validphish.txt
 Valids
 valids
+valids.json
 valids.php
 Valids.txt
 valids.txt
@@ -1825,6 +1876,7 @@ working_submits.txt
 works.txt
 works.zip
 wut.txt
+x.json
 x.txt
 x.zip
 xlm
@@ -1844,6 +1896,7 @@ z.txt
 z.zip
 Zip
 zip
+zip.json
 Zip.txt
 zipcodes.txt
 zipped
