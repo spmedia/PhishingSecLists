@@ -79,7 +79,9 @@ accts.txt
 acctz.txt
 ADA.txt
 ada.txt
+addies.txt
 address.zip
+addy.txt
 ADMIN
 Admin
 admin
@@ -153,6 +155,7 @@ apis.txt
 apple.txt
 approach.txt
 Apps.txt
+arb.txt
 asdf
 asdf.txt
 asdfasdf
@@ -166,10 +169,12 @@ authorize
 AutoFill.txt
 Autofill.txt
 autofill.txt
+avax.txt
 azure.txt
 b.txt
 b.zip
 back
+back.txt
 back.zip
 Back.zip
 backd.zip
@@ -247,6 +252,7 @@ bans.log
 bans.txt
 bans.zip
 bch
+bch.txt
 beta.txt
 beta.zip
 betterment.txt
@@ -258,6 +264,8 @@ bitcoin.dat
 bitcoin.log
 Bitcoin.txt
 bitcoin.txt
+bitcoincash.txt
+bitcoins.txt
 bitmart.txt
 bittrex.txt
 bitwarden.com
@@ -281,6 +289,7 @@ blocked
 blocked.txt
 Blocklist.txt
 blocks.txt
+bnb.txt
 Bookmarks.txt
 bookmarks.txt
 bot.config
@@ -476,6 +485,7 @@ Docs
 docs.txt
 Documents
 documents
+doge.dat
 doge.txt
 dogecoin.dat
 dogecoin.txt
@@ -490,6 +500,7 @@ done.log
 done.txt
 donotdelete
 donotdelete.txt
+dot.txt
 Downloads.txt
 downloads.txt
 dox
@@ -559,14 +570,22 @@ enter.txt
 entrnl.txt
 entry.txt
 error_fiercephish.log
+etc.txt
+ETH.log
+eth.log
 eth.txt
+ETH.txt
 Ethereum
 Ethereum.txt
 ethereum.txt
+ethwallets.txt
+ETHwallets.txt
 euro.txt
 european.txt
 europeans.txt
 euros.txt
+example.txt
+example.zip
 Exodus
 exodus
 exodus.wallet
@@ -598,6 +617,10 @@ final.log
 Final.txt
 final.txt
 final.zip
+final_info.txt
+final_list.txt
+final_save.txt
+finallist.txt
 find.txt
 finder
 finder.log
@@ -676,6 +699,7 @@ hashed.txt
 hashes.log
 hashes.txt
 hashes.zip
+hbar.txt
 help
 help.txt
 help.zip
@@ -689,6 +713,7 @@ httpproxy.txt
 HTTPS.txt
 https.txt
 httpsproxies.txt
+icp.txt
 id.dat
 id.rar
 ID.txt
@@ -766,7 +791,10 @@ l.txt
 landed.txt
 Lander
 lander
+lander.txt
 lander.zip
+landers.txt
+landers.zip
 landing.txt
 landing_page.zip
 landingpage.zip
@@ -797,6 +825,7 @@ less.zip
 license
 licenses
 licenses.txt
+link.txt
 Linkedin.txt
 linkedin.txt
 list
@@ -812,6 +841,8 @@ lists.log
 Lists.txt
 lists.txt
 lists.zip
+lists2.txt
+lists3.txt
 Listz
 listz
 listz.txt
@@ -819,9 +850,11 @@ live.txt
 lmao.txt
 LOG
 log
+log.7z
 log.dat
 log.json
 log.txt
+log.zip
 logged.json
 logged.txt
 logged/logged.txt
@@ -861,6 +894,7 @@ Logs
 logs.7z
 logs.dat
 logs.json
+logs.logs
 logs.rar
 logs.txt
 logs.zip
@@ -885,6 +919,7 @@ lol/lol.txt
 lolol.txt
 lols.zip
 lolz.zip
+ltc.txt
 lul.zip
 lulul.txt
 lulz
@@ -931,6 +966,8 @@ mastercard.txt
 me.txt
 me1.txt
 me2.txt
+meme.txt
+memes.txt
 meow
 Meow
 meow.dat
@@ -976,6 +1013,7 @@ names
 names.dat
 names.txt
 names.zip
+nano.txt
 nerd.txt
 Netflix
 netflix
@@ -1037,13 +1075,16 @@ omg.zip
 onlyfans
 OnlyFans.txt
 onlyfans.txt
+op.txt
 openbullet
 openbullet.txt
 OpenSea
 opensea
 OpenSea.txt
 opensea.txt
+ops.txt
 optimism.txt
+opz.txt
 otp_files/f(1).txt
 otp_files/f(2).txt
 otp_files/f.txt
@@ -1064,6 +1105,7 @@ Output.txt
 output.txt
 OUTPUT.txt
 outputs.txt
+outt.txt
 p.exe
 p.txt
 page.zip
@@ -1104,6 +1146,8 @@ paypal.txt
 paypals.txt
 peas.txt
 Peas.txt
+pepe.txt
+pepecoins.txt
 Permission.txt
 permission.txt
 permissions.txt
@@ -1154,6 +1198,8 @@ Polkadot
 polkadot
 Polkadot.txt
 polkadot.txt
+polygon.txt
+Polygon.txt
 Process.txt
 Protonmail.txt
 protonmail.txt
@@ -1205,6 +1251,7 @@ result.txt
 results
 Results.txt
 results.txt
+ripple.txt
 robinhood.txt
 Roblox.txt
 rockyou
@@ -1222,6 +1269,7 @@ salvado.txt
 save.dat
 save.log
 save.txt
+Save.txt
 Saved
 saved
 saved.dat
@@ -1231,6 +1279,7 @@ saved.usernames.txt
 saved/saved.txt
 SavedNetworks.txt
 saves.txt
+Saves.txt
 Scam
 scam.txt
 scam.zip
@@ -1285,6 +1334,7 @@ settings.txt
 setup.php
 setup.txt
 setup.zip
+shib.txt
 Shopify.txt
 shopify.txt
 sim.txt
@@ -1326,6 +1376,10 @@ Socks4.txt
 socks4.txt
 Socks5.txt
 socks5.txt
+sol.txt
+SOL.txt
+solana.txt
+Solana.txt
 spam
 spam.config
 spam.dat
@@ -1337,6 +1391,7 @@ spam.txt
 spam1.txt
 spam2.txt
 spam3.txt
+spamm.txt
 spammah.txt
 spammah.zip
 spammed
@@ -1433,6 +1488,7 @@ Tesla.txt
 tesla.txt
 Test
 test
+test.7z
 Test.dat
 test.dat
 test.log
@@ -1451,7 +1507,9 @@ testing.txt
 testing.zip
 Tests
 tests
+tests.txt
 tests.zip
+testt.txt
 testtest.txt
 text.txt
 texts
@@ -1472,6 +1530,7 @@ token.zip
 tokens
 tokens.txt
 tokens.zip
+ton.txt
 tools
 Tools
 tools.7z
@@ -1486,6 +1545,7 @@ tracks.txt
 trezor
 trezor.txt
 trustwallet.txt
+trx.txt
 tumblr.txt
 Twitch.txt
 twitch.txt
@@ -1496,12 +1556,14 @@ twitters.txt
 u.txt
 Ukraine.txt
 ukraine.txt
+uni.txt
 UPS.txt
 ups.txt
 url.txt
 urls.txt
 USA.txt
 usa.txt
+usd.txt
 USDC.txt
 usdc.txt
 USDT.txt
@@ -1572,6 +1634,7 @@ verified.txt
 Verified.txt
 Verizon.txt
 verizon.txt
+vet.txt
 Victims
 victims
 Victims.txt
@@ -1585,6 +1648,8 @@ wallet.log
 wallet.txt
 wallet.zip
 wallet_saved.txt
+walletaddress.txt
+walletaddresses.txt
 WalletConnect.txt
 walletconnect.txt
 Wallets
@@ -1594,11 +1659,15 @@ wallets.log
 wallets.txt
 wallets.zip
 wallets_saved.txt
+walletz.txt
 wat
 wat.rar
 wat.txt
 wat.zip
+wbtc.txt
 webmail
+website.txt
+website.zip
 wellsfargo.txt
 what.txt
 Whatsapp.txt
@@ -1639,7 +1708,9 @@ wut.txt
 x.txt
 x.zip
 xlm
+xlm.txt
 xmr
+xrp.txt
 y.txt
 Yahoo.txt
 yahoo.txt
