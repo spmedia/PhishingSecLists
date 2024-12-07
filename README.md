@@ -25,7 +25,7 @@ ABOUT TEH LISTS
 EXAMPLE USAGE
 -------------------
 
-I like to use gobuster for scanning
+I like to use [gobuster](https://github.com/OJ/gobuster) for scanning. [ffuf](https://github.com/ffuf/ffuf) is also really nice.
 
 ![](https://i.imgur.com/BIYi1dr.png)
 
@@ -38,3 +38,7 @@ Scam landing page
 Discovery of 1.txt that has user-agent logs in it
 
 ![](https://i.imgur.com/LLzJAOo.png)
+
+Discovery of this type of info is awesome! This gives you new enhanced addtional info to go off of for your investigation and OSINT gathering.
+
+Greetz to all the CTI and data nerds out there!
