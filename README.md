@@ -37,7 +37,7 @@ Scam landing page
 
 ![](https://i.imgur.com/g5iDlMS.png)
 
-Discovery of 1.txt that has user-agent logs in it
+Discovery of l.txt that has user-agent logs in it
 
 ![](https://i.imgur.com/LLzJAOo.png)
 
