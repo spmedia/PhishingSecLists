@@ -9,6 +9,10 @@ These lists were compiled by looking at the source code of all the popular phish
 
 To note: this method has a low success rate. Out of scanning 100 unique phishing/malicious websites, you may only get 4-5 hits BUT the intel you find when you do get a good valid hit is extremely valuable. 
 
+When using ffuf, you can dump all your phishing urls into a domains.txt and scan many website at once to increase your hit percentages.
+
+ex: ffuf -w domains.txt:DOMAIN -w Wizard.txt -u DOMAIN/FUZZ -c -mc 200 -t 75
+
 ![](https://i.giphy.com/media/hQL0xnCrnT3jXn8RJc/giphy.webp)
 
 This is a work in progress ██▒▒▒▒▒▒▒▒ 23% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
