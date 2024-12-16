@@ -115,12 +115,17 @@ admin/admin.txt
 admin/crypto.txt
 admin/cryptos.txt
 admin/help.txt
+admin/index
+admin/index.htm
 admin/index.html
+admin/kitpanel
+admin/kitpanel.html
 admin/log.txt
 admin/logged.txt
 admin/logs.txt
 admin/lol.txt
 admin/ok.txt
+admin/panel.html
 admin/phish.txt
 admin/saved.txt
 admin/sign_in
@@ -489,6 +494,8 @@ combos.json
 combos.txt
 combos.zip
 comboslist2.txt
+comm.txt
+comms.txt
 config
 config.dat
 config.json
@@ -820,6 +827,7 @@ formatted.json
 formatted.log
 formatted.txt
 formatted.zip
+forward.txt
 found.txt
 france.txt
 fraud.txt
@@ -1000,6 +1008,7 @@ keylogged.txt
 keylogger.dat
 keylogger.txt
 keylogs.txt
+kitpanel
 kk.txt
 Kraken
 kraken.txt
@@ -1081,6 +1090,7 @@ log.dat
 log.json
 log.txt
 log.zip
+logged.dat
 logged.json
 logged.txt
 logged.zip
@@ -1138,6 +1148,7 @@ logs1.txt
 logs2.txt
 logs2025.txt
 logz
+logz.dat
 logz.txt
 lol
 LOL
@@ -1661,6 +1672,8 @@ sim.txt
 SIM.txt
 sims.txt
 SIMS.txt
+simswap.txt
+simswapped.txt
 sites
 sites/a.txt
 sites/dropbox/
@@ -1676,6 +1689,7 @@ skim.txt
 skimmed.txt
 skimmer.txt
 skimmers.txt
+skims.txt
 Skype.txt
 skype.txt
 SMS
@@ -1868,6 +1882,7 @@ TG
 tg
 TG.txt
 tg.txt
+thecomm.txt
 Theft.txt
 theft.txt
 thread.txt
