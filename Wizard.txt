@@ -1690,6 +1690,11 @@ secreta.txt
 secreto.txt
 secrets
 secrets.txt
+secrets.json
+secrets.zip
+secrets.7z
+secrets.rar
+Secrets.txt
 seed-phrase.txt
 seed-phrases.txt
 seed.dat
