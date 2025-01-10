@@ -244,6 +244,7 @@ AVAX.txt
 azure.txt
 b.txt
 b.zip
+bab.zip
 back
 back.txt
 back.zip
@@ -460,6 +461,7 @@ Calling.txt
 calls.txt
 calls.zip
 calls/calls.txt
+cam.zip
 can.txt
 canada.txt
 Capture.txt
@@ -791,6 +793,7 @@ duo.txt
 Duped.txt
 duped.txt
 dupedlist.txt
+DXJS.zip
 e.txt
 Elon
 Elon.txt
@@ -1006,6 +1009,10 @@ fresh.zip
 fresh1.txt
 freshinfo.txt
 freshs.txt
+ftp.txt
+ftp.zip
+ftps.txt
+FTSP.zip
 full_logs
 full_logs.txt
 fulls.txt
@@ -1031,6 +1038,7 @@ Gmail.txt
 gmail.txt
 gmail/gmail.txt
 gmails.txt
+go.bat
 god.txt
 goldman.txt
 good.txt
@@ -1355,6 +1363,7 @@ logs
 LOGS
 Logs
 logs.7z
+logs.bat
 logs.dat
 logs.gzip
 logs.json
@@ -1525,8 +1534,10 @@ netflix
 Netflix.txt
 netflix.txt
 new
+new.bat
 new.dat
 new.txt
+new.vbs
 new.zip
 new1.txt
 new2.txt
@@ -1576,6 +1587,7 @@ OK.txt
 Ok.txt
 ok.zip
 okay
+okay.bat
 okay.json
 okay.txt
 Okay.txt
@@ -1833,6 +1845,9 @@ push.txt
 pw2025.txt
 pwd.txt
 pws.txt
+PWS.vbs
+pws.vbs
+pws1.vbs
 pwz.txt
 pyphisher.txt
 q.txt
@@ -2124,6 +2139,7 @@ Spams.txt
 spams.txt
 spanish.txt
 spear
+Spotify.lnk
 Spotify.txt
 spotify.txt
 spread.txt
@@ -2138,8 +2154,12 @@ SSN.txt
 ssns.txt
 SSNS.txt
 ssnz.txt
+start.bat
 start.txt
 started.txt
+startup.bat
+startupp.bat
+startupppp.bat
 steal
 Steal
 stealer
