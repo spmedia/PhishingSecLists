@@ -13,6 +13,7 @@
 1.gif
 1.json
 1.mp3
+1.pdf
 1.php
 1.txt
 1.zip
@@ -154,6 +155,7 @@ a.html
 a.json
 a.log
 a.mp3
+a.pdf
 a.php
 a.txt
 a.zip
@@ -324,6 +326,8 @@ ads.zip
 aff
 aff.html
 aff.json
+aff.pdf
+aff.php
 aff.txt
 affil.txt
 affiliate
@@ -1866,6 +1870,13 @@ guardar.html
 guardar.json
 guardar.php
 guardar.txt
+guide.html
+guide.json
+guide.pdf
+guide.php
+guide.txt
+guides.pdf
+guides.txt
 h.txt
 hack.html
 hack.php
@@ -1929,6 +1940,10 @@ HELLO
 Hello
 hello.html
 help
+help.html
+help.json
+help.pdf
+help.php
 help.txt
 help.zip
 help/help.txt
@@ -2401,6 +2416,7 @@ log.dat
 log.gzip
 log.html
 log.json
+log.pdf
 log.php
 log.txt
 log.zip
@@ -2493,6 +2509,7 @@ logs.json
 logs.log
 logs.logs
 logs.mp3
+logs.pdf
 logs.php
 logs.rar
 logs.txt
@@ -2685,6 +2702,7 @@ me.jpg
 me.JPG
 me.mp3
 me.mp4
+me.pdf
 me.png
 me.txt
 me1.txt
@@ -2758,6 +2776,7 @@ Monero.txt
 money
 money.gzip
 money.jpg
+money.pdf
 money.php
 money.png
 money.txt
@@ -3274,6 +3293,7 @@ pics.dat
 pics.gzip
 pics.html
 pics.jpg
+pics.pdf
 pics.png
 pics.rar
 Pics.rar
@@ -3465,6 +3485,8 @@ readme.json
 readme.log
 README.md
 readme.md
+readme.pdf
+README.pdf
 readme.php
 README.rdoc
 README.txt
@@ -3981,6 +4003,7 @@ stats.jpeg
 stats.jpg
 stats.mp3
 stats.mp4
+stats.pdf
 stats.php
 stats.png
 stats.zip
@@ -4121,6 +4144,7 @@ test.json
 test.log
 test.mp3
 test.mp4
+test.pdf
 test.php
 TEST.php
 test.png
@@ -4174,6 +4198,7 @@ testing.jpg
 testing.json
 testing.log
 testing.mp3
+testing.pdf
 testing.php
 testing.png
 testing.rar
@@ -4576,6 +4601,14 @@ whatsapp.txt
 when.html
 when.mp3
 when.txt
+whitepaper
+whitepaper.gzip
+whitepaper.html
+whitepaper.json
+whitepaper.pdf
+whitepaper.php
+whitepaper.zip
+whitepapers
 Windows.txt
 winsock.txt
 wizard
@@ -4662,6 +4695,7 @@ you.jpeg
 you.jpg
 you.mp3
 you.mp4
+you.pdf
 you.png
 you.txt
 you1.txt
