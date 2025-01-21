@@ -2221,6 +2221,8 @@ Klean.txt
 Kleans.txt
 kongzhimianban.php
 kongzhimianban.txt
+kpanel.php
+kpanel/
 Kraken
 kraken.html
 kraken.json
@@ -3411,6 +3413,7 @@ prueba.json
 prueba.php
 prueba.txt
 ps.txt
+public/
 puka
 push.txt
 pw
@@ -3507,6 +3510,7 @@ reddit
 Reddit.txt
 reddit.txt
 reel.txt
+register.php
 Register.txt
 register.txt
 registered.txt
@@ -3688,9 +3692,18 @@ scans.html
 scans.php
 scans.txt
 scanz
+script.php
+script.txt
 script.zip
+script/
 scripts
+scripts.html
+scripts.json
+scripts.php
+scripts.txt
 scripts.zip
+scripts/
+scripts1/
 Scrub.txt
 scrub.txt
 Scrubbed.txt
@@ -4574,6 +4587,7 @@ wat.zip
 wats.txt
 wbtc.txt
 webmail
+webmail.php
 Webpages
 website.txt
 website.zip
@@ -4609,6 +4623,8 @@ whitepaper.pdf
 whitepaper.php
 whitepaper.zip
 whitepapers
+whm
+WHM
 Windows.txt
 winsock.txt
 wizard
