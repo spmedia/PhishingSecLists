@@ -997,6 +997,7 @@ ccs1.txt
 ccz
 CCz.txt
 ccz.txt
+cdn-cgi/trace
 cell.txt
 ceshi.php
 ceshi.txt
@@ -1574,6 +1575,10 @@ enviar.json
 enviar.php
 enviar.txt
 error_fiercephish.log
+error
+error.txt
+errors
+errors.txt
 etc.txt
 eth.gzip
 eth.json
