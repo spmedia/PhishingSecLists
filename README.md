@@ -35,17 +35,32 @@ EXAMPLE USAGE
 
 I like to use [gobuster](https://github.com/OJ/gobuster) for scanning. [ffuf](https://github.com/ffuf/ffuf) is also really nice.
 
+Example 1:
+
 ![](https://i.imgur.com/BIYi1dr.png)
 
-Scanning a rando phishing page I found on the [Crypto Phishing Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed). It lets us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc. It also lets us know there is a /controlpanel (commonly cPanel) and /webmail on the box.
+Scanning a rando phishing page I found on the [Crypto Phishing Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed). It lets us discover there is an `l.txt` file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc. It also lets us know there is a /controlpanel (commonly cPanel) and /webmail on the box.
 
 Scam landing page
 
 ![](https://i.imgur.com/g5iDlMS.png)
 
-Discovery of l.txt that has user-agent logs in it
+Discovery of `l.txt` that has user-agent logs in it
 
 ![](https://i.imgur.com/LLzJAOo.png)
+
+Example 2:
+
+Discovery of an open `/scripts/` dir on a scam landing page with some interesting files in it
+
+![](https://i.imgur.com/FDZ7fXI.png)
+
+Example 3:
+
+A scan reveals an `admin/login` page which has Chinese chars and has `<html lang="zh">` in the source. The language code zh is the ISO 639-1 standard code for the Chinese language. This lets us know the threat actors behind this scam might be Chinese.
+
+![](https://i.imgur.com/Z2XmRbm.png)
+
 
 Discovery of this type of info is awesome! This gives you new enhanced addtional intel to go off of for your investigation and OSINT gathering. Some people really be leaving the wildest and easiest files to discover on their scam and malicious landers.
 
