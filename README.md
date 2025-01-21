@@ -61,6 +61,11 @@ A scan reveals an `admin/login` page which has Chinese chars and has `<html lang
 
 ![](https://i.imgur.com/Z2XmRbm.png)
 
+Example 4:
+
+A scan of a Ledger crypto scam website reveals an `a.txt` which has a list of IPs. Is this a blocklist? Is it a log of victims who have hit this site? Good thing to investigate.
+
+![](https://i.imgur.com/tIEomaU.png)
 
 Discovery of this type of info is awesome! This gives you new enhanced addtional intel to go off of for your investigation and OSINT gathering. Some people really be leaving the wildest and easiest files to discover on their scam and malicious landers.
 
