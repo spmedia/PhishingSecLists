@@ -35,7 +35,7 @@ I like to use [gobuster](https://github.com/OJ/gobuster) for scanning. [ffuf](ht
 
 ![](https://i.imgur.com/BIYi1dr.png)
 
-Scanning a rando phishing page I found on [PhishTank](https://phishtank.com/). It lets us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc. It also lets us know there is a /controlpanel (commonly cPanel) and /webmail on the box.
+Scanning a rando phishing page I found on the [Crypto Phishing Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed). It lets us discover there is an l.txt file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc. It also lets us know there is a /controlpanel (commonly cPanel) and /webmail on the box.
 
 Scam landing page
 
