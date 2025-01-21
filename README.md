@@ -7,7 +7,7 @@ The websites of Threat Actors make perfect targets to scan and cut your teeth on
 
 These lists were compiled by looking at the source code of all the popular phishing tool kits out there (blackeye, SET, evilginx2, zphisher, etc) to find what they saved files as, honeypots, and combing through active abuse reports + live phishing landing pages.
 
-Languages used in the list: English, Russian, Chinese, Thai, Khmer, Indonesian, and Swahili.
+Languages represented in the list: English, Russian, Chinese, Malay, Thai, Tamil, Khmer, Indonesian, and Swahili.
 
 To note: this method has a low success rate. Out of scanning 100 unique phishing/malicious websites, you may only get 4-5 hits BUT the intel you find when you do get a good valid hit is extremely valuable. 
 
