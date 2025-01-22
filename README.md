@@ -57,7 +57,7 @@ Discovery of an open `/scripts/` dir on a scam landing page with some interestin
 
 Example 3:
 
-A scan reveals an `admin/login` page which has Chinese chars and has `<html lang="zh">` in the source. The language code zh is the ISO 639-1 standard code for the Chinese language. This lets us know the threat actors behind this scam might be Chinese.
+A scan of an "American financial firm" scam website reveals an `admin/login` page which has Chinese chars and has `<html lang="zh">` in the source. The language code zh is the ISO 639-1 standard code for the Chinese language. This lets us know the threat actors behind this scam might be Chinese.
 
 ![](https://i.imgur.com/Z2XmRbm.png)
 
