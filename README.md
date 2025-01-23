@@ -69,4 +69,4 @@ A scan of a Ledger crypto scam website reveals an `a.txt` which has a list of IP
 
 Discovery of this type of info is awesome! This gives you new enhanced addtional intel to go off of for your investigation and OSINT gathering. Some people really be leaving the wildest and easiest files to discover on their scam and malicious landers.
 
-Greetz to all the CTI and data nerds out there!
+Greetz to all the CTI and data nerds out there and the DEFCON225 homies who help w scanning!
