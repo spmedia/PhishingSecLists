@@ -433,6 +433,14 @@ apis.txt
 apis.zip
 apiz
 apiz.txt
+app
+app.txt
+app/file.php
+app/file.txt
+app/files.php
+app/files.txt
+app/test.php
+app/test.txt
 apple
 Apple
 APPLE
@@ -440,13 +448,18 @@ apple.txt
 apple.zip
 apples.txt
 approach.txt
+apps
 Apps.txt
+apps.txt
+apps/test.php
+apps/test.txt
 apr.txt
 April.txt
 arb.php
 arb.txt
 asd3we.txt
 asdf
+asdf.js
 asdf.txt
 asdfae.txt
 asdfas.txt
@@ -1759,6 +1772,7 @@ fomu.php
 fomu.txt
 force.txt
 forced.txt
+form.js
 form.php
 forma.php
 forma.txt
@@ -2042,6 +2056,7 @@ inbox.txt
 inbox.zip
 inboxs.txt
 incoming.txt
+index.js
 index.json
 infected
 infected.7z
@@ -2467,6 +2482,7 @@ login.dat
 login.db
 login.gzip
 login.html
+login.js
 login.json
 login.log
 Login.php
@@ -3161,6 +3177,7 @@ pareeksha.txt
 parol.php
 parol.txt
 pass.7z
+pass.js
 pass.json
 PASS.json
 pass.log
@@ -4103,6 +4120,7 @@ subjects.txt
 submit.asp
 submit.db
 submit.gzip
+submit.js
 submit.json
 submit.log
 submit.php
@@ -4192,6 +4210,7 @@ TEST.html
 test.html
 test.jpeg
 test.jpg
+test.js
 test.json
 test.log
 test.mp3
@@ -4707,6 +4726,8 @@ works.txt
 Works.txt
 works.zip
 wot.txt
+wp-admin
+wp-json
 write.php
 write.txt
 writes.txt
