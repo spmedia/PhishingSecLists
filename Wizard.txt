@@ -238,6 +238,8 @@ admin/cam
 admin/cams
 admin/crypto.txt
 admin/cryptos.txt
+admin/dash
+admin/dashboard
 admin/data
 admin/db
 admin/debug
@@ -867,6 +869,8 @@ bots.rar
 bots.txt
 BOTS.txt
 bots.zip
+bots/stat
+bots/stats
 botsadmin
 botspanel
 botss.json
@@ -1438,6 +1442,12 @@ denglu.html
 denglu.php
 denglu.txt
 denglu.zip
+deposits.7z
+deposits.gzip
+deposits.json
+deposits.rar
+deposits.txt
+deposits.zip
 Desktop
 desktop
 desktop.txt
@@ -4219,6 +4229,8 @@ stats.php
 stats.png
 stats.zip
 stats/admin
+stats/dash
+stats/dashboard
 stats/logs
 stats/panel
 status
@@ -4543,9 +4555,12 @@ traffic.txt
 trafficstats.txt
 trafficstats.zip
 transaction.txt
+transactions
 transactions.7z
 transactions.json
+transactions.log
 transactions.rar
+transactions.txt
 transactions.zip
 translate
 translate.gzip
@@ -4689,6 +4704,7 @@ usdt.rar
 usdt.txt
 USDT.txt
 User
+user
 User.config
 user.config
 user.dat
@@ -4698,6 +4714,14 @@ User.txt
 user.txt
 user.zip
 User.zip
+user/dashboard
+user/deposit
+user/stat
+user/stats
+user/transactions
+user/withdraw
+user/withdrawal
+user/withdraws
 user1.txt
 user2.txt
 user3.txt
@@ -4716,6 +4740,7 @@ Users
 users.txt
 users.zip
 Users.zip
+users/dashboard
 users1.txt
 users2.txt
 users2023.txt
