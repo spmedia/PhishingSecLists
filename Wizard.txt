@@ -1574,9 +1574,9 @@ enviar.html
 enviar.json
 enviar.php
 enviar.txt
-error_fiercephish.log
 error
 error.txt
+error_fiercephish.log
 errors
 errors.txt
 etc.txt
@@ -1667,9 +1667,13 @@ ff.txt
 FILE
 FILES
 files
+Files
 files.7z
 files.backup
+files.gzip
+files.json
 files.rar
+files.txt
 files.zip
 files/0.txt
 files/1.txt
@@ -2152,6 +2156,11 @@ jaribio.php
 jaribio.txt
 jj.txt
 john
+join.txt
+joined.txt
+joiner.txt
+joins.txt
+joinz.txt
 jpmorgan.txt
 json.json
 julie
@@ -2222,6 +2231,8 @@ kitpanel
 kitpanel.txt
 kk.txt
 kkk.txt
+kkkk.txt
+kkkkk.txt
 Klean.txt
 Kleans.txt
 kongzhimianban.php
@@ -2229,6 +2240,7 @@ kongzhimianban.txt
 kpanel.php
 kpanel/
 Kraken
+kraken.gzip
 kraken.html
 kraken.json
 kraken.php
@@ -2350,6 +2362,7 @@ ledgerstax.txt
 Ledgerstax.txt
 ledgerwinner
 Left.txt
+left.txt
 Lefts.txt
 lefts.txt
 leftz.txt
@@ -2775,6 +2788,7 @@ minecraft.txt
 mirror
 mirror.txt
 mm.txt
+mmm.txt
 mod.php
 monero
 Monero
@@ -2935,6 +2949,7 @@ office_365.txt
 Offline.txt
 offline.txt
 offramp.txt
+oh.txt
 ok
 OK
 ok.dat
@@ -2964,8 +2979,10 @@ oki.txt
 Oki.txt
 oki.zip
 okie.html
+okii.txt
 Okis.txt
 okis.txt
+okk.txt
 old
 old.dat
 old.txt
@@ -2984,6 +3001,8 @@ OnlyFans.txt
 onlyfans.txt
 onramp.txt
 oo.txt
+ooo.txt
+oooo.txt
 op.html
 op.json
 op.php
@@ -3154,6 +3173,7 @@ pass_phrase.txt
 pass_phrases.txt
 passphrase.txt
 passphrases.txt
+passw.txt
 Passwd.txt
 passwd.txt
 password.dat
@@ -3504,6 +3524,9 @@ reads.json
 reads.txt
 READTHIS
 readthis.txt
+ready.gzip
+ready.txt
+ready.zip
 real.txt
 reals.txt
 recorded.mp3
@@ -3693,10 +3716,12 @@ scanning.txt
 ScanningNetworks.txt
 scans
 Scans
+scans.gzip
 scans.html
 scans.php
 scans.txt
 scanz
+script
 script.php
 script.txt
 script.zip
@@ -3809,6 +3834,8 @@ shib.php
 shib.txt
 Shopify.txt
 shopify.txt
+signup.txt
+signups.txt
 sijillaat.php
 sijillaat.txt
 sim.txt
@@ -4028,9 +4055,15 @@ stats.zip
 stats/admin
 stats/logs
 stats/panel
+status
+status.gzip
 status.json
 status.txt
+status.zip
+statz
+statz.json
 statz.php
+statz.txt
 steal
 Steal
 stealer
@@ -4086,6 +4119,7 @@ submitted.json
 submitted.txt
 submitz.txt
 subs
+subs.txt
 success.json
 success.txt
 Success.txt
@@ -4473,11 +4507,14 @@ user3.txt
 username.dat
 username.log
 Username.txt
+username.txt
 usernames
 usernames.dat
 usernames.log
 Usernames.txt
+usernames.txt
 usernames.zip
+usernamez.txt
 Users
 users.txt
 users.zip
@@ -4682,6 +4719,7 @@ x.mp3
 x.php
 x.txt
 x.zip
+xai.txt
 xlm
 xlm.txt
 xmr
