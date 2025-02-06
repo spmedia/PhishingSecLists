@@ -2642,8 +2642,10 @@ leta
 leta.php
 leta.txt
 lgs.txt
+licenes.txt
 license
 LICENSE
+license.txt
 licenses
 licenses.txt
 link.txt
