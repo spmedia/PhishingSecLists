@@ -384,6 +384,7 @@ ai.php
 ai.rar
 ai.txt
 ai.zip
+ai1wm-backups
 Airdrop.txt
 airdrop.txt
 ajskdfhk.txt
@@ -2419,6 +2420,8 @@ July.txt
 july.txt
 June.txt
 june.txt
+junk
+Junk
 k.rar
 k.txt
 k.zip
@@ -4579,6 +4582,8 @@ telegrambot
 telegrambot.zip
 telegrambots.txt
 telegrambots.zip
+temp
+Temp
 ten.txt
 tes
 tes.txt
@@ -4752,6 +4757,7 @@ tixu.txt
 tmail.php
 Tmobile.txt
 tmobile.txt
+tmp
 token
 token.txt
 token.zip
@@ -5185,6 +5191,7 @@ wot.txt
 wp-admin
 wp-admin.php
 wp-admins.php
+wp-content
 wp-cron.php
 wp-json
 wp-login
