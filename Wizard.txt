@@ -103,6 +103,7 @@
 3333.txt
 33333.txt
 3389.txt
+3rdparty
 4
 4.txt
 4.zip
@@ -2695,6 +2696,7 @@ lives.zip
 ll.txt
 lmao.txt
 lmao.zip
+local
 LOG
 log
 Log
@@ -2928,6 +2930,12 @@ mailers.txt
 mailers.zip
 mailing.json
 mailing.txt
+mailman
+mailman/admin
+mailman/create
+mailman/list
+mailman/listinfo
+mailman/lists
 mails.html
 mails.json
 mails.php
@@ -4992,6 +5000,9 @@ users/dashboard
 users1.txt
 users2.txt
 users2023.txt
+usr
+usr/local
+usr/share
 utoaji.txt
 uu.txt
 uwu.txt
