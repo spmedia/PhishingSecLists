@@ -241,6 +241,8 @@ Admin.txt
 admin.txt
 admin.zip
 admin/access
+admin/admin/login
+admin/admin/panel
 admin/admin
 admin/admin.txt
 admin/api
@@ -440,6 +442,17 @@ AOL.txt
 aol.txt
 aols.txt
 aolz.txt
+api/user/info
+api/user
+api/info
+api/test
+api/testing
+api/api
+api/tests
+api/call
+api/infos
+api/data
+api/stats
 api
 API
 api-key.txt
@@ -474,6 +487,8 @@ app/file.php
 app/file.txt
 app/files.php
 app/files.txt
+app/info
+app/stats
 app/storage/
 app/storage/logs/
 app/storage/logs/laravel
