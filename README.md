@@ -39,7 +39,7 @@ Example 1:
 
 ![](https://i.imgur.com/BIYi1dr.png)
 
-Scanning a rando phishing page I found on the [Crypto Phishing Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed). It lets us discover there is an `l.txt` file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc. It also lets us know there is a /controlpanel (commonly cPanel) and /webmail on the box.
+Scanning a rando phishing page I found on the [Crypto Phishing Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed). It lets us discover there is a `l.txt` file on root dir that contains user-agent logs. Could be useful to dig through. Could the very first IPs in the logs belong to the attackers while they were setting it up or testing it? Who else has hit this landing page? etc. It also lets us know there is a /controlpanel (commonly cPanel) and /webmail on the box.
 
 Scam landing page
 
@@ -51,7 +51,7 @@ Discovery of `l.txt` that has user-agent and IP logs in it
 
 Example 2:
 
-Discovery of an open `/scripts/` dir on a scam landing page with some interesting files in it
+Discovery of an open `/scripts/` dir on a scam landing page with some interesting files in it.
 
 ![](https://i.imgur.com/FDZ7fXI.png)
 
