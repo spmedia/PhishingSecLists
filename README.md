@@ -22,7 +22,7 @@ This is a work in progress ██▒▒▒▒▒▒▒▒ 23% - Inspired by [Sec
 protecc ya necc
 
 -------------------
-ABOUT TEH LISTS
+ABOUT TEH LISTS ℹ️
 -------------------
 
 **Wizard.txt** = common filenames and dirs where they might be saving captured credentials, emails, admin and control panel logins, campaign data, etc. A smorgasbord of all targeted industries like finance/crypto/banking/etc.
@@ -30,7 +30,7 @@ ABOUT TEH LISTS
 **Shells.txt** = popular shell file names to scan for
 
 -------------------
-EXAMPLE USAGE
+EXAMPLE USAGE 👀
 -------------------
 
 I like to use [gobuster](https://github.com/OJ/gobuster) for scanning. [ffuf](https://github.com/ffuf/ffuf) is also really nice.
@@ -69,4 +69,8 @@ A scan of a Ledger crypto scam website reveals an `a.txt` which has a list of IP
 
 Discovery of this type of info is awesome! This gives you new enhanced addtional intel to go off of for your investigation and OSINT gathering. Some people really be leaving the wildest and easiest files to discover on their scam and malicious landers.
 
-Greetz to all the CTI and data nerds out there and the DEFCON225 homies who help w scanning!
+-------------------
+Greetz 🙏
+-------------------
+
+All the CTI and data nerds out there, tk0, joohoi, rj2, and all the DEFCON225 homies who help w scanning!
