@@ -13,11 +13,13 @@ To note: this method has a low success rate. Out of scanning 100 unique phishing
 
 When using ffuf, you can dump all your phishing urls into a domains.txt and scan many websites at once to increase your hit percentages.
 
-ex: `ffuf -w domains.txt:DOMAIN -w Wizard.txt -u DOMAIN/FUZZ -c -mc 200 -t 75`
+and then do:
+##
+    ffuf -w domains.txt:DOMAIN -w Wizard.txt -u DOMAIN/FUZZ -c -mc 200 -t 75
 
-![](https://i.giphy.com/media/hQL0xnCrnT3jXn8RJc/giphy.webp)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE0cm53ODhqbHFzdXU3bHlrNDdnYTJrOTlkeGxpdHJ0M3U0NGR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif)
 
-This is a work in progress ██▒▒▒▒▒▒▒▒ 23% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
+This is a work in progress ███▒▒▒▒▒▒▒ 33% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
 
 protecc ya necc
 
