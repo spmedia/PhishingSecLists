@@ -406,6 +406,7 @@ ai.zip
 ai1wm-backups
 Airdrop.txt
 airdrop.txt
+ajax
 ajskdfhk.txt
 akaun.txt
 akaunti.txt
@@ -1300,6 +1301,8 @@ choothanai.txt
 choul.php
 choul.txt
 citigroup.txt
+ckeditor
+ckeditor/ckeditor.js
 claim.txt
 Claim.txt
 claimed.txt
@@ -1490,6 +1493,7 @@ creds2.txt
 credz.txt
 Crime.txt
 crime.txt
+cron
 crypt.html
 crypt.php
 crypt.txt
@@ -1966,6 +1970,7 @@ exploit.zip
 exploited.txt
 exploits.txt
 exploits.zip
+explorer
 export.gzip
 export.html
 export.php
@@ -2493,6 +2498,7 @@ intel.json
 intel.txt
 intel.zip
 interesting.txt
+interface
 internet-banking.html
 internet-banking.php
 internet-banking.txt
@@ -4212,6 +4218,7 @@ results
 Results.txt
 results.txt
 retiro.txt
+reviews
 Right.txt
 right.txt
 ripple.gzip
@@ -4856,6 +4863,13 @@ success.txt
 Success.txt
 success.zip
 success/success.txt
+support
+support.log
+support.logs
+support.txt
+support.zip
+support1.txt
+supports.txt
 surat
 surat.php
 surat.txt
