@@ -11,12 +11,6 @@ Languages represented in the list: English, Spanish, Hindi, Russian, Chinese, Bu
 
 To note: this method has a low success rate. Out of scanning 100 unique phishing/malicious websites, you may only get 4-5 hits BUT the intel you find when you do get a good valid hit is extremely valuable. 
 
-When using ffuf, you can dump all your phishing urls into a domains.txt and scan many websites at once to increase your hit percentages.
-
-and then do:
-##
-    ffuf -w domains.txt:DOMAIN -w Wizard.txt -u DOMAIN/FUZZ -c -mc 200 -t 75
-
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE0cm53ODhqbHFzdXU3bHlrNDdnYTJrOTlkeGxpdHJ0M3U0NGR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif)
 
 This is a work in progress ███▒▒▒▒▒▒▒ 33% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
@@ -75,6 +69,22 @@ While scanning a crypto exchange scam website, the discovery of a `/interface` p
 
 ![](https://i.imgur.com/maI0O5B.png)
 
+
+# Commands / Quick Cheat Sheet 📃
+
+When using ffuf, you can dump all your phishing urls into a domains.txt and scan many websites at once to increase your hit percentages.
+
+and then do:
+##
+    ffuf -w domains.txt:DOMAIN -w Wizard.txt -u DOMAIN/FUZZ -c -mc 200 -t 75
+
+to change the ffuf user-agent (default one is straight up `Fuzz Faster U Fool` which is blocked sometimes by some systems):
+##
+    ffuf -w Wizard.txt -u https://example.com/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"             
+
+to scan with Tor proxies + change user-agent - make sure you to `service tor start` first:
+##
+    ffuf -w Wizard.txt -u https://example.com/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" -x socks5://127.0.0.1:9050
 
 # Greetz 🙏
 
