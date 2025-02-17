@@ -72,13 +72,15 @@ While scanning a crypto exchange scam website, the discovery of a `/interface` p
 
 # Commands / Quick Cheat Sheet 📃
 
+This is just a quick lil reference section to help you increase your odds of finding a hit and getting around certain blocks.
+
 When using ffuf, you can dump all your phishing urls into a domains.txt and scan many websites at once to increase your hit percentages.
 
 and then do:
 ##
     ffuf -w domains.txt:DOMAIN -w Wizard.txt -u DOMAIN/FUZZ -c -mc 200 -t 75
 
-to change the ffuf user-agent (default one is straight up `Fuzz Faster U Fool` which is blocked sometimes by some systems):
+to change the ffuf user-agent (default one is straight up `Fuzz Faster U Fool` which is commonly blocked by some systems):
 ##
     ffuf -w Wizard.txt -u https://example.com/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"             
 
