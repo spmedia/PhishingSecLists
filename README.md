@@ -91,7 +91,7 @@ to scan with Tor proxies + change user-agent - make sure you do `service tor sta
 # Greetz 🙏
 
 
-All the CTI and data nerds out there, tk0, joohoi, rj2, SP, and all the DEFCON225 homies who help w scanning!
+All the CTI and data nerds out there, tk0, joohoi, rj2, SP, and the DEFCON225 homies who help w scanning!
 
 
 # Star History ⭐
