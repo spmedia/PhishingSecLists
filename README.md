@@ -69,6 +69,12 @@ A scan of a Ledger crypto scam website reveals an `a.txt` which has a list of IP
 
 Discovery of this type of info is awesome! This gives you new enhanced addtional intel to go off of for your investigation and OSINT gathering. Some people really be leaving the wildest and easiest files to discover on their scam and malicious landers.
 
+Example 5:
+
+While scanning a crypto exchange scam website, the discovery of a `/interface` page which leads us to a `/top` section. It's some internal invite stats system that shows how many invites have been sent out and how much each invite/user has generated the scammers. No login required to view this. The gmails look like potential victims who are wrapped up in this scam or it could even be the scammers personals emails... good data to investigate off of.
+
+![](https://i.imgur.com/maI0O5B.png)
+
 
 # Greetz 🙏
 
