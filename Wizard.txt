@@ -2074,6 +2074,7 @@ enviar.json
 enviar.php
 enviar.txt
 error
+error_log
 error.txt
 error_fiercephish.log
 errors
@@ -2091,6 +2092,9 @@ ethereum.gzip
 ethereum.php
 Ethereum.txt
 ethereum.txt
+ethereum.rar
+ethereum.html
+ethereum.zip
 ETHwallets.txt
 ethwallets.txt
 euro.txt
