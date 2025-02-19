@@ -1561,6 +1561,7 @@ config/logging.php
 configs
 configs.json
 configs.txt
+confirm.php
 connect.txt
 connection.txt
 connections.txt
@@ -2074,9 +2075,9 @@ enviar.json
 enviar.php
 enviar.txt
 error
-error_log
 error.txt
 error_fiercephish.log
+error_log
 errors
 errors.txt
 etc.txt
@@ -2089,11 +2090,11 @@ ETH.txt
 eth.txt
 Ethereum
 ethereum.gzip
+ethereum.html
 ethereum.php
+ethereum.rar
 Ethereum.txt
 ethereum.txt
-ethereum.rar
-ethereum.html
 ethereum.zip
 ETHwallets.txt
 ethwallets.txt
@@ -3146,6 +3147,7 @@ lives.zip
 ll.txt
 lmao.txt
 lmao.zip
+loading.php
 local
 LOG
 Log
@@ -4900,6 +4902,7 @@ sent.php
 sent.txt
 sents.txt
 September.com
+server.php
 session
 session.txt
 sessions
@@ -5266,6 +5269,7 @@ submitz.txt
 subs
 subs.txt
 success.json
+success.php
 Success.txt
 success.txt
 success.zip
@@ -5306,6 +5310,7 @@ tasjeel_al-dokhool.txt
 tcp.txt
 Tele
 tele
+tele.php
 Telegram
 telegram
 telegram.dat
@@ -5466,6 +5471,7 @@ tests.jpg
 tests.json
 tests.log
 tests.mp4
+tests.php
 tests.png
 tests.rar
 Tests.txt
@@ -5478,6 +5484,7 @@ testsite.html
 testsite.php
 testsite.txt
 testss.php
+testt.php
 testt.txt
 testtest.txt
 testtests.txt
@@ -5632,6 +5639,7 @@ trustwallet.txt
 trx.txt
 tst.txt
 tt.txt
+ttest.php
 tu.gzip
 tu.html
 tu.json
