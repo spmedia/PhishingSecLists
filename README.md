@@ -9,7 +9,9 @@ These lists were compiled by looking at the source code of all the popular phish
 
 Languages represented in the list: Burmese, Cambodian, Chinese, English, Hindi, Indonesian, Khmer, Malay, Russian, Spanish, Swahili, Tamil, Thai.
 
-To note: this method has a low success rate. Out of scanning 100 unique phishing/malicious websites, you may only get 4-5 hits BUT the intel you find when you do get a good valid hit is extremely valuable. 
+To note: this method has a low success rate. Out of scanning 100 unique phishing/malicious websites, you may only get 4-5 hits BUT the intel you find when you do get a good valid hit is extremely valuable.
+
+You can also use this list to find hits when scanning Tor hidden service .onion domains as well. 
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE0cm53ODhqbHFzdXU3bHlrNDdnYTJrOTlkeGxpdHJ0M3U0NGR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif)
 
