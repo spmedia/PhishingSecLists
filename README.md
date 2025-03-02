@@ -71,6 +71,12 @@ While scanning a crypto exchange scam website, the discovery of a `/interface` p
 
 ![](https://i.imgur.com/maI0O5B.png)
 
+Example 6:
+
+Scanning a ransomware groups .onion URL let me find a `/server-status` page that reveals some interesting information...
+
+![](https://i.imgur.com/n08q9ox.png)
+
 
 # Commands / Quick Cheat Sheet 📃
 
@@ -86,9 +92,15 @@ to change the ffuf user-agent (default one is straight up `Fuzz Faster U Fool` w
 ##
     ffuf -w Wizard.txt -u https://example.com/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"             
 
-to scan with Tor proxies + change user-agent - make sure you do `service tor start` first before scanning:
+to scan targets using Tor exit proxies + change user-agent (make sure you do `service tor start` first before scanning):
 ##
     ffuf -w Wizard.txt -u https://example.com/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" -x socks5://127.0.0.1:9050
+
+
+to scan .onion hidden service URLs + change user-agent (make sure you do `service tor start` first before scanning):
+##
+    ffuf -w Wizard.txt -u http://http://oow7rehrxlzpy6vh3hezl2khstkpa6s7wx3iit74tr6xbjibupld5iad.onion/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" -x socks5://127.0.0.1:9050
+    
 
 # Greetz 🙏
 
