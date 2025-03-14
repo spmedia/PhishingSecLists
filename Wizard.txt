@@ -1,3 +1,7 @@
+.git/HEAD
+.git/config
+.git/logs/HEAD
+.git/index
 0
 0.json
 0.mp3
