@@ -6066,6 +6066,9 @@ works.zip
 wot.txt
 wp-admin
 wp-admin.php
+wp-admin/user/index.php
+wp-admin/user
+wp-admin/user/shell.php
 wp-admins.php
 wp-content
 wp-cron.php
