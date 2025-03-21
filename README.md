@@ -105,7 +105,7 @@ to scan .onion hidden service URLs + change user-agent (make sure you do `servic
 # Greetz 🙏
 
 
-All the CTI and data nerds out there, tk0, joohoi, rj2, SP, and the DEFCON225 homies who help w scanning!
+All the CTI and data nerds out there, tk0, joohoi, rj2, SP, <a href="https://cybersecuritystickers.com/">Cybersecurity Stickers</a> and the DEFCON225 homies who help w scanning!
 
 
 # Star History ⭐
