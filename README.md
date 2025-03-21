@@ -99,7 +99,7 @@ to scan targets using Tor exit proxies + change user-agent (make sure you do `se
 
 to scan .onion hidden service URLs + change user-agent (make sure you do `service tor start` first before scanning):
 ##
-    ffuf -w Wizard.txt -u http://http://oow7rehrxlzpy6vh3hezl2khstkpa6s7wx3iit74tr6xbjibupld5iad.onion/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" -x socks5://127.0.0.1:9050
+    ffuf -w Wizard.txt -u http://oow7rehrxlzpy6vh3hezl2khstkpa6s7wx3iit74tr6xbjibupld5iad.onion/FUZZ -c -t 75 -mc 200 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" -x socks5://127.0.0.1:9050
     
 
 # Greetz 🙏
