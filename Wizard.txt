@@ -1051,15 +1051,18 @@ blacklist_ips.txt
 blacklisted.dat
 blacklisted.log
 blacklisted.txt
+blacklisted.zip
 blacklistips.txt
 blacklists
 Blacklists.txt
 blacklists.txt
+blacklists.zip
 block
 block.html
 block.json
 block.php
 block.txt
+block.zip
 Blockchain
 blockchain
 blockchain.json
@@ -1092,6 +1095,7 @@ blocklists.txt
 blocks.html
 blocks.php
 blocks.txt
+blockz.txt
 bnb.txt
 bnet.php
 BOA.txt
@@ -1370,6 +1374,7 @@ ccs1.txt
 ccz
 CCz.txt
 ccz.txt
+ccz.zip
 cdn-cgi/trace
 cell.txt
 ceshi.php
@@ -4033,6 +4038,7 @@ opz.txt
 order.json
 Order.txt
 order.txt
+order.zip
 Ordered.txt
 ordered.txt
 ordering.txt
@@ -4040,6 +4046,7 @@ Orders
 orders
 Orders.txt
 orders.txt
+orders.zip
 otp_files/f(1).txt
 otp_files/f(2).txt
 otp_files/f.txt
@@ -4245,8 +4252,10 @@ payouts.txt
 paypal.txt
 paypals.txt
 pe.txt
+pea.txt
 Peas.txt
 peas.txt
+peaz.txt
 penarikan.txt
 pengujian
 pengujian.php
@@ -4351,6 +4360,7 @@ phuusiahai.php
 phuusiahai.rar
 phuusiahai.txt
 phuusiahai.zip
+pi.txt
 PIC
 Pic
 pic
@@ -4377,6 +4387,7 @@ pics.zip
 PICZ
 Picz
 picz
+pihole.txt
 pills.txt
 pimp.txt
 pimps.txt
@@ -4463,6 +4474,8 @@ proxieshttp.txt
 proxieslist.txt
 proxlist.txt
 proxs.txt
+proxx.txt
+proxxx.txt
 Proxy
 proxy
 proxy.dat
@@ -4534,7 +4547,10 @@ PWS.vbs
 pws.vbs
 pws1.vbs
 pwz.txt
+px.txt
+pxs.txt
 pyphisher.txt
+pz.txt
 q.txt
 qian.gzip
 qian.html
