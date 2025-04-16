@@ -13,7 +13,7 @@ To note: this method has a low success rate. Out of scanning 100 unique phishing
 
 You can also use this list to find hits when scanning Tor hidden service .onion domains as well. 
 
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE0cm53ODhqbHFzdXU3bHlrNDdnYTJrOTlkeGxpdHJ0M3U0NGR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif)
+![](https://i.imgur.com/eiMP4bb.png)
 
 This is a work in progress ███▒▒▒▒▒▒▒ 33% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
 
