@@ -15,7 +15,7 @@ You can also use this list to find hits when scanning Tor hidden service .onion 
 
 ![](https://i.imgur.com/eiMP4bb.png)
 
-This is a work in progress ███▒▒▒▒▒▒▒ 33% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
+This is a work in progress ████▒▒▒▒▒▒ 43% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
 
 protecc ya necc
 
