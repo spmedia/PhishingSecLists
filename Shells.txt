@@ -114,11 +114,14 @@ bypass-login.php
 bypass_RCE_php.gif
 c0derz shell [csh] v. 0.1.1 release.php
 c1.php
+c2.asp
 c2.php
 c3.php
 c4.php
+c66.php
 c99.html
 c99.php
+c999.php
 c999shell.php
 c99_locus7s.php
 c99_madnet.php
@@ -608,8 +611,10 @@ shell.png.php
 shell.sh
 shell.war
 shellcode_generate.py
+shelled.php
 shells.elf
 shells.jsp
+shells.php
 shells.py
 sidedoor
 sidedoor.default
@@ -711,13 +716,17 @@ W3D Shell.php
 Web Shell.asp
 Web Sniffer.aspx
 Web-shell (c)ShAnKaR.php
+web-shell.php
 web.xml
 webacoo.pl
 WebAdmin 2.X Final.aspx
 Webcommander by Cr4sh_aka_RKL v0.3.9 NGH edition.php
 webllehs.py
+webshell.asp
+webshell.aspx
 WebShell.cgi.pl
 WebShell.php
+webshell.php
 webshell.rb
 WebShell系列(一)---XML.txt
 WebSniff 1.0  Powered by  C.C.T.aspx
