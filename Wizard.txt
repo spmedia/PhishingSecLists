@@ -3,10 +3,12 @@
 .git/hooks
 .git/index
 .git/info
+.git/logs
 .git/logs/HEAD
 .git/objects
 .git/refs
 0
+0.csv
 0.json
 0.mp3
 0.php
