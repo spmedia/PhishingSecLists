@@ -1802,7 +1802,10 @@ complaints.txt
 computer.txt
 computers.txt
 config
+config.aspx
 config.dat
+config.html
+config.ini
 config.json
 config.log
 Config.php
@@ -1814,6 +1817,7 @@ config.txt
 config.zip
 config/logging.php
 configs
+configs.ini
 configs.json
 configs.txt
 confirm.php
@@ -3119,6 +3123,7 @@ instant-withdrawal.html
 instant-withdrawal.php
 instant-withdrawal.txt
 instructions.json
+instructions.php
 instructions.txt
 instructions.zip
 insurance.7z
@@ -4914,6 +4919,7 @@ proxies.csv
 proxies.dat
 proxies.gzip
 proxies.html
+proxies.ini
 proxies.json
 proxies.log
 proxies.php
@@ -4940,6 +4946,7 @@ proxy.aspx
 proxy.csv
 proxy.dat
 proxy.html
+proxy.ini
 proxy.json
 proxy.log
 proxy.php
@@ -5481,13 +5488,16 @@ session.txt
 sessions
 sessions.txt
 setoran.txt
+setting.ini
 Setting.txt
 settings.dat
+settings.ini
 Settings.php
 settings.php
 settings.phps
 settings.txt
 setup.7z
+setup.ini
 setup.log
 setup.php
 setup.txt
@@ -5751,6 +5761,7 @@ start-here.php
 start-here.txt
 start.bat
 start.html
+start.ini
 start.php
 start.txt
 started.txt
@@ -5812,6 +5823,7 @@ stocks.txt
 stolen.log
 Stolen.txt
 stolen.txt
+stop.ini
 storage
 storage/log
 storage/log.log
