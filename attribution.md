@@ -1,8 +1,8 @@
 # Attribution Requirements
 
-When using this crypto scam URL threat intelligence feed in your products, services, or research, you must include the following attribution:
+When using this fuzzing list in your products, services, or research, you must include the following attribution:
 
-"This product includes crypto scam threat intelligence data compiled by Edmond Major III."
+"This product includes data compiled by Edmond Major III."
 
 ## Placement of Attribution
 
