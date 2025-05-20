@@ -1,3 +1,5 @@
+.DS_Store
+.env
 .git/config
 .git/HEAD
 .git/hooks
