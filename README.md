@@ -77,6 +77,17 @@ Scanning a ransomware groups .onion URL let me find a `/server-status` page that
 
 ![](https://i.imgur.com/n08q9ox.png)
 
+Example 7:
+
+Fuzzing a crypto exchange scam URL lets us find a `index.zip` that they failed to delete after setup which lets us download the entire phishing landing page. Digging thru the source lets us understand how this scam is setup. Are there hardcoded API keys or wallet addresses? How is the entire thing setup? etc.
+
+![](https://i.imgur.com/QSTm3z0.png)
+
+Example 8:
+
+The discovery of a `/admin/index.html` and `/admin/login.html` using a popular Chinese panel called KIT ADMIN. Hitting the index.html lets us temporarily see the backend admin panel of this scam site before redirecting us to `login.html`. If you stop the redirect using burp, it gives you full unauth'd access to its backend admin panel of the entire scam site 👀😍
+
+![](https://i.imgur.com/U8k3e2r.png)
 
 # Commands / Quick Cheat Sheet 📃
 
