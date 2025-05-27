@@ -85,9 +85,13 @@ Fuzzing a crypto exchange scam URL lets us find a `index.zip` that they failed t
 
 Example 8:
 
-The discovery of a `/admin/index.html` and `/admin/login.html` using a popular Chinese panel called KIT ADMIN. Hitting the index.html lets us temporarily see the backend admin panel of this scam site before redirecting us to `login.html`. If you stop the redirect using burp, it gives you full unauth'd access to its backend admin panel of the entire scam site 👀😍
+The discovery of a `/admin/index.html` and `/admin/login.html` on a crypto scam website that's using a popular Chinese panel called KIT ADMIN. Hitting the index.html lets us temporarily see the backend admin panel of this scam site before redirecting us to `login.html`. If you stop the redirect using burp, it gives you full unauth'd access to its backend admin panel of the entire scam site 👀😍
 
 ![](https://i.imgur.com/U8k3e2r.png)
+
+lol RIP - you now have full access to the scam site and can do whatever you want - we also learn and can see that the admin's name is set to `Van`.
+
+![](https://i.imgur.com/5CJjQZY.png)
 
 # Commands / Quick Cheat Sheet 📃
 
