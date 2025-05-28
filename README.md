@@ -93,6 +93,12 @@ lol RIP - you now have full access to the scam site and can do whatever you want
 
 ![](https://i.imgur.com/5CJjQZY.png)
 
+Example 9:
+
+A curious hit for `in.txt` on a fake crypto exchange phishing site. when we visit it, we see a note left by a hacker who was here before us. kinda awesome! its like a relic from a historical hacker past.
+
+![](https://i.imgur.com/ooIcOe7.png)
+
 # Commands / Quick Cheat Sheet 📃
 
 This is just a quick lil reference section to help you increase your odds of finding a hit and getting around certain blocks.
