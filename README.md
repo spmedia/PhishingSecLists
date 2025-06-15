@@ -89,7 +89,7 @@ The discovery of a `/admin/index.html` and `/admin/login.html` on a crypto scam 
 
 ![](https://i.imgur.com/U8k3e2r.png)
 
-lol RIP - you now have full access to the scam site and can do whatever you want - we also learn and can see that the admin's name is set to `Van`.
+lol RIP - you now have full access to the scam site and can do whatever you want - we also learn and can see that the admin's name is set to `Van`. Van is a common name in Vietnam.
 
 ![](https://i.imgur.com/5CJjQZY.png)
 
