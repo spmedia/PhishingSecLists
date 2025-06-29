@@ -11,6 +11,7 @@
 .git/refs
 0
 0.csv
+0.exe
 0.json
 0.mp3
 0.php
@@ -23,6 +24,7 @@
 0000000.txt
 0123.txt
 1
+1.exe
 1.gif
 1.json
 1.mp3
@@ -31,6 +33,7 @@
 1.txt
 1.zip
 10
+10.exe
 10.txt
 10.zip
 100.txt
@@ -58,6 +61,7 @@
 1337
 1pass.txt
 2
+2.exe
 2.gif
 2.txt
 2.zip
@@ -133,6 +137,7 @@
 2fa.zip
 2fas.txt
 3
+3.exe
 3.php
 3.txt
 3.zip
@@ -146,6 +151,7 @@
 3389.txt
 3rdparty
 4
+4.exe
 4.txt
 4.zip
 40.txt
@@ -156,6 +162,7 @@
 4444.txt
 44444.txt
 5
+5.exe
 5.txt
 5.zip
 50.txt
@@ -167,6 +174,7 @@
 55555.txt
 555555.txt
 6
+6.exe
 6.txt
 6.zip
 60.txt
@@ -177,6 +185,7 @@
 69.txt
 6969.txt
 7
+7.exe
 7.txt
 7.zip
 70.txt
@@ -186,6 +195,7 @@
 7777.txt
 77777.txt
 8
+8.exe
 8.txt
 8.zip
 80.txt
@@ -194,6 +204,7 @@
 888.txt
 8888.txt
 9
+9.exe
 9.txt
 9.zip
 90.txt
@@ -204,6 +215,7 @@
 99999.txt
 a
 a.bak
+a.exe
 a.gif
 a.html
 a.json
@@ -678,6 +690,7 @@ amex.rar
 AMEX.txt
 amex.txt
 amex.zip
+AMEX.zip
 anda.gzip
 anda.html
 anda.json
@@ -914,6 +927,7 @@ ayan.txt
 ayan.zip
 azure.txt
 b.bak
+b.exe
 b.log
 b.mp3
 b.php
@@ -1394,6 +1408,7 @@ bot.bak
 bot.config
 bot.csv
 bot.db
+bot.exe
 bot.gzip
 bot.html
 bot.json
@@ -1448,6 +1463,7 @@ bots.7z
 bots.bak
 bots.csv
 bots.db
+bots.exe
 bots.gzip
 bots.html
 bots.json
@@ -1472,6 +1488,7 @@ botted
 botted.7z
 botted.csv
 botted.db
+botted.exe
 botted.gzip
 botted.json
 botted.php
@@ -1480,6 +1497,7 @@ botted.txt
 botted.zip
 botting.txt
 botz
+botz.exe
 botz.json
 botz.php
 botz.txt
@@ -1541,6 +1559,7 @@ buy.txt
 buy.zip
 buying.txt
 buys.txt
+c.exe
 c.mp3
 c.php
 c.txt
@@ -1786,6 +1805,9 @@ charlie.json
 charlie.txt
 charlie.zip
 chase.txt
+Chase.txt
+Chase.zip
+chase.zip
 Chat
 chat.bak
 chat.config
@@ -1910,7 +1932,13 @@ chks.txt
 choothanai.txt
 choul.php
 choul.txt
+citi.txt
+Citi.txt
+citi.zip
+Citi.zip
 citigroup.txt
+citizens.txt
+citizens.zip
 ckeditor
 ckeditor/ckeditor.js
 Claim.txt
@@ -2205,9 +2233,12 @@ crest.zip
 Crime.txt
 crime.txt
 cron
+crypt.exe
 crypt.html
 crypt.php
 crypt.txt
+cryptd.exe
+crypted.exe
 crypted.txt
 crypter
 crypter.html
@@ -2248,6 +2279,7 @@ customers.txt
 customers.zip
 cutlet.txt
 cutlets.txt
+d.exe
 d.txt
 d.zip
 dai.txt
@@ -2459,6 +2491,7 @@ denglu.php
 denglu.rar
 denglu.txt
 denglu.zip
+deploy.exe
 deposit.html
 deposit.php
 deposit.txt
@@ -2593,6 +2626,7 @@ doxxed.txt
 doxxed.zip
 doxxx.txt
 draftkings.txt
+drain.exe
 drain.php
 drain.txt
 drain.zip
@@ -2600,6 +2634,7 @@ drained.txt
 drained.zip
 drainer
 drainer.7z
+drainer.exe
 drainer.gzip
 drainer.html
 drainer.json
@@ -2609,8 +2644,10 @@ drainer.rar
 drainer.txt
 drainer.zip
 drainers
+drainers.exe
 drainers.txt
 drainers.zip
+draining.exe
 draining.txt
 draining.zip
 drains.txt
@@ -2662,6 +2699,7 @@ DXJS.zip
 e-money.html
 e-money.php
 e-money.txt
+e.exe
 e.php
 e.txt
 e1.txt
@@ -2892,6 +2930,7 @@ extract.txt
 extract.zip
 ezlick.txt
 ezlick.zip
+f.exe
 f.txt
 Facebook.txt
 facebook.txt
@@ -2994,6 +3033,7 @@ files/submitted.txt
 files/valid.txt
 finace.json
 final
+final.exe
 final.html
 final.json
 final.log
@@ -3121,6 +3161,7 @@ FTSP.zip
 fuck.7z
 fuck.txt
 fuck.zip
+fud.7z
 fud.exe
 fud.gzip
 fud.html
@@ -3137,6 +3178,7 @@ full_logs.txt
 Fulls.txt
 fulls.txt
 fullz.txt
+g.exe
 g.txt
 gambar.gzip
 gambar.html
@@ -3219,6 +3261,10 @@ gpt1.txt
 gpt2.txt
 gpt3.txt
 gpt4.txt
+Greendot.txt
+greendot.txt
+Greendot.zip
+greendot.zip
 Grindr.txt
 grindr.txt
 grok.7z
@@ -3265,6 +3311,7 @@ guides.pdf
 guides.txt
 gun.txt
 gun.zip
+h.exe
 h.txt
 h.zip
 hack.csv
@@ -3412,6 +3459,7 @@ HTTPS.txt
 https_proxies.txt
 httpsproxies.txt
 huehue.txt
+i.exe
 i.php
 ibank.html
 ibank.php
@@ -3733,6 +3781,7 @@ istimara.php
 istimara.txt
 italian.txt
 italy.txt
+j.exe
 j.rar
 j.txt
 j.zip
@@ -3782,6 +3831,7 @@ June.zip
 juneproxies.txt
 Junk
 junk
+k.exe
 k.php
 k.rar
 k.txt
@@ -3954,6 +4004,7 @@ kyc.json
 kyc.php
 KYC.txt
 kyc.txt
+l.exe
 l.txt
 L.txt
 l.zip
@@ -4441,6 +4492,7 @@ LOL
 lol
 lol.7z
 lol.bak
+lol.exe
 lol.gzip
 lol.html
 lol.json
@@ -4484,6 +4536,7 @@ lure.php
 lure.txt
 luy.php
 luy.txt
+m.exe
 m.php
 m.txt
 m.zip
@@ -4558,6 +4611,7 @@ main.json
 main.php
 main.txt
 mainnet.txt
+malware.exe
 malware.html
 malware.zip
 Manage
@@ -4900,6 +4954,7 @@ mysqladmin/scripts/setup.php
 mysqldumper/
 mysqlitedb.db
 mysqlmanager/
+n.exe
 n.php
 n.txt
 n.zip
@@ -5070,6 +5125,7 @@ nuzhaivu.php
 nuzhaivu.txt
 nywila.php
 nywila.txt
+o.exe
 o.php
 o.txt
 O.txt
@@ -5268,6 +5324,7 @@ p.txt
 p.zip
 p1.7z
 p1.bmp
+p1.exe
 p1.gzip
 p1.html
 p1.jpg
@@ -5901,6 +5958,7 @@ pyphisher.txt
 pyt.txt
 python.txt
 pz.txt
+q.exe
 q.txt
 q.zip
 qian.gzip
@@ -5941,6 +5999,7 @@ quickstart.html
 quickstart.php
 quickstart.txt
 qwe
+r.exe
 r.php
 r.txt
 r.zip
@@ -6137,6 +6196,7 @@ ruupphaap.html
 ruupphaap.json
 ruupphaap.php
 ruupphaap.txt
+s.exe
 s.php
 s.txt
 s.zip
@@ -6164,6 +6224,7 @@ samarppikka.php
 samarppikka.txt
 sambot-elektronik.php
 sambot-elektronik.txt
+sample.exe
 samsung.txt
 save-karen.gzip
 save-karen.html
@@ -6911,6 +6972,7 @@ synth.txt
 system
 systemlogin
 systempanel
+t.exe
 T.txt
 t.txt
 t.zip
@@ -6981,6 +7043,8 @@ tarik.txt
 tasjeel_al-dokhool.php
 tasjeel_al-dokhool.txt
 tcp.txt
+tdbank.txt
+tdbank.zip
 Tele
 tele
 tele.php
@@ -7165,6 +7229,7 @@ testing.bak
 testing.csv
 testing.dat
 testing.db
+testing.exe
 testing.gzip
 testing.html
 testing.jpg
@@ -7205,6 +7270,7 @@ tests
 tests.7z
 tests.bak
 tests.csv
+tests.exe
 tests.gzip
 tests.html
 tests.jpg
@@ -7228,6 +7294,7 @@ testsite.txt
 testss.php
 testss.txt
 testsss.txt
+testt.exe
 testt.php
 testt.txt
 testtest.json
@@ -7446,6 +7513,7 @@ twitters.txt
 two.txt
 txt.php
 txt.txt
+u.exe
 u.txt
 u.zip
 uang.txt
@@ -7542,6 +7610,12 @@ US.txt
 us.txt
 USA.txt
 usa.txt
+usaa.txt
+USAA.txt
+USAA.zip
+usaa.zip
+usbank.txt
+usbank.zip
 usd.txt
 usdc.gzip
 usdc.json
@@ -7651,6 +7725,7 @@ uuu.zip
 uwu.json
 uwu.txt
 uwu.zip
+v.exe
 v.txt
 v.zip
 v2.0
@@ -8033,6 +8108,7 @@ www.rar
 www.txt
 www.zip
 wwww.txt
+x.exe
 x.json
 x.mp3
 x.php
@@ -8057,6 +8133,7 @@ xxx.txt
 xxx.zip
 xxxx.txt
 xyz.txt
+y.exe
 y.php
 y.txt
 y.zip
@@ -8101,6 +8178,7 @@ yutyaakar.txt
 yy.txt
 yy.zip
 yyy.zip
+z.exe
 z.php
 z.rar
 z.txt
@@ -8175,4 +8253,4 @@ zzzzz.txt
 форма.txt
 электронная почта
 электронная-почта.php
-электронная_почта.txt
+электронная_почта.txt'
