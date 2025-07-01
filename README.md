@@ -5,7 +5,7 @@ By finding their victim or target lists, you can help prevent further harm. If y
 
 The websites of Threat Actors make perfect targets to scan and cut your teeth on. What are they gunna do? Report you to teh cops? lol
 
-These lists were compiled by looking at the source code of all the popular phishing tool kits out there (blackeye, SET, evilginx2, zphisher, etc) to find what they saved files as, honeypots, and combing through active abuse reports + live phishing landing pages.
+These lists were compiled by looking at the source code of all the popular phishing tool kits out there (blackeye, SET, evilginx2, zphisher, etc) to find what they saved files as, honeypots, and combing through active abuse reports, sitting in skid fraudster chats, + live phishing landing pages.
 
 Languages represented in the list: Burmese, Cambodian, Chinese, English, Hindi, Indonesian, Khmer, Malay, Russian, Spanish, Swahili, Tamil, Thai.
 
