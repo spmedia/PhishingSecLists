@@ -338,6 +338,9 @@ address.zip
 addresses.csv
 addresses.json
 addy.txt
+addy.zip
+addys.txt
+addys.zip
 ADMIN
 Admin
 admin
@@ -2673,6 +2676,10 @@ deploy.exe
 depo.csv
 depo.txt
 depo.zip
+depod.txt
+depod.zip
+depoed.txt
+depoed.zip
 deposit.html
 deposit.php
 deposit.txt
@@ -2743,6 +2750,8 @@ disimpan.html
 disimpan.json
 disimpan.php
 disimpan.txt
+dns.txt
+dns.zip
 do_not_delete.txt
 docker-compose.yml
 Docs
@@ -3405,6 +3414,7 @@ fullz.txt
 g.csv
 g.exe
 g.txt
+g.zip
 gambar.gzip
 gambar.html
 gambar.json
@@ -3414,6 +3424,9 @@ gandalf.txt
 gay.txt
 gbot
 gbot.html
+gc.csv
+gc.txt
+gc.zip
 gemini.csv
 gemini.txt
 gemini.zip
@@ -8284,6 +8297,7 @@ watt.txt
 way.json
 way.txt
 wbtc.txt
+wdym.txt
 webmail
 webmail.php
 Webpages
