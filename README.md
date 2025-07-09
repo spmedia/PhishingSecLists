@@ -104,6 +104,27 @@ Example 10:
 
 A hit for `data.zip` on a crypto scam website in the root dir. DLing it lets us access the source code for the entire website and see how they have it setup and it contains hardcoded creds, crypto wallet addresses, and api keys. The `.DS_Store` hit is also interesting, it lets us know the opps behind the site are macOS users. 
 
+From the source code, its seemingly some China scammer bros.
+
+```
+//授权地址
+let address = 'TFRsDKmRBqJXEJFFcq8Gzmoo9otg6aUre8'
+```
+
+&
+
+```
+async function ethBalance() {
+    getWeb3().then(async res => {
+        window.web3 = res;
+        let contractAddress = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
+        window.contract = new window.web3.eth.Contract(
+            ABI,
+            contractAddress
+        );
+        // todo 获取地址
+```
+
 ![](https://i.imgur.com/YEOiGb7.png)
 
 # Commands / Quick Cheat Sheet 📃
