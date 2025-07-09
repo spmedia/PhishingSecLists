@@ -102,7 +102,7 @@ A curious hit for `in.txt` on a fake crypto exchange phishing site. when we visi
 
 Example 10:
 
-A hit for `data.zip` on a crypto scam website in the root dir. DLing it lets us access the source code for the entire website and see how they have it setup and it contains hardcoded creds and api keys. The `.DS_Store` hit is also interesting, it lets us know the opps behind the site are macOS users. 
+A hit for `data.zip` on a crypto scam website in the root dir. DLing it lets us access the source code for the entire website and see how they have it setup and it contains hardcoded creds, crypto wallet addresses, and api keys. The `.DS_Store` hit is also interesting, it lets us know the opps behind the site are macOS users. 
 
 ![](https://i.imgur.com/YEOiGb7.png)
 
