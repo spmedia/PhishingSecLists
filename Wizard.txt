@@ -10,11 +10,14 @@
 .git/objects
 .git/refs
 0
+0.bat
 0.csv
 0.exe
+0.ini
 0.json
 0.mp3
 0.php
+0.ps1
 0.txt
 00.php
 00.txt
@@ -24,18 +27,24 @@
 0000000.txt
 0123.txt
 1
+1.bat
 1.csv
 1.exe
 1.gif
+1.ini
 1.json
 1.mp3
 1.pdf
 1.php
+1.ps1
 1.txt
 1.zip
 10
+10.bat
 10.csv
 10.exe
+10.ini
+10.ps1
 10.txt
 10.zip
 100.csv
@@ -52,6 +61,7 @@
 10000000.txt
 100000000.txt
 11.csv
+11.ps1
 11.txt
 111.txt
 1111.txt
@@ -77,9 +87,12 @@
 19.csv
 1pass.txt
 2
+2.bat
 2.csv
 2.exe
 2.gif
+2.ini
+2.ps1
 2.txt
 2.zip
 20.csv
@@ -156,9 +169,12 @@
 2fa.zip
 2fas.txt
 3
+3.bat
 3.csv
 3.exe
+3.ini
 3.php
+3.ps1
 3.txt
 3.zip
 30.txt
@@ -172,8 +188,10 @@
 3389.txt
 3rdparty
 4
+4.bat
 4.csv
 4.exe
+4.ps1
 4.txt
 4.zip
 40.txt
@@ -185,8 +203,11 @@
 4444.txt
 44444.txt
 5
+5.bat
 5.csv
 5.exe
+5.ini
+5.ps1
 5.txt
 5.zip
 50.txt
@@ -199,8 +220,11 @@
 55555.txt
 555555.txt
 6
+6.bat
 6.csv
 6.exe
+6.ini
+6.ps1
 6.txt
 6.zip
 60.txt
@@ -212,8 +236,11 @@
 69.txt
 6969.txt
 7
+7.bat
 7.csv
 7.exe
+7.ini
+7.ps1
 7.txt
 7.zip
 70.txt
@@ -224,8 +251,11 @@
 7777.txt
 77777.txt
 8
+8.bat
 8.csv
 8.exe
+8.ini
+8.ps1
 8.txt
 8.zip
 80.txt
@@ -235,8 +265,11 @@
 888.txt
 8888.txt
 9
+9.bat
 9.csv
 9.exe
+9.ini
+9.ps1
 9.txt
 9.zip
 90.txt
@@ -258,6 +291,7 @@ a.log
 a.mp3
 a.pdf
 a.php
+a.ps1
 a.txt
 a.zip
 a1.txt
@@ -331,8 +365,10 @@ ADA.txt
 ada.txt
 ada.zip
 addies.txt
+address.bin
 address.csv
 address.html
+address.ini
 address.json
 address.zip
 addresses.csv
@@ -996,6 +1032,7 @@ b.exe
 b.log
 b.mp3
 b.php
+b.ps1
 b.txt
 b.zip
 b1.txt
@@ -1374,6 +1411,7 @@ bitcoin.csv
 bitcoin.dat
 bitcoin.gzip
 bitcoin.html
+bitcoin.ini
 Bitcoin.json
 bitcoin.json
 bitcoin.log
@@ -1529,6 +1567,7 @@ borang.txt
 BOT
 bot
 bot.bak
+bot.bat
 bot.config
 bot.csv
 bot.db
@@ -1561,6 +1600,7 @@ botnet.bak
 botnet.csv
 botnet.json
 botnet.php
+botnet.ps1
 botnet.txt
 botnet1.txt
 botnet2.txt
@@ -1585,6 +1625,7 @@ Bots
 bots
 bots.7z
 bots.bak
+bots.bat
 bots.csv
 bots.db
 bots.exe
@@ -1675,6 +1716,7 @@ btc.bak
 btc.csv
 btc.gzip
 btc.html
+btc.ini
 btc.jpeg
 btc.jpg
 btc.json
@@ -1701,6 +1743,7 @@ c.csv
 c.exe
 c.mp3
 c.php
+c.ps1
 c.txt
 c.zip
 c2.bmp
@@ -2306,6 +2349,8 @@ concha.rar
 concha.txt
 config
 config.aspx
+config.bat
+config.bin
 config.dat
 config.html
 config.ini
@@ -2320,9 +2365,11 @@ config.txt
 config.zip
 config/logging.php
 configs
+configs.bin
 configs.ini
 configs.json
 configs.txt
+configuration.ini
 confirm.php
 connect.txt
 connection.txt
@@ -2501,6 +2548,7 @@ cutlet.txt
 cutlets.txt
 d.csv
 d.exe
+d.ps1
 d.txt
 d.zip
 dai.txt
@@ -2540,17 +2588,25 @@ darknet.txt
 darknet.zip
 dashpanel
 data
+data.bin
 data.csv
+data.dat
 data.gzip
+data.ini
 data.json
+data.nfo
 data.php
 data.rar
 data.txt
 data.zip
+data1.bin
 data1.csv
+data2.bin
 data2.csv
 data2025.txt
+data3.bin
 data3.csv
+data4.bin
 Database
 database
 database.json
@@ -2680,13 +2736,16 @@ demo
 demo.7z
 demo.aspx
 demo.bak
+demo.bin
 demo.csv
 demo.gzip
 demo.html
+demo.ini
 demo.jpg
 demo.json
 demo.mp3
 demo.mp4
+demo.nfo
 demo.php
 demo.png
 demo.rar
@@ -2962,6 +3021,7 @@ e-money.txt
 e.csv
 e.exe
 e.php
+e.ps1
 e.txt
 e1.txt
 earn.bmp
@@ -3128,6 +3188,7 @@ eth.bak
 eth.csv
 eth.gzip
 eth.html
+eth.ini
 eth.json
 ETH.log
 eth.log
@@ -3151,13 +3212,16 @@ euro.txt
 european.txt
 europeans.txt
 euros.txt
+everything.ini
 EXAMPLE
 example
 example.config
 example.db
 example.html
+example.ini
 example.json
 example.mp3
+example.nfo
 example.png
 Example.txt
 example.txt
@@ -3171,6 +3235,7 @@ exchange.php
 exchange.txt
 exchanges.php
 exchanges.txt
+execute.bat
 exfil.txt
 exfil.zip
 exfilled.txt
@@ -3192,6 +3257,7 @@ exploited.txt
 exploits.txt
 exploits.zip
 explorer
+export.bat
 export.gzip
 export.html
 export.php
@@ -3216,6 +3282,7 @@ ezlick.txt
 ezlick.zip
 f.csv
 f.exe
+f.ps1
 f.txt
 faai.csv
 faai.txt
@@ -3483,6 +3550,7 @@ fulls.txt
 fullz.txt
 g.csv
 g.exe
+g.ps1
 g.txt
 g.zip
 gambar.gzip
@@ -3637,6 +3705,7 @@ gv.txt
 gv.zip
 h.csv
 h.exe
+h.ps1
 h.txt
 h.zip
 hack.csv
@@ -3855,6 +3924,7 @@ imgg
 IMGS
 imgs
 imgz
+import.bat
 in.html
 in.php
 in.txt
@@ -4122,6 +4192,7 @@ italian.txt
 italy.txt
 j.csv
 j.exe
+j.ps1
 j.rar
 j.txt
 j.zip
@@ -4174,6 +4245,7 @@ junk
 k.csv
 k.exe
 k.php
+k.ps1
 k.rar
 k.txt
 k.zip
@@ -4357,6 +4429,7 @@ kys.txt
 kys.zip
 l.csv
 l.exe
+l.ps1
 l.txt
 L.txt
 l.zip
@@ -4397,6 +4470,8 @@ last_name.txt
 lastname.txt
 lastpass
 lastpass.txt
+Launch.ps1
+launch.ps1
 lawha.php
 lawha.txt
 lead.csv
@@ -4585,6 +4660,8 @@ llms.txt
 lmao.json
 lmao.txt
 lmao.zip
+load.bat
+loader.bat
 loading.php
 local
 LOG
@@ -4911,6 +4988,7 @@ luy.txt
 m.csv
 m.exe
 m.php
+m.ps1
 m.txt
 m.zip
 made.txt
@@ -5341,6 +5419,7 @@ mysqlmanager/
 n.csv
 n.exe
 n.php
+n.ps1
 n.txt
 n.zip
 naan.gzip
@@ -5522,6 +5601,7 @@ nywila.txt
 o.csv
 o.exe
 o.php
+o.ps1
 o.txt
 O.txt
 o.zip
@@ -5716,6 +5796,7 @@ own.txt
 owns.txt
 p.csv
 p.exe
+p.ps1
 p.txt
 p.zip
 p1.7z
@@ -5937,6 +6018,8 @@ paunggu.txt
 paunggu.zip
 paxful
 pay.txt
+payload.ps1
+payload_1.ps1
 payment_request.php
 payments.txt
 paymentt.txt
@@ -6386,6 +6469,7 @@ python.txt
 pz.txt
 q.csv
 q.exe
+q.ps1
 q.txt
 q.zip
 qian.gzip
@@ -6429,6 +6513,7 @@ qwe
 r.csv
 r.exe
 r.php
+r.ps1
 r.txt
 r.zip
 ramp.txt
@@ -6640,6 +6725,7 @@ ruupphaap.txt
 s.csv
 s.exe
 s.php
+s.ps1
 s.txt
 s.zip
 sadgawe.txt
@@ -6687,10 +6773,13 @@ save-kiya.json
 save-kiya.php
 save-kiya.txt
 save.7z
+save.bat
+save.bin
 save.csv
 save.dat
 save.gzip
 save.html
+save.ini
 save.json
 save.log
 save.mp3
@@ -6702,10 +6791,12 @@ save.zip
 save1.txt
 Saved
 saved
+saved.bat
 saved.csv
 saved.dat
 saved.gzip
 saved.html
+saved.ini
 saved.json
 saved.log
 saved.mp3
@@ -6718,6 +6809,7 @@ saved/saved.txt
 saved1.txt
 SavedNetworks.txt
 saves.gzip
+saves.ini
 saves.json
 saves.log
 saves.mp3
@@ -6959,11 +7051,14 @@ settings.php
 settings.phps
 settings.txt
 setup.7z
+setup.bat
 setup.ini
 setup.log
 setup.php
+setup.ps1
 setup.txt
 setup.zip
+setups.ini
 setups.txt
 seu.gzip
 seu.html
@@ -7277,6 +7372,7 @@ start.bat
 start.html
 start.ini
 start.php
+start.ps1
 start.txt
 started.txt
 startup.bat
@@ -7372,6 +7468,7 @@ submit.asp
 submit.csv
 submit.db
 submit.gzip
+submit.ini
 submit.js
 submit.json
 submit.log
@@ -7381,6 +7478,7 @@ submit.txt
 Submits
 submits
 submits.csv
+submits.ini
 submits.json
 submits.log
 submits.php
@@ -7432,6 +7530,7 @@ systemlogin
 systempanel
 t.csv
 t.exe
+t.ps1
 T.txt
 t.txt
 t.zip
@@ -7591,6 +7690,7 @@ test-sites.php
 test-sites.txt
 test.7z
 test.bak
+test.bin
 test.bmp
 test.config
 test.csv
@@ -7602,6 +7702,7 @@ test.gif
 test.gzip
 test.html
 TEST.html
+test.ini
 test.jpeg
 test.JPG
 test.jpg
@@ -7632,6 +7733,7 @@ test1.html
 test1.json
 test1.mp3
 test1.php
+test1.ps1
 test1.txt
 test1.zip
 test10.html
@@ -7643,6 +7745,7 @@ test2.csv
 test2.html
 test2.json
 test2.php
+test2.ps1
 test2.txt
 test2.zip
 test2025.txt
@@ -7702,6 +7805,7 @@ testing.db
 testing.exe
 testing.gzip
 testing.html
+testing.ini
 testing.jpg
 testing.json
 testing.log
@@ -7743,6 +7847,7 @@ tests.csv
 tests.exe
 tests.gzip
 tests.html
+tests.ini
 tests.jpg
 tests.json
 tests.log
@@ -7989,6 +8094,7 @@ txt.php
 txt.txt
 u.csv
 u.exe
+u.ps1
 u.txt
 u.zip
 uang.txt
@@ -8206,6 +8312,7 @@ uwu.txt
 uwu.zip
 v.csv
 v.exe
+v.ps1
 v.txt
 v.zip
 v2.0
@@ -8623,6 +8730,7 @@ x.exe
 x.json
 x.mp3
 x.php
+x.ps1
 x.txt
 x.zip
 xai.txt
@@ -8649,6 +8757,7 @@ xyz.txt
 y.csv
 y.exe
 y.php
+y.ps1
 y.txt
 y.zip
 yahoo.csv
@@ -8698,6 +8807,7 @@ yyy.zip
 z.csv
 z.exe
 z.php
+z.ps1
 z.rar
 z.txt
 z.zip
