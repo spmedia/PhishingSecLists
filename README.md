@@ -1,4 +1,6 @@
 # PhishingSecLists
+Verily, this be the most potent remedy against crypto and phishing malfeasance, traveller 🧙‍♂️
+
 To be used with scanning tools like [GoBuster](https://github.com/OJ/gobuster), [ffuf](https://github.com/ffuf/ffuf), Burp Suite, and DirBuster but these lists are specifically tailored and designed for scanning/fuzzing phishing <>< landing pages and other malicious or sketch af websites.
 
 By finding their victim or target lists, you can help prevent further harm. If you can peer behind the curtain of their operation(s), you can dismantle em. Finding these files will give you a lot of valuable intel to pivot from or act on.
