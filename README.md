@@ -111,7 +111,7 @@ A hit for `data.zip` on a crypto scam website in the root dir. DLing it lets us 
 From the source code, its seemingly some China scammer bros.
 
 ```
-//授权地址
+//授权地址 (translated == Authorized address)
 let address = 'TFRsDKmRBqJXEJFFcq8Gzmoo9otg6aUre8'
 ```
 
@@ -126,7 +126,7 @@ async function ethBalance() {
             ABI,
             contractAddress
         );
-        // todo 获取地址
+        // todo 获取地址 (translated == Get address)
 ```
 
 # Commands / Quick Cheat Sheet 📃
