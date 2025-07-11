@@ -110,13 +110,15 @@ A hit for `data.zip` on a crypto scam website in the root dir. DLing it lets us 
 
 From the source code, its seemingly some China scammer bros.
 
+(translated == Authorized address)
 ```
-//授权地址 (translated == Authorized address)
+//授权地址 
 let address = 'TFRsDKmRBqJXEJFFcq8Gzmoo9otg6aUre8'
 ```
 
 &
 
+(translated == Get address)
 ```
 async function ethBalance() {
     getWeb3().then(async res => {
@@ -126,8 +128,9 @@ async function ethBalance() {
             ABI,
             contractAddress
         );
-        // todo 获取地址 (translated == Get address)
+        // todo 获取地址
 ```
+
 
 # Commands / Quick Cheat Sheet 📃
 
