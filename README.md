@@ -22,7 +22,7 @@ protecc ya necc
 
 # ABOUT TEH LISTS ℹ️
 
-**Wizard.txt** = common filenames and dirs where they might be saving captured credentials, emails, admin and control panel logins, campaign data, etc. A smorgasbord of all targeted industries like finance/crypto/banking/etc.
+**Wizard.txt** = beware traveller, this sacred scroll holds dominion over the darkest crypto enchantments. common filenames and dirs where they might be saving captured credentials, emails, admin and control panel logins, campaign data, etc. A smorgasbord of all targeted industries like finance/crypto/banking/etc.
 
 **Shells.txt** = popular shell file names to scan for
 
