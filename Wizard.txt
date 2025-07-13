@@ -751,6 +751,8 @@ aio.zip
 Airdrop.txt
 airdrop.txt
 ajax
+ajebo.txt
+ajebo.zip
 ajskdfhk.txt
 akaun.txt
 akaunti.txt
@@ -2224,6 +2226,8 @@ chk.txt
 chked.txt
 chks.txt
 choothanai.txt
+chop.txt
+chop.zip
 choul.php
 choul.txt
 Citi.txt
@@ -3064,6 +3068,8 @@ dompet.html
 dompet.json
 dompet.php
 dompet.txt
+don.txt
+don.zip
 done.dat
 done.log
 done.txt
@@ -3843,6 +3849,8 @@ gambar.txt
 gandalf.txt
 gay.txt
 gaza.txt
+gbege.txt
+gbege.zip
 gbot
 gbot.html
 gc.csv
@@ -4729,6 +4737,8 @@ kkkk.txt
 kkkkk.txt
 Klean.txt
 Kleans.txt
+kleg.txt
+kleg.zip
 known.txt
 kolaop.gzip
 kolaop.html
@@ -4741,6 +4751,8 @@ kongzhimianban.php
 kongzhimianban.txt
 kpanel.php
 kpanel/
+kpk.txt
+kpk.zip
 Kraken
 kraken.7z
 kraken.bmp
@@ -5590,6 +5602,8 @@ memes.txt
 memlogin/
 meng.txt
 meng.zip
+ment.txt
+ment.zip
 menu.json
 Meow
 meow
@@ -8603,6 +8617,8 @@ tuhao.zip
 tujing.txt
 tujing.zip
 tuku
+tule.txt
+tule.zip
 tuma
 tuma.php
 tuma.txt
