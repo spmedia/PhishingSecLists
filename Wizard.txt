@@ -326,6 +326,8 @@ aap.json
 aap.php
 aap.txt
 abc.txt
+abeg.txt
+abeg.zip
 abhiyan.txt
 abuse.txt
 abuse.zip
@@ -1059,6 +1061,8 @@ ayan.php
 ayan.rar
 ayan.txt
 ayan.zip
+aza.txt
+aza.zip
 azure.txt
 b.bak
 b.csv
@@ -2202,6 +2206,8 @@ china_emails.txt
 china_emails.zip
 chinaemail.txt
 chinamail.txt
+chineke.txt
+chineke.zip
 chinese.txt
 Chinese.txt
 Chinese.zip
@@ -2438,6 +2444,8 @@ commands.ps1
 commands.txt
 comms.php
 comms.txt
+comot.txt
+comot.zip
 complaint.txt
 complaints.txt
 computer.txt
@@ -2802,12 +2810,16 @@ debug/stats
 debugged.json
 debugger.html
 debugger.php
+debugger.txt
+debugger.zip
 debugging.html
 debugging.json
 debugging.php
 debugging.txt
 debugs.html
 debugs.json
+debugs.txt
+debugs.zip
 dec.txt
 Dec.zip
 dec.zip
@@ -2955,6 +2967,8 @@ Desktop.zip
 desktop.zip
 developer.txt
 devops.txt
+dey.txt
+dey.zip
 diachi.gzip
 diachi.html
 diachi.log
@@ -4034,6 +4048,11 @@ hashes.log
 hashes.txt
 hashes.zip
 hbar.txt
+head.php
+head.zip
+header.php
+header.txt
+header.zip
 healhcare.txt
 health.rar
 health.txt
@@ -4538,6 +4557,9 @@ Jan.zip
 jan.zip
 janproxies.txt
 January.txt
+japa.json
+japa.txt
+japa.zip
 jaribio
 jaribio.php
 jaribio.txt
@@ -4802,6 +4824,8 @@ larp.zip
 larps.csv
 larps.txt
 larps.zip
+laslas.txt
+laslas.zip
 last.json
 last.txt
 last_name.txt
@@ -5343,6 +5367,8 @@ m.zip
 made.txt
 made.zip
 mafia.txt
+mafo.txt
+mafo.zip
 magic.txt
 MAIL
 mail
@@ -6069,6 +6095,8 @@ old2.txt
 old3.txt
 omg.txt
 omg.zip
+omo.txt
+omo.zip
 on.txt
 on.zip
 ong.txt
@@ -7157,6 +7185,10 @@ sample.exe
 sample1.csv
 sample2.csv
 samsung.txt
+sapa.gzip
+sapa.json
+sapa.txt
+sapa.zip
 save-karen.gzip
 save-karen.html
 save-karen.json
@@ -7911,6 +7943,7 @@ stores.zip
 string_attach.txt
 sub
 sub.txt
+sub.zip
 sub7.txt
 subject.gzip
 subject.json
@@ -7956,6 +7989,7 @@ Submitted.zip
 submitting.csv
 submitz.txt
 Submitz.zip
+submitz.zip
 submitzz.txt
 submitzzz.txt
 subs
@@ -8989,8 +9023,10 @@ w.csv
 w.txt
 w.zip
 wahala
+wahala.json
 wahala.php
 wahala.txt
+wahala.zip
 wallet
 wallet.csv
 wallet.dat
@@ -9047,6 +9083,8 @@ wats.txt
 watt.txt
 way.json
 way.txt
+wayo.txt
+wayo.zip
 wbtc.txt
 wdym.txt
 webmail
@@ -9078,6 +9116,8 @@ welcome.zip
 wellsfargo.txt
 went.txt
 werasd.txt
+wetin.txt
+wetin.zip
 wewe.php
 wewe.txt
 wget.txt
