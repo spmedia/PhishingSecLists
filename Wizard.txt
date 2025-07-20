@@ -1,5 +1,7 @@
 .DS_Store
 .env
+.env.local
+.env.production
 .git/config
 .git/HEAD
 .git/hooks
@@ -9,6 +11,7 @@
 .git/logs/HEAD
 .git/objects
 .git/refs
+.htaccess
 0
 0.bat
 0.csv
@@ -950,6 +953,7 @@ apple
 apple.txt
 apple.zip
 apples.txt
+application.log
 approach.txt
 apps
 Apps.txt
@@ -1056,6 +1060,8 @@ avax.txt
 avax.zip
 awsl.txt
 awsl.zip
+axe.txt
+axe.zip
 ayan.gzip
 ayan.html
 ayan.log
@@ -1812,6 +1818,7 @@ cachdanhsach.php
 cachdanhsach.rar
 cachdanhsach.txt
 cachdanhsach.zip
+cache.php
 cad.txt
 caidat.gzip
 caidat.html
@@ -1928,9 +1935,12 @@ campaign.html
 campaign.php
 campaign.txt
 campaign.zip
+campaign1.txt
+campaign1.zip
 campaigns.html
 campaigns.php
 campaigns.txt
+campaigns.zip
 campana.txt
 CAMS
 Cams
@@ -2296,6 +2306,8 @@ cleans.txt
 cleans.zip
 cleans1.txt
 cleanz.txt
+clear.php
+clientaccesspolicy.xml
 Clipboard.txt
 clone.txt
 clone.zip
@@ -2629,6 +2641,7 @@ crest.zip
 Crime.txt
 crime.txt
 cron
+crossdomain.xml
 crypt.exe
 crypt.html
 crypt.php
@@ -2682,6 +2695,8 @@ customers.txt
 customers.zip
 cutlet.txt
 cutlets.txt
+cve.txt
+cves.txt
 d.csv
 d.exe
 d.ps1
@@ -2741,6 +2756,7 @@ data.json
 data.nfo
 data.php
 data.rar
+data.sql
 data.txt
 Data.txt
 data.zip
@@ -2778,6 +2794,7 @@ data9.zip
 Database
 database
 database.json
+database.sql
 database.txt
 database.zip
 Databases
@@ -2793,6 +2810,7 @@ davai.zip
 db.csv
 db.gzip
 db.json
+db.sql
 db.sql.bz2
 db.txt
 db.zip
@@ -2827,9 +2845,16 @@ DEBUG
 Debug
 debug
 debug.7z
+debug.asp
+debug.aspx
+debug.cgi
 debug.html
 debug.json
+debug.jsp
+debug.log
 debug.php
+debug.pl
+debug.py
 debug.rar
 Debug.txt
 debug.txt
@@ -2975,6 +3000,8 @@ depod.txt
 depod.zip
 depoed.txt
 depoed.zip
+depos.txt
+depos.zip
 deposit.html
 deposit.php
 deposit.txt
@@ -2993,8 +3020,14 @@ desktop
 desktop.txt
 Desktop.zip
 desktop.zip
+dev.php
+dev.txt
+dev.zip
 developer.txt
+development.php
 devops.txt
+devtest.txt
+devtest.zip
 dey.txt
 dey.zip
 diachi.gzip
@@ -3181,6 +3214,7 @@ Dump
 dump
 dump.dat
 dump.log
+dump.sql
 dump.txt
 Dumped
 dumped
@@ -3193,6 +3227,7 @@ Dumps
 dumps
 dumps.dat
 dumps.log
+dumps.sql
 dumps.txt
 dumpss.txt
 dumpz
@@ -3274,6 +3309,7 @@ email.log
 email.php
 email.png
 email.rar
+email.sql
 EMAIL.txt
 email.txt
 email.zip
@@ -3343,6 +3379,7 @@ emails.json
 emails.log
 emails.php
 emails.rar
+emails.sql
 emails.txt
 EMAILS.txt
 Emails.txt
@@ -3397,6 +3434,7 @@ erbaiwu.zip
 erbi.txt
 erbi.zip
 error
+error.log
 error.txt
 error_fiercephish.log
 error_log
@@ -3777,6 +3815,7 @@ flow.txt
 Flows
 Flows.txt
 flows.txt
+flush.php
 fomu
 fomu.php
 fomu.txt
@@ -3959,6 +3998,7 @@ gmails.zip
 Gmails.zip
 go.bat
 go.ps1
+go.py
 go.txt
 go.zip
 god.txt
@@ -4274,7 +4314,12 @@ HTTPS.txt
 https.txt
 https_proxies.txt
 httpsproxies.txt
+hue.txt
+hue.zip
 huehue.txt
+huehue.zip
+huehuehue.txt
+huehuehue.zip
 huy.txt
 huy.zip
 i.csv
@@ -4631,6 +4676,9 @@ j.rar
 j.txt
 j.zip
 jaja.txt
+jaja.zip
+jajaja.txt
+jajaja.zip
 jama.txt
 jamaa-karen.gzip
 jamaa-karen.html
@@ -4756,6 +4804,8 @@ keylogged.txt
 keylogger.dat
 keylogger.txt
 keylogs.txt
+keyz.txt
+keyz.zip
 khaosurabop.gzip
 khaosurabop.html
 khaosurabop.json
@@ -4929,6 +4979,7 @@ lastpass
 lastpass.txt
 Launch.ps1
 launch.ps1
+launch.py
 lawha.php
 lawha.txt
 lead.csv
@@ -5278,6 +5329,7 @@ logins.log
 logins.php
 logins.png
 logins.rar
+logins.sql
 Logins.txt
 logins.txt
 logins.zip
@@ -5475,6 +5527,7 @@ mail.json
 mail.log
 mail.php
 mail.rar
+mail.sql
 mail.txt
 Mail.txt
 mail.zip
@@ -5528,6 +5581,7 @@ mails.bak
 mails.html
 mails.json
 mails.php
+mails.sql
 mails.txt
 mails.zip
 mails1.txt
@@ -6192,6 +6246,7 @@ okx.txt
 okx.zip
 old
 old.dat
+old.php
 old.txt
 old.zip
 old1.txt
@@ -6764,6 +6819,8 @@ pinyin.zip
 pirachaaram.txt
 PIX
 pix
+pixel.txt
+pixel.zip
 pizdets.txt
 pizdets.zip
 places.txt
@@ -6973,6 +7030,8 @@ pukgai.csv
 pukgai.txt
 pukgai.zip
 pul.txt
+pump.txt
+pump.zip
 purchase.rar
 purchases.rar
 push.txt
@@ -7181,6 +7240,7 @@ rerm.txt
 rerun.txt
 rerun.zip
 reservado.txt
+reset.php
 resets.txt
 resets.zip
 result.txt
@@ -7247,6 +7307,7 @@ rrr.zip
 RU.txt
 ru.txt
 run.ps1
+run.py
 run.txt
 rus.txt
 Russia.txt
@@ -7461,6 +7522,7 @@ scheta.txt
 script
 script.php
 script.ps1
+script.py
 script.txt
 script.zip
 script/
@@ -7598,6 +7660,7 @@ setting.ini
 Setting.txt
 settings.dat
 settings.ini
+settings.json
 Settings.php
 settings.php
 settings.phps
@@ -7677,6 +7740,7 @@ sips.php
 sips.rar
 sips.txt
 sips.zip
+sitemap.xml
 sitemap_1.xml.gz
 sites
 sites/1.html
@@ -7949,6 +8013,7 @@ sss.txt
 sss.zip
 ssss.txt
 ssss.zip
+staging.php
 stake.txt
 stake.zip
 staked.txt
@@ -8288,6 +8353,7 @@ telus.txt
 telus.zip
 Temp
 temp
+temp.php
 ten.gzip
 ten.html
 ten.log
@@ -8322,9 +8388,12 @@ test-sites.json
 test-sites.php
 test-sites.txt
 test.7z
+test.asp
+test.aspx
 test.bak
 test.bin
 test.bmp
+test.cgi
 test.config
 test.csv
 Test.dat
@@ -8341,6 +8410,7 @@ test.JPG
 test.jpg
 test.js
 test.json
+test.jsp
 test.log
 test.mp3
 test.mp4
@@ -8348,8 +8418,10 @@ test.nfo
 test.pdf
 TEST.php
 test.php
+test.pl
 test.png
 test.ps1
+test.py
 test.rar
 TEST.txt
 Test.txt
@@ -8505,17 +8577,21 @@ testsss.txt
 testt.exe
 testt.php
 testt.txt
+testt.zip
 testtest.json
 testtest.log
 testtest.txt
 testtests.txt
 testtesttest.txt
 testtt.txt
+testtt.zip
 testz
 tetstest.txt
 text.json
 text.php
 text.txt
+text.zip
+text1.txt
 texts
 texts.txt
 TG
@@ -8580,6 +8656,7 @@ tmail.php
 Tmobile.txt
 tmobile.txt
 tmp
+tmp.php
 token
 token.txt
 token.zip
@@ -8638,6 +8715,7 @@ totsaawp.html
 totsaawp.json
 totsaawp.php
 totsaawp.txt
+trace.log
 track.php
 track.txt
 tracker.php
@@ -8787,7 +8865,9 @@ ulp.txt
 ulp.zip
 ulps.txt
 ulps.zip
+unban.php
 unban.txt
+unban.zip
 unbans.txt
 uni.txt
 up.7z
@@ -8809,6 +8889,7 @@ update.json
 updated
 updates
 upgrade.json
+upgrade.php
 upgrade.txt
 upgrades.json
 uphold.txt
@@ -9224,6 +9305,7 @@ wayo.txt
 wayo.zip
 wbtc.txt
 wdym.txt
+web.config
 webmail
 webmail.php
 Webpages
