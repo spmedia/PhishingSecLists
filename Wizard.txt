@@ -5604,6 +5604,7 @@ manage.html
 manage.json
 manage.php
 manage.py
+manage.txt
 manage/
 manage/admin.asp
 manage/login.asp
