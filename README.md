@@ -1,13 +1,11 @@
 # PhishingSecLists
-Verily, this be the most potent remedy against crypto and phishing malfeasance, traveller 🧙‍♂️
-
-To be used with scanning tools like [GoBuster](https://github.com/OJ/gobuster), [ffuf](https://github.com/ffuf/ffuf), Burp Suite, and DirBuster but these lists are specifically tailored and designed for scanning/fuzzing phishing <>< landing pages and other malicious or sketch af websites.
+This script is to be used with web scanning tools ([Gobuster](https://github.com/OJ/gobuster), [ffuf](https://github.com/ffuf/ffuf), Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. 
 
 By finding their victim or target lists, you can help prevent further harm. If you can peer behind the curtain of their operation(s), you can dismantle em. Finding these files will give you a lot of valuable intel to pivot from or act on.
 
 The websites of Threat Actors make perfect targets to scan and cut your teeth on. What are they gunna do? Report you to teh cops? lol
 
-These lists were compiled by looking at the source code of all the popular phishing tool kits out there (blackeye, SET, evilginx2, zphisher, etc) to find what they saved files as, honeypots, and combing through active abuse reports, sitting in skid fraudster chats, + live phishing landing pages.
+These lists were compiled by looking at the source code of all the popular phishing tool kits out there (blackeye, SET, evilginx2, zphisher, etc) to find what they saved files as, honeypots,  combing through active abuse reports, sitting in skid fraudster chats, and live phishing landing pages.
 
 Languages represented in the list: Burmese, Cambodian, Chinese, English, Hindi, Indonesian, Khmer, Nigerian Pidgin, Malay, Russian, Spanish, Swahili, Tamil, Thai, and Ukrainian.
 
@@ -17,7 +15,7 @@ You can also use this list to find hits when scanning Tor hidden service .onion 
 
 ![](https://i.imgur.com/eiMP4bb.png)
 
-This is a work in progress ████▒▒▒▒▒▒ 43% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
+This is a work in progress █████▒▒▒▒▒ 54% - Inspired by [SecLists](https://github.com/danielmiessler/SecLists) and many hours of scanning.
 
 protecc ya necc
 
