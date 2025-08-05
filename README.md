@@ -1,5 +1,5 @@
 # PhishingSecLists
-This script is to be used with web scanning tools ([Gobuster](https://github.com/OJ/gobuster), [ffuf](https://github.com/ffuf/ffuf), Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. 
+This list is to be used with web scanning tools ([Gobuster](https://github.com/OJ/gobuster), [ffuf](https://github.com/ffuf/ffuf), Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. 
 
 By finding their victim or target lists, you can help prevent further harm. If you can peer behind the curtain of their operation(s), you can dismantle em. Finding these files will give you a lot of valuable intel to pivot from or act on.
 
