@@ -22,6 +22,9 @@
 80sec内部专用过世界杀软休积最小功能超强超猛宇宙第一.asp
 __init__.py
 A robust backdoor script made by Daniel Berliner.php
+a.asp
+a.aspx
+a.php
 about.asp
 about.txt
 about.zip
@@ -81,6 +84,9 @@ Ayyildiz Tim  -AYT- Shell v 2.1 Biz.txt
 azrail 1.0 by C-W-M.php
 aZRaiLPhp v1.0.php
 aZRaiLPhp_v1.0.php
+b.asp
+b.aspx
+b.php
 B374k Beta ShElL V1.php
 b374k-mini-shell-php.php.php
 b374k.php.php
@@ -101,6 +107,7 @@ bloodsecv4.php
 Bnkqbakq.php
 boffmax_v1.0_web_shell_by_the-c0de_team(1).php
 bot.asp
+bot.jsp
 bot.php
 bots.asp
 bots.php
@@ -113,12 +120,19 @@ bypass-iisuser-p.asp
 bypass-login.php
 bypass_RCE_php.gif
 c0derz shell [csh] v. 0.1.1 release.php
+c1.asp
+c1.aspx
 c1.php
+c1.zip
 c2.asp
+c2.aspx
 c2.php
+c2.zip
 c3.php
 c4.php
 c66.php
+c99.asp
+c99.aspx
 c99.html
 c99.php
 c999.php
@@ -253,6 +267,7 @@ file.asp
 file.aspx
 file.php
 files.asp
+files.aspx
 files.php
 filesystembrowser.aspx
 fileupload.aspx
@@ -276,7 +291,9 @@ GFS_web-shell_ver_3.1.7_-_PRiV8.php
 gif87a.jpg
 gif89a.asp
 gif89a.jpg
+go.asp
 GO.cgi.pl
+go.php
 GPL
 GRP WebShell 2.0 release build 2018 (C)2006,Great.php
 h4ck_Door.asp
@@ -449,6 +466,9 @@ pack-6a5fbf3093c3c63aa794c842cf9da81dc956d2cd.pack
 pack-a9e6fede5fa9947e97aa566caa3357ec1c1844b4.idx
 pack-a9e6fede5fa9947e97aa566caa3357ec1c1844b4.pack
 packed-refs
+panel.asp
+panel.aspx
+panel.php
 pas.php
 Password Hasher for PHP Shell 2.1.php
 paxmac.jspx
@@ -717,6 +737,9 @@ Web Shell.asp
 Web Sniffer.aspx
 Web-shell (c)ShAnKaR.php
 web-shell.php
+web.asp
+web.aspx
+web.php
 web.xml
 webacoo.pl
 WebAdmin 2.X Final.aspx
