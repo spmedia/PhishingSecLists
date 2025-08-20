@@ -932,6 +932,8 @@ api_keys.txt
 apibuild.pyc
 apidoc
 apidocs
+apii.csv
+apii.txt
 apikey.csv
 apikey.gzip
 apikey.html
@@ -1501,6 +1503,7 @@ Bins.zip
 bins.zip
 binz
 binz.txt
+birth.txt
 bisq.txt
 bitch.asp
 bitch.aspx
@@ -3215,6 +3218,7 @@ disimpan.txt
 dns.txt
 dns.zip
 do_not_delete.txt
+dob.txt
 docker-compose.yml
 Docs
 docs
@@ -3758,6 +3762,7 @@ fff.zip
 ffff.zip
 FILE
 File.txt
+file.txt
 file.zip
 file_demo.txt
 file_new.txt
@@ -4067,6 +4072,7 @@ fud.zip
 fudd.txt
 fuder.php
 fuds.txt
+full.txt
 full_logs
 full_logs.txt
 Fulls.txt
@@ -4303,6 +4309,7 @@ hacked2.txt
 hacked3.txt
 hacker.txt
 hacker.zip
+hackers.txt
 hacking.txt
 hacking.zip
 hacks.php
@@ -4473,6 +4480,12 @@ hometest.php
 hometest.txt
 hood.txt
 hoods.txt
+hook.php
+hook.txt
+hooked.php
+hooked.txt
+hooks.php
+hooks.txt
 hospital.txt
 hospitals.txt
 Hosts.txt
@@ -4512,6 +4525,7 @@ huehue.txt
 huehue.zip
 huehuehue.txt
 huehuehue.zip
+hunters.txt
 huy.txt
 huy.zip
 i.csv
@@ -5180,6 +5194,7 @@ landing.txt
 landing_page.zip
 landingpage.zip
 landingpages.zip
+lapsus.txt
 laravel.log
 laravel.txt
 larp.csv
@@ -5897,6 +5912,7 @@ masters.zip
 masuk
 masuk.php
 masuk.txt
+matrix.txt
 mattermost/
 maxmind.txt
 May.txt
@@ -6684,6 +6700,7 @@ p1bot.txt
 p1bot.zip
 p1bots.txt
 p1bots.zip
+p2.php
 p2.txt
 p3.txt
 p4.txt
@@ -7205,10 +7222,12 @@ pravesh.html
 pravesh.json
 pravesh.php
 pravesh.txt
+press1.php
 press1.txt
 press1.zip
 pressone.txt
 pressone.zip
+prices.txt
 Process.txt
 project.bak
 project.gzip
@@ -7449,6 +7468,10 @@ quick-deposit.txt
 quickstart.html
 quickstart.php
 quickstart.txt
+quote.txt
+quote.zip
+quotes.txt
+quotes.zip
 qwe
 r.csv
 r.exe
@@ -7456,8 +7479,13 @@ r.php
 r.ps1
 r.txt
 r.zip
+raas.txt
+raas.zip
 ramp.txt
 ramp4u.txt
+ransom.txt
+ransomware.txt
+ransomware.zip
 rap.txt
 rapper.txt
 raps.txt
@@ -7701,6 +7729,9 @@ safe2.txt
 safisha_hitilafu.php
 safisha_hitilafu.txt
 sale.mp3
+sale.txt
+sales.txt
+salesforce.txt
 salo.txt
 salo.zip
 saloyed.csv
@@ -7719,6 +7750,7 @@ sample.exe
 sample1.csv
 sample2.csv
 samsung.txt
+santander.txt
 sapa.gzip
 sapa.json
 sapa.txt
@@ -7943,6 +7975,8 @@ seedwords.txt
 seedz.txt
 seen.txt
 seen.zip
+sell.txt
+sell.zip
 semikkapattadhu.gzip
 semikkapattadhu.html
 semikkapattadhu.json
@@ -8068,6 +8102,7 @@ shenme.txt
 shenme.zip
 shib.php
 shib.txt
+shiny.txt
 shit.csv
 shit.php
 shit.txt
@@ -8098,6 +8133,7 @@ simswapped.txt
 simswapper.txt
 simswappers.txt
 simswaps.txt
+sinobi.txt
 sip.php
 sip.rar
 sip.txt
@@ -8276,6 +8312,10 @@ solana.xls
 solana.xlsx
 solana.zip
 Solana.zip
+sold.txt
+sold.zip
+solds.txt
+solds.zip
 songkhaw.gzip
 songkhaw.html
 songkhaw.json
@@ -9014,6 +9054,7 @@ texts
 texts.txt
 TG
 tg
+tg.csv
 tg.exe
 tg.gzip
 tg.html
@@ -9046,6 +9087,7 @@ threaded.txt
 threads.txt
 threadz.txt
 three.txt
+ticketmaster.txt
 tidtang.gzip
 tidtang.html
 tidtang.log
@@ -9071,6 +9113,7 @@ tiyuu.rar
 tiyuu.txt
 tiyuu.zip
 tmail.php
+tmo.txt
 Tmobile.txt
 tmobile.txt
 tmp
@@ -9081,6 +9124,7 @@ token.zip
 tokens
 tokens.txt
 tokens.zip
+tokopedia.txt
 ton.txt
 Tools
 tools
@@ -9133,6 +9177,7 @@ totsaawp.html
 totsaawp.json
 totsaawp.php
 totsaawp.txt
+tox.txt
 trace.log
 track.php
 track.txt
@@ -10126,6 +10171,7 @@ zips.rar
 ZIPS.txt
 zips.txt
 zips.zip
+zoin.txt
 zoinbase
 zoinbase.php
 zoinbase.txt
