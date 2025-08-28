@@ -798,7 +798,10 @@ aga.txt
 aga.zip
 Agent
 agent
+agent.json
+agent.php
 agent.txt
+agent.zip
 agent/admin
 agent/info
 agent/log
@@ -810,6 +813,8 @@ agent/test
 agent/user
 Agents
 agents
+agents.json
+agents.php
 agents.txt
 agents.zip
 agents/admin
@@ -3694,8 +3699,13 @@ erbaiwu.zip
 erbi.txt
 erbi.zip
 error
+error.bak
+error.gzip
+error.json
 error.log
+error.php
 error.txt
+error.zip
 error_fiercephish.log
 error_log
 errors
@@ -5396,6 +5406,7 @@ launch.ps1
 launch.py
 lawha.php
 lawha.txt
+lead
 lead.csv
 lead.txt
 lead.xlsx
@@ -7574,6 +7585,7 @@ proxies.php
 Proxies.txt
 proxies.txt
 PROXIES.zip
+proxies1
 proxies1.gzip
 proxies1.txt
 proxies100.txt
@@ -7623,6 +7635,7 @@ proxy1
 proxy1.config
 proxy1.txt
 proxy10.txt
+proxy2
 proxy2.config
 proxy2.thml
 proxy2.txt
@@ -7646,6 +7659,9 @@ proxys.dat
 proxys.html
 proxys.php
 proxys.txt
+proxys1
+proxys2
+proxys3
 proxysgood.txt
 proxyshttp.txt
 proxyshttps.txt
@@ -8786,9 +8802,14 @@ stars.zip
 start-here.html
 start-here.php
 start-here.txt
+start.7z
+start.bak
 start.bat
+start.gzip
 start.html
 start.ini
+start.json
+start.log
 start.php
 start.ps1
 start.txt
@@ -8909,6 +8930,7 @@ subjects.gzip
 subjects.json
 subjects.php
 subjects.txt
+submit
 submit.asp
 submit.csv
 submit.db
@@ -8944,6 +8966,7 @@ submits2.txt
 submits2.xlsx
 submitss.txt
 submitsss.txt
+submitted
 submitted.csv
 submitted.json
 submitted.log
