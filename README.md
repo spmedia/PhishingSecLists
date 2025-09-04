@@ -162,7 +162,7 @@ does your scan return everything as being found? Let's filter that shit out! Loo
 # Greetz 🙏
 
 
-All the CTI and data nerds who are in the trenches and fuzzing stuffs, tk0, joohoi, rj2, SP, all the powerful wizards out there, <a href="https://cybersecuritystickers.com/">Cybersecurity Stickers</a> for selling cool cybersec stickers, and the DC225 homies who help w scanning!
+All the CTI and data nerds who are in the trenches and fuzzing stuffs, tk0, joohoi, rj2, SP, neqx, all the powerful wizards out there, <a href="https://cybersecuritystickers.com/">Cybersecurity Stickers</a> for selling cool cybersec stickers, and the DC225 homies who help w scanning!
 
 
 # Star History ⭐
