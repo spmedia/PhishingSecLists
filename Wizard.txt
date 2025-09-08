@@ -6891,6 +6891,7 @@ op.html
 op.json
 op.php
 op.txt
+op.zip
 open.php
 open.txt
 openai.json
@@ -6923,8 +6924,10 @@ opensea.txt
 opensea.zip
 ops.json
 ops.txt
+ops.zip
 optimism.txt
 opz.txt
+opz.zip
 order.json
 Order.txt
 order.txt
