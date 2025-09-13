@@ -21,4 +21,6 @@ The attribution must be included in at least one of the following locations:
 
 ## Contact
 
-If you have questions about these attribution requirements, please contact me on [BSky](https://bsky.app/profile/edm0nd.bsky.social).
+If you have questions about these attribution requirements, please contact me via email (its on my github profile).
+
+tl;dr = if you use this to find or do cool shit, credit me <3 if you publishing or somethang
