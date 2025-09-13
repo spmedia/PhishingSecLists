@@ -1,3 +1,6 @@
+0.php
+0.asp
+0.aspx
 023.jsp
 08小组内部交流专用.asp
 1.asp
