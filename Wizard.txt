@@ -3669,6 +3669,7 @@ email_deduped.txt
 email_list.txt
 email_listing.txt
 email_lists
+emali_lists.json
 email_lists.txt
 email_submit.txt
 email_submits.txt
@@ -3683,6 +3684,7 @@ EMAILED.txt
 emailed.txt
 emailed.zip
 emailer.bak
+emailer.json
 emailer.php
 emailer.txt
 emailer.zip
@@ -3782,6 +3784,7 @@ erbi.zip
 error
 error.bak
 error.gzip
+error.html
 error.json
 error.log
 error.php
