@@ -2994,6 +2994,8 @@ cutlet.txt
 cutlets.txt
 cve.txt
 cves.txt
+cyber.txt
+cybersec.txt
 d.csv
 d.exe
 d.ps1
@@ -3041,6 +3043,8 @@ danhsach.php
 danhsach.rar
 danhsach.txt
 danhsach.zip
+dark.txt
+dark.zip
 darknet.txt
 darknet.zip
 dashpanel
@@ -3669,7 +3673,6 @@ email_deduped.txt
 email_list.txt
 email_listing.txt
 email_lists
-emali_lists.json
 email_lists.txt
 email_submit.txt
 email_submits.txt
@@ -3749,6 +3752,7 @@ emailz.csv
 emailz.php
 emailz.txt
 emailz.zip
+emali_lists.json
 emel.gzip
 emel.html
 emel.json
@@ -3840,6 +3844,8 @@ euro.txt
 european.txt
 europeans.txt
 euros.txt
+event.txt
+events.txt
 everything.ini
 EXAMPLE
 example
@@ -5365,6 +5371,10 @@ kiemtra.php
 kiemtra.rar
 kiemtra.txt
 kiemtra.zip
+kill.txt
+killed.txt
+killer.txt
+killing.txt
 kirim
 kirim.php
 kirim.txt
@@ -5420,6 +5430,7 @@ Kraken.txt
 kraken.txt
 kraken.xlsx
 kraken.zip
+Kraken.zip
 krapao.gzip
 krapao.html
 krapao.log
@@ -5684,6 +5695,8 @@ liebaio.json
 liebaio.rar
 liebaio.txt
 liebaio.zip
+light.txt
+light.zip
 limit.txt
 limit.zip
 limits.txt
@@ -6524,9 +6537,11 @@ mobile-banking.txt
 mod.php
 Monero
 monero
+monero.7z
 monero.csv
 Monero.txt
 monero.txt
+monero.zip
 money
 money.csv
 money.doc
@@ -7718,6 +7733,7 @@ pressone.txt
 pressone.zip
 prices.txt
 Process.txt
+process.txt
 product.txt
 product.zip
 products.txt
@@ -8037,6 +8053,7 @@ read.zip
 read_me.txt
 read_this.txt
 readhere.txt
+reading.txt
 reading_this.txt
 README
 readme
@@ -8055,6 +8072,7 @@ README.rdoc
 README.txt
 readme.txt
 readme.zip
+README.zip
 reads.json
 reads.txt
 READTHIS
@@ -10729,9 +10747,11 @@ xlm.csv
 xlm.txt
 xlm.zip
 xmr
+xmr.7z
 xmr.csv
 XMR.txt
 xmr.txt
+xmr.zip
 xrp.json
 xrp.php
 xrp.txt
