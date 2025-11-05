@@ -227,12 +227,6 @@
 2025proxy.txt
 2025s.txt
 2025test.txt
-2026_list.txt
-2026_emails.txt
-2026_lists.txt
-2026_files.zip
-2026_file.txt
-2026data.txt
 2026.7z
 2026.bak
 2026.bmp
@@ -245,6 +239,11 @@
 2026.php
 2026.txt
 2026.zip
+2026_emails.txt
+2026_file.txt
+2026_files.zip
+2026_list.txt
+2026_lists.txt
 2026data.txt
 2026email.txt
 2026emails.txt
@@ -7900,7 +7899,10 @@ prueba.txt
 pruebas.txt
 ps.txt
 ps1.txt
+public
 public/
+public/assets
+public/assets/js/aiz-core.js
 public/config.txt
 puka
 pukgai.csv
@@ -9094,6 +9096,7 @@ stat.csv
 stat.php
 stat.txt
 stat.zip
+static_new6
 stats
 stats.bmp
 stats.csv
@@ -10752,6 +10755,7 @@ xlm
 xlm.csv
 xlm.txt
 xlm.zip
+xm/doge.png
 xmr
 xmr.7z
 xmr.csv
