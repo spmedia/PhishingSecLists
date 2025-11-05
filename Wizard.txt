@@ -227,6 +227,12 @@
 2025proxy.txt
 2025s.txt
 2025test.txt
+2026_list.txt
+2026_emails.txt
+2026_lists.txt
+2026_files.zip
+2026_file.txt
+2026data.txt
 2026.7z
 2026.bak
 2026.bmp
