@@ -278,6 +278,7 @@
 2fa.zip
 2fas.txt
 3
+3.7z
 3.bat
 3.csv
 3.exe
