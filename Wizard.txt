@@ -365,6 +365,8 @@
 69.zip
 6969.txt
 6969.zip
+6fig.txt
+6figs.txt
 7
 7.bat
 7.csv
@@ -521,10 +523,12 @@ address.ini
 address.json
 address.txt
 address.zip
+address2.txt
 addresses.csv
 addresses.json
 addy.txt
 addy.zip
+addy2.txt
 addys.txt
 addys.zip
 ADMIN
@@ -1727,8 +1731,10 @@ blacklists.txt
 blacklists.zip
 blah.txt
 blah.zip
+blah2.txt
 blahblah.txt
 blahblah.zip
+blahh.txt
 blahs.txt
 blat.csv
 blat.txt
@@ -1744,6 +1750,7 @@ block.json
 block.php
 block.txt
 block.zip
+block2.txt
 Blockchain
 blockchain
 blockchain.json
@@ -1762,8 +1769,10 @@ blocked.php
 blocked.rar
 blocked.txt
 blocked.zip
+blocked2.txt
 blocking.csv
 blocking.txt
+blocking2.txt
 blocklist.7z
 blocklist.gzip
 blocklist.json
@@ -1780,6 +1789,7 @@ blocks.csv
 blocks.html
 blocks.php
 blocks.txt
+blocks2.txt
 blockz.txt
 blya.7z
 blya.bak
@@ -2105,6 +2115,8 @@ callers.ps1
 callers.rar
 callers.txt
 callers.zip
+callers2.txt
+callers3.txt
 calling.csv
 calling.html
 calling.json
@@ -2775,6 +2787,10 @@ concha.csv
 concha.gzip
 concha.rar
 concha.txt
+conf.txt
+conf1.txt
+conf2.txt
+conf3.txt
 config
 config.aspx
 config.bat
@@ -3107,10 +3123,17 @@ data9.json
 data9.zip
 Database
 database
+database.csv
 database.json
 database.sql
 database.txt
 database.zip
+database1.csv
+database1.txt
+database1.zip
+database2.csv
+database2.txt
+database2.zip
 Databases
 databases
 databases.txt
@@ -3635,6 +3658,7 @@ ee.zip
 eee.txt
 eee.zip
 eight.txt
+elite.txt
 elloit.txt
 Elon
 elon.json
@@ -3673,6 +3697,7 @@ email1000.txt
 email10000.txt
 email2.csv
 email2.php
+email2.txt
 email2.zip
 email3.zip
 email_deduped.txt
@@ -4195,7 +4220,9 @@ firewall.zip
 first.json
 first.txt
 first_name.txt
+firstname.csv
 firstname.txt
+firstname.zip
 fish.dat
 fish.json
 fish.log
@@ -4330,9 +4357,14 @@ fuds.txt
 full.txt
 full_logs
 full_logs.txt
+fulls.csv
 Fulls.txt
 fulls.txt
+fulls.zip
+fulls2.txt
+fullz.csv
 fullz.txt
+fullz.zip
 fund.tx
 fund.txt
 fund.zip
@@ -5072,6 +5104,7 @@ install.zip
 install/
 install/index.php?upgrade/
 install/update.log
+install2.txt
 install_
 INSTALL_admin
 install_manifest.txt
@@ -5088,6 +5121,7 @@ installer_files/
 installs
 installs.txt
 installs.zip
+installs2.txt
 installsbot.txt
 install~/
 instant-deposit.html
@@ -5528,7 +5562,9 @@ laslas.zip
 last.json
 last.txt
 last_name.txt
+lastname.csv
 lastname.txt
+lastname.zip
 lastpass
 lastpass.txt
 Launch.ps1
@@ -6982,6 +7018,7 @@ ok.zip
 ok/response.txt
 ok/test.txt
 ok/test.zip
+ok2.txt
 okay
 okay.bat
 okay.csv
@@ -7003,6 +7040,8 @@ okii.txt
 Okis.txt
 okis.txt
 okk.txt
+oks.txt
+oks2.txt
 okta.csv
 okta.json
 okta.log
@@ -7028,6 +7067,11 @@ omo.txt
 omo.zip
 on.txt
 on.zip
+onchain.csv
+onchain.txt
+onchain.zip
+onchain2.txt
+onchainwallet.txt
 ong.txt
 ong.zip
 online-bank.html
@@ -7357,6 +7401,7 @@ Pass.zip
 pass.zip
 pass1.csv
 pass2.csv
+pass2.txt
 pass3.csv
 pass4.csv
 pass5.csv
@@ -7380,6 +7425,7 @@ Password.txt
 password.txt
 password.xlsx
 password.zip
+password2.txt
 password_files/
 password_files/1.txt
 password_files/2.txt
@@ -7401,6 +7447,7 @@ passwords.xlsx
 PASSWORDS.zip
 Passwords.zip
 passwords.zip
+passwords2.txt
 paste.php
 paste.txt
 pastes.txt
@@ -7426,8 +7473,13 @@ payer.txt
 payer.zip
 payload.ps1
 payload_1.ps1
+payment.csv
+payment.txt
+payment.zip
 payment_request.php
+payments.csv
 payments.txt
+payments.zip
 paymentt.txt
 payout.txt
 payouts.txt
@@ -8193,6 +8245,10 @@ reup.zip
 reups.txt
 reups.zip
 reviews
+reward.txt
+reward2.txt
+rewards.txt
+rewards2.txt
 rh.txt
 rh.zip
 rich.txt
@@ -9288,6 +9344,9 @@ surat.txt
 surel
 surel.php
 surel.txt
+swapped.txt
+swaps.txt
+swaps2.txt
 swat.csv
 swat.txt
 swats.txt
@@ -9367,6 +9426,9 @@ Targs.txt
 targs.txt
 Targs.zip
 targs.zip
+targs1.txt
+targs2.txt
+targs3.txt
 targss.txt
 targss.zip
 targz.7z
@@ -9426,6 +9488,9 @@ telegrambots.txt
 telegrambots.zip
 telegrams.txt
 telegrams.zip
+telephone.csv
+telephone.txt
+telephone.zip
 telus.php
 telus.txt
 telus.zip
@@ -10405,6 +10470,9 @@ voicemail.txt
 voicemails.mp3
 voicemails.txt
 voices.mp3
+vouch.txt
+vouched.txt
+vouching.txt
 vt.txt
 vt.zip
 vv.txt
