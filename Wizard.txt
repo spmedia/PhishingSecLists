@@ -57,7 +57,9 @@
 0000.txt
 0000.zip
 00000.txt
+000000.txt
 0000000.txt
+00000000.txt
 001.txt
 001.zip
 0123.txt
@@ -442,6 +444,7 @@ a.ps1
 a.txt
 a.zip
 a1.txt
+aa.csv
 aa.txt
 aa.zip
 aaa.txt
@@ -1139,6 +1142,12 @@ ar.txt
 ar.zip
 arb.php
 arb.txt
+archive.csv
+archive.txt
+archive.zip
+archives.csv
+archives.txt
+archives.zip
 asaydhan.gzip
 asaydhan.html
 asaydhan.log
@@ -1570,7 +1579,10 @@ batua.html
 batua.json
 batua.php
 batua.txt
+bax.txt
+bax.zip
 baxup
+bb.csv
 bb.txt
 bb.zip
 bbb.txt
@@ -2956,6 +2968,8 @@ Crime.txt
 crime.txt
 cron
 crossdomain.xml
+crowdstrike.txt
+crowdstrike.zip
 cry.txt
 cry.zip
 crypt.exe
@@ -3092,6 +3106,7 @@ data0.zip
 data1.bin
 data1.csv
 data1.json
+data1.txt
 data1.xlsx
 data1.zip
 data10.json
@@ -3141,6 +3156,7 @@ databases.zip
 Datas.txt
 datas.txt
 Datas.zip
+datas.zip
 datatest.zip
 davai.txt
 davai.zip
@@ -3462,6 +3478,9 @@ dob.csv
 dob.php
 dob.txt
 dob.zip
+doc.csv
+doc.txt
+doc.zip
 docker-compose.yml
 Docs
 docs
@@ -3534,6 +3553,8 @@ doxs.txt
 doxx
 doxx.csv
 doxx.txt
+doxx.zip
+doxxed.csv
 doxxed.txt
 doxxed.zip
 doxxx.txt
@@ -3653,11 +3674,13 @@ earnings.png
 ebank.html
 ebank.php
 ebank.txt
+ee.csv
 ee.txt
 ee.zip
 eee.txt
 eee.zip
 eight.txt
+eight.zip
 elite.txt
 elloit.txt
 Elon
@@ -3810,6 +3833,9 @@ enviar.html
 enviar.json
 enviar.php
 enviar.txt
+epstein.csv
+epstein.txt
+epstein.zip
 erbaiwu.gzip
 erbaiwu.rar
 erbaiwu.txt
@@ -3944,8 +3970,12 @@ exports.html
 exports.php
 exports.rar
 exports.zip
+extract.csv
 extract.txt
 extract.zip
+extracted.csv
+extracted.txt
+extracted.zip
 ezlick.txt
 ezlick.zip
 f.csv
@@ -4033,6 +4063,7 @@ ff.php
 ff.rar
 ff.txt
 ff.zip
+fff.txt
 fff.zip
 ffff.zip
 FILE
@@ -4229,6 +4260,7 @@ fish.log
 fish.txt
 fished.txt
 five.txt
+five.zip
 fk.txt
 fk.zip
 fl.txt
@@ -4285,6 +4317,7 @@ formulir.txt
 forward.txt
 found.txt
 four.txt
+four.zip
 france.txt
 fraud.csv
 fraud.txt
@@ -4392,6 +4425,8 @@ g.xml
 g.zip
 ga.txt
 ga.zip
+gainsight.txt
+gainsight.zip
 gambar.gzip
 gambar.html
 gambar.json
@@ -4414,13 +4449,16 @@ gemen.zip
 gemini.csv
 gemini.txt
 gemini.zip
+geo.csv
 geo.txt
+geo.zip
 geoip.txt
 geolocation
 germany.txt
 getting-started.html
 getting-started.php
 getting-started.txt
+gg.csv
 gg.txt
 gg.zip
 ggg.txt
@@ -4495,6 +4533,7 @@ goes.txt
 goldman.txt
 good.csv
 good.txt
+good.zip
 good_list.txt
 goodcombo.txt
 goodpass.txt
@@ -4663,6 +4702,7 @@ header.php
 header.txt
 header.zip
 healhcare.txt
+health.csv
 health.rar
 health.txt
 health.zip
@@ -4847,6 +4887,7 @@ huehue.zip
 huehuehue.txt
 huehuehue.zip
 hunters.txt
+hunters.zip
 huy.txt
 huy.zip
 i.csv
@@ -4888,6 +4929,8 @@ IG.txt
 ig.txt
 ig.zip
 ii.txt
+iii.txt
+iii.zip
 ikhtibar.php
 ikhtibar.txt
 il.txt
@@ -5191,6 +5234,9 @@ ip.log
 IP.txt
 ip.txt
 ip.zip
+ipcam.csv
+ipcam.txt
+ipcam.zip
 iPhone
 iphone.csv
 iPhone.txt
@@ -5261,6 +5307,7 @@ jiong.txt
 jiong.zip
 jj.txt
 jj.zip
+jjj.txt
 jjj.zip
 jnhean.gzip
 jnhean.html
@@ -5354,6 +5401,9 @@ katalaluan.html
 katalaluan.json
 katalaluan.php
 katalaluan.txt
+keep.csv
+keep.txt
+keep.zip
 kek
 kek.txt
 kek.zip
@@ -5549,6 +5599,7 @@ landing_page.zip
 landingpage.zip
 landingpages.zip
 lapsus.txt
+lapsus.zip
 laravel.log
 laravel.txt
 larp.csv
@@ -5748,6 +5799,8 @@ linked.log
 linkedin.log
 Linkedin.txt
 linkedin.txt
+linking.txt
+linking.zip
 list
 list.csv
 list.dat
@@ -6157,6 +6210,7 @@ lolz.txt
 lolz.zip
 look.json
 lookup.txt
+lookups.csv
 lookups.txt
 lookups.zip
 lord.sh
@@ -6849,6 +6903,7 @@ night.txt
 night.zip
 nikasi.txt
 nine.txt
+nine.zip
 nirvagam_seipavar.gzip
 nirvagam_seipavar.html
 nirvagam_seipavar.json
@@ -6871,6 +6926,7 @@ nmapped.txt
 nmaps.txt
 nn.txt
 nn.zip
+nnn.txt
 nnn.zip
 NNSL.txt
 nnsl.txt
@@ -7072,6 +7128,8 @@ onchain.txt
 onchain.zip
 onchain2.txt
 onchainwallet.txt
+one.txt
+one.zip
 ong.txt
 ong.zip
 online-bank.html
@@ -7095,6 +7153,7 @@ onlyfans
 OnlyFans.txt
 onlyfans.txt
 onramp.txt
+oo.csv
 oo.txt
 oo.zip
 ooo.txt
@@ -7964,7 +8023,10 @@ pukgai.zip
 pul.txt
 pump.txt
 pump.zip
+purchase.csv
 purchase.rar
+purchase.txt
+purchase.zip
 purchases.rar
 push.txt
 pw
@@ -8028,6 +8090,7 @@ qin.zip
 qq.json
 qq.txt
 qq.zip
+qqq.txt
 qqq.zip
 qt.php
 quantrivien
@@ -8284,6 +8347,9 @@ rofls.txt
 roflz.txt
 rok-tuk.php
 rok-tuk.txt
+rolex.csv
+rolex.txt
+rolex.zip
 root
 root.db
 root.json
@@ -8297,6 +8363,7 @@ route.txt
 routes.txt
 rr.txt
 rr.zip
+rrr.txt
 rrr.zip
 RU.txt
 ru.txt
@@ -8352,6 +8419,7 @@ sale.mp3
 sale.txt
 sales.txt
 salesforce.txt
+salesforce.zip
 salo.txt
 salo.zip
 saloyed.csv
@@ -8531,6 +8599,8 @@ scans.zip
 scanz
 scanz.txt
 scanz.zip
+scattered.txt
+scattered.zip
 schet.txt
 scheta.txt
 script
@@ -8732,6 +8802,7 @@ seu.rar
 seu.txt
 seu.zip
 seven.txt
+seven.zip
 sex.txt
 sgwe.txt
 shabi.7z
@@ -8868,6 +8939,7 @@ sitsipwe.rar
 sitsipwe.txt
 sitsipwe.zip
 six.txt
+six.zip
 skim.txt
 skimmed.txt
 skimmed.zip
@@ -8887,6 +8959,8 @@ slips.php
 slips.txt
 slips.zip
 slipz.txt
+slsh.txt
+slsh.zip
 smoke.txt
 smoke.zip
 SMS
@@ -9023,6 +9097,8 @@ sothanai.json
 sothanai.php
 sothanai.txt
 sound.mp3
+sp1d3r.txt
+sp1d3r.zip
 spain.txt
 spam
 spam.7z
@@ -9135,8 +9211,10 @@ srds.txt
 srds.zip
 ss.txt
 ss.zip
+ssn.csv
 SSN.txt
 ssn.txt
+ssn.zip
 SSNS.txt
 ssns.txt
 ssnz.txt
@@ -9397,8 +9475,11 @@ swaps.txt
 swaps2.txt
 swat.csv
 swat.txt
+swat.zip
 swats.txt
+swatted.csv
 swatted.txt
+swatted.zip
 sweden.txt
 synth.txt
 synth.zip
@@ -9461,6 +9542,7 @@ Target
 target
 target.csv
 target.txt
+target.zip
 targeted.csv
 Targets
 targets
@@ -9897,6 +9979,7 @@ threaded.txt
 threads.txt
 threadz.txt
 three.txt
+three.zip
 ticketmaster.txt
 tidtang.gzip
 tidtang.html
@@ -10097,6 +10180,7 @@ tt.zip
 ttest.php
 ttest.zip
 ttestt.zip
+ttt.txt
 ttt.zip
 tu.gzip
 tu.html
@@ -10131,6 +10215,7 @@ Twitter.txt
 twitter.txt
 twitters.txt
 two.txt
+two.zip
 tx.txt
 tx.zip
 txt.php
@@ -10311,6 +10396,7 @@ usamails.txt
 usaspam.txt
 usbank.txt
 usbank.zip
+usd.csv
 usd.txt
 usd.zip
 usdata.txt
@@ -10434,6 +10520,7 @@ utihaon.zip
 utoaji.txt
 uu.txt
 uu.zip
+uuu.txt
 uuu.zip
 uwu.json
 uwu.txt
@@ -10606,6 +10693,7 @@ vt.txt
 vt.zip
 vv.txt
 vv.zip
+vvv.txt
 vvv.zip
 vyvod.txt
 w.csv
@@ -10981,6 +11069,7 @@ XSWL.zip
 xswl.zip
 xueba.txt
 xueba.zip
+xx.csv
 xx.txt
 xx.zip
 xxx.7z
@@ -11046,12 +11135,14 @@ Your_email.php
 youtube.txt
 yundong.txt
 yutyaakar.txt
+yy.csv
 yy.txt
 yy.zip
 YYDS.txt
 yyds.txt
 YYDS.zip
 yyds.zip
+yyy.txt
 yyy.zip
 z.7z
 z.csv
@@ -11067,6 +11158,7 @@ zionbase.csv
 zionbase.zip
 Zip
 zip
+zip.csv
 zip.json
 Zip.txt
 zip.txt
@@ -11080,6 +11172,7 @@ zipped.txt
 zipped.zip
 Zips
 zips
+zips.csv
 zips.gzip
 zips.json
 zips.mp3
@@ -11100,6 +11193,7 @@ zqsg.txt
 ZQSG.zip
 zqsg.zip
 zxc.txt
+zz.csv
 zz.php
 zz.txt
 zz.zip
