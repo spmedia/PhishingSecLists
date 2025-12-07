@@ -427,6 +427,14 @@
 999.zip
 9999.txt
 99999.txt
+_next/data/
+_next/flight
+_next/redirect
+_next/refresh/
+_next/server-actions
+_next/turbopack/flight
+_next/webpack-hmr
+_react/flight
 a
 a.bak
 a.bin
