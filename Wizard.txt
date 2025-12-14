@@ -2650,6 +2650,9 @@ code.rar
 code.txt
 code.xls
 code.zip
+codepay
+codepay/demo.php
+codepay/admin.php
 coin.csv
 coin.html
 coin.json
