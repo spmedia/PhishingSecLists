@@ -2580,6 +2580,10 @@ api/login
 api/login.json
 api/logins
 api/logs
+api/mjkj-web/cgform-api/upload/file
+api/mjkj-web
+api/mjkj-web/cgform-api
+api/mjkj-web/cgform-api/upload
 api/note
 api/notes
 api/package_search/v4/documentation
