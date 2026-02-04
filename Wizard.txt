@@ -2580,10 +2580,10 @@ api/login
 api/login.json
 api/logins
 api/logs
-api/mjkj-web/cgform-api/upload/file
 api/mjkj-web
 api/mjkj-web/cgform-api
 api/mjkj-web/cgform-api/upload
+api/mjkj-web/cgform-api/upload/file
 api/note
 api/notes
 api/package_search/v4/documentation
@@ -5365,6 +5365,7 @@ draining.exe
 draining.txt
 draining.zip
 drains.txt
+dread.txt
 drop.txt
 drop.zip
 dropbox.config
@@ -6634,6 +6635,7 @@ hacked3.txt
 hacker.txt
 hacker.zip
 hackers.txt
+hackforums.txt
 hacking.txt
 hacking.zip
 hacks.php
@@ -9176,6 +9178,7 @@ ogu.php
 ogu.rar
 ogu.txt
 ogu.zip
+oguser.txt
 ogusers.txt
 oh.txt
 oh.zip
