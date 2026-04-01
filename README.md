@@ -19,6 +19,8 @@ This is a work in progress █████▒▒▒▒▒ 54% - Inspired by [Sec
 
 protecc ya necc
 
+Help us grow and protect the world by giving us a ⭐
+
 
 # ABOUT TEH LISTS ℹ️
 
