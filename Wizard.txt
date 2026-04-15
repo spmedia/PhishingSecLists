@@ -4222,6 +4222,7 @@ claim.txt
 Claimed.txt
 claimed.txt
 claude.7z
+claude.csv
 claude.gzip
 claude.json
 claude.php
@@ -9396,6 +9397,7 @@ op.txt
 op.zip
 open.php
 open.txt
+openai.csv
 openai.json
 openai.txt
 openai.zip
@@ -9403,6 +9405,9 @@ openbullet
 openbullet.config
 openbullet.txt
 openbullet.zip
+openclaw.csv
+openclaw.txt
+openclaw.zip
 opendb
 opendbs
 opened.txt
