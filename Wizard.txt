@@ -10832,7 +10832,17 @@ safisha_hitilafu.txt
 sale.mp3
 sale.txt
 sales.txt
+salesforce.7z
+salesforce.csv
+salesforce.dat
+salesforce.db
+salesforce.json
+salesforce.log
+salesforce.php
+salesforce.rar
 salesforce.txt
+salesforce.xls
+salesforce.xlsx
 salesforce.zip
 salo.txt
 salo.zip
@@ -11441,6 +11451,9 @@ snaps.txt
 snaps.zip
 snowflake.7z
 snowflake.csv
+snowflake.dat
+snowflake.db
+snowflake.json
 snowflake.log
 snowflake.php
 snowflake.rar
