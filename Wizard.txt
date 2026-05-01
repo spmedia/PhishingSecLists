@@ -4222,12 +4222,17 @@ claim.txt
 Claimed.txt
 claimed.txt
 claude.7z
+claude.bak
 claude.csv
 claude.gzip
 claude.json
+claude.log
+claude.md
 claude.php
 claude.rar
 claude.txt
+claude.xls
+claude.xlsx
 claude.zip
 Clean
 clean.json
