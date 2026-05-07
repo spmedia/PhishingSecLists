@@ -5974,6 +5974,11 @@ Failed.txt
 failed.txt
 Fails.txt
 Failure.txt
+Fall2026
+Fall2026.csv
+Fall2026.rar
+Fall2026.txt
+Fall2026.zip
 family.txt
 FanDuel.txt
 fanduel.txt
@@ -11680,6 +11685,11 @@ spotify.txt
 spread.txt
 spreader
 spreader.txt
+Spring2026
+Spring2026.csv
+Spring2026.rar
+Spring2026.txt
+Spring2026.zip
 sprint.txt
 sprintpcs.txt
 sql
@@ -11938,6 +11948,11 @@ suka.txt
 suka.zip
 sukka.txt
 sukka.zip
+Summer2026
+Summer2026.csv
+Summer2026.rar
+Summer2026.txt
+Summer2026.zip
 sup.json
 super.csv
 super.txt
@@ -13701,6 +13716,11 @@ winsock.gzip
 winsock.rar
 winsock.txt
 winsock.zip
+Winter2026
+Winter2026.csv
+Winter2026.rar
+Winter2026.txt
+Winter2026.zip
 withdraw
 withdraw.7z
 withdraw.csv
