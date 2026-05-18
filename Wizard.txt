@@ -9415,8 +9415,17 @@ openbullet
 openbullet.config
 openbullet.txt
 openbullet.zip
+openclaw.7z
+openclaw.bak
 openclaw.csv
+openclaw.html
+openclaw.log
+openclaw.pdf
+openclaw.php
+openclaw.rar
 openclaw.txt
+openclaw.xls
+openclaw.xlsx
 openclaw.zip
 opendb
 opendbs
