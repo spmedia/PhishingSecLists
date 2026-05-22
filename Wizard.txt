@@ -1815,15 +1815,20 @@ abhiyan.txt
 abuse.txt
 abuse.zip
 abuses.txt
+acc.log
 acc.php
 Acceso
 acceso
 acceso.dat
 acceso.log
 acceso.txt
+access.7z
+access.bak
+access.csv
 access.dat
 access.log
 access.php
+access.rar
 access.txt
 access.zip
 access/access.txt
@@ -2542,6 +2547,7 @@ aols.txt
 AOLs.zip
 aolz.txt
 aolz.zip
+apache.log
 API
 api
 api-doc
@@ -9041,6 +9047,7 @@ ngankhwet.zip
 nganluong.txt
 ngas.txt
 ngas.zip
+nginx.log
 ngoen.gzip
 ngoen.html
 ngoen.json
