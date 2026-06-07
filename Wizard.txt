@@ -67,6 +67,7 @@
 .test
 .tmp
 .well-known/security.txt
+.well-known/ssl-manager/installed.txt
 .windsurfrules
 .wizard
 .wizards
