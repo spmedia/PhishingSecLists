@@ -1832,6 +1832,7 @@
 999.zip
 9999.txt
 99999.txt
+__pycache__
 _app.js
 _app.tsx
 _document.js
@@ -10767,6 +10768,7 @@ px.txt
 pxs.txt
 py.php
 py.txt
+pycache
 pyphisher.txt
 pyt.txt
 python.txt
@@ -13784,6 +13786,11 @@ venmo.csv
 Venmo.txt
 venmo.txt
 venmos.txt
+venv
+venv/bin
+venv/include
+venv/lib
+venv/lib64
 vercel.json
 verification
 Verified
