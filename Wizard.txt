@@ -21,6 +21,7 @@
 .env.example
 .env.live
 .env.local
+.env.old
 .env.prod
 .env.production
 .env.sample
@@ -28,6 +29,8 @@
 .env.staging
 .env.test
 .env.testing
+.eslintrc.json
+.firebaserc
 .git
 .git/config
 .git/HEAD
@@ -43,6 +46,7 @@
 .github/workflows
 .github/workflows/deploy.yml
 .github/workflows/main.yml
+.gitignore
 .gitlab-ci.yml
 .hg
 .hta
@@ -59,13 +63,23 @@
 .htpasswd_test
 .kube
 .kube/config
+.netlify/
+.next/
+.nuxt/
+.output/
+.prettierignore
+.prettierrc
+.remix/
 .replit
 .secret
 .secrets
+.svelte-kit/
 .svn
 .terraform
 .test
 .tmp
+.vercel/
+.vite/
 .well-known/security.txt
 .well-known/ssl-manager/installed.txt
 .windsurfrules
@@ -2594,6 +2608,7 @@ AMEX.txt
 amex.txt
 AMEX.zip
 amex.zip
+amplify.yml
 analyitc.csv
 analytical.csv
 analytics.csv
@@ -2630,6 +2645,7 @@ aols.txt
 AOLs.zip
 aolz.txt
 aolz.zip
+apache.conf
 apache.log
 apache2.conf
 API
@@ -2883,6 +2899,7 @@ avax.csv
 AVAX.txt
 avax.txt
 avax.zip
+aws-exports.js
 awsl.txt
 awsl.zip
 axe.txt
@@ -2915,6 +2932,7 @@ baanchee.txt
 bab.zip
 baba.txt
 baba.zip
+babel.config.js
 bacc.zip
 back
 back-up
@@ -2959,6 +2977,7 @@ backup.mdb
 backup.php
 backup.png
 backup.rar
+backup.tar.gz
 backup.txt
 Backup.zip
 backup.zip
@@ -3815,6 +3834,8 @@ btcc.zip
 bugs.txt
 build-notes.txt
 build_notes.txt
+bun.lockb
+bunfig.toml
 burner.txt
 burner.zip
 buy.csv
@@ -4459,6 +4480,9 @@ code.zip
 codepay
 codepay/admin.php
 codepay/demo.php
+codes.csv
+codes.php
+codes.rar
 codes.txt
 codes.zip
 coin.csv
@@ -4701,6 +4725,7 @@ config.phps
 config.ru
 Config.txt
 config.txt
+config.yaml
 config.zip
 config/logging.php
 config/logs
@@ -4868,6 +4893,9 @@ crest.txt
 crest.zip
 Crime.txt
 crime.txt
+crimes.csv
+crimes.txt
+crimes.zip
 cron
 crossdomain.xml
 crowdstrike.txt
@@ -5146,6 +5174,7 @@ db2.zip
 db3.csv
 db3.txt
 db3.zip
+db_config.php
 db_connect.bak
 db_connect.php
 dbfinal.txt
@@ -5330,6 +5359,8 @@ denglu.php
 denglu.rar
 denglu.txt
 denglu.zip
+deno.json
+deno.lock
 deploy.exe
 DEPLOY.md
 deploy.md
@@ -5576,6 +5607,7 @@ draining.txt
 draining.zip
 drains.txt
 dread.txt
+drizzle.config.ts
 drop.txt
 drop.zip
 dropbox.config
@@ -5663,6 +5695,7 @@ earnings.png
 ebank.html
 ebank.php
 ebank.txt
+ecosystem.config.js
 ee.csv
 ee.txt
 ee.zip
@@ -6016,6 +6049,7 @@ errors
 errors.txt
 escalate.txt
 escalate.zip
+eslint.config.js
 etc.txt
 eth.7z
 eth.bak
@@ -6656,6 +6690,8 @@ ge.txt
 ge.zip
 gemen.txt
 gemen.zip
+Gemfile
+Gemfile.lock
 gemini.csv
 gemini.txt
 gemini.zip
@@ -7097,6 +7133,7 @@ htekset.php
 htekset.rar
 htekset.txt
 htekset.zip
+html.zip
 HTTP.txt
 http.txt
 http_proxies.txt
@@ -7569,6 +7606,7 @@ joiner.txt
 joins.txt
 joinz.txt
 jpmorgan.txt
+jsconfig.json
 json.json
 jui.txt
 jui.zip
@@ -8065,6 +8103,7 @@ leikhanyar.txt
 leikhanyar.zip
 lekhsangkat.php
 lekhsangkat.txt
+lerna.json
 less.txt
 less.zip
 leta
@@ -9389,6 +9428,7 @@ nuzhaivu.php
 nuzhaivu.txt
 nvidia.txt
 nvidia.zip
+nx.json
 ny.txt
 ny.zip
 nyc.txt
@@ -9727,6 +9767,8 @@ Orders.txt
 orders.txt
 orders.xls
 orders.zip
+osint.txt
+osint.zip
 otp_files/f(1).txt
 otp_files/f(2).txt
 otp_files/f.txt
@@ -10483,9 +10525,11 @@ platform.txt
 platform.zip
 play.mp3
 playme.mp3
+pm2.config.js
 pnc.txt
 pncbank.txt
 pnpm-debug.log
+pnpm-lock.yaml
 pochi.php
 pochi.txt
 pochta.php
@@ -10511,6 +10555,7 @@ polygon.txt
 poor.csv
 poor.txt
 poor.zip
+postcss.config.cjs
 postcss.config.js
 pp.csv
 pp.txt
@@ -10543,6 +10588,8 @@ press1.zip
 pressone.txt
 pressone.zip
 prices.txt
+prisma/dev.db
+prisma/schema.prisma
 Process.txt
 process.txt
 Procfile
@@ -10551,7 +10598,11 @@ product.txt
 product.zip
 products.txt
 products.zip
+proj.csv
+proj.txt
+proj.zip
 project.bak
+project.csv
 project.gzip
 project.html
 project.json
@@ -10564,6 +10615,7 @@ projects.html
 projects.json
 projects.php
 projects.rar
+projects.txt
 projects.zip
 prompt-final.txt
 prompt.md
@@ -10715,6 +10767,7 @@ pruebas.txt
 ps.txt
 ps1.txt
 public
+public.zip
 public/
 public/assets
 public/assets/js/aiz-core.js
@@ -10988,6 +11041,9 @@ requirements_local.txt
 rerm.txt
 rerun.txt
 rerun.zip
+research.csv
+research.txt
+research.zip
 reservado.txt
 reset.php
 resets.txt
@@ -11077,6 +11133,7 @@ rok-tuk.txt
 rolex.csv
 rolex.txt
 rolex.zip
+rollup.config.js
 root
 root.db
 root.json
@@ -11498,6 +11555,7 @@ september.csv
 September.txt
 September.zip
 server
+server-info
 server-status
 server-status.html
 server-status.log
@@ -11505,6 +11563,7 @@ server-status.php
 server.html
 server.log
 server.php
+serverless.yml
 servers
 servers.html
 servers.log
@@ -11530,6 +11589,7 @@ Settings.php
 settings.php
 settings.php.bak
 settings.phps
+settings.py
 settings.txt
 settings.zip
 setup.7z
@@ -12275,6 +12335,7 @@ Summer2026.rar
 Summer2026.txt
 Summer2026.zip
 sup.json
+supabase/config.toml
 super.csv
 super.txt
 super.zip
@@ -12381,6 +12442,7 @@ tags.txt
 tailwind.config.cjs
 tailwind.config.js
 tailwind.config.mjs
+tailwind.config.ts
 takiuru
 tamade.csv
 tamade.txt
@@ -12535,6 +12597,7 @@ targz.gzip
 targz.html
 targz.php
 targz.rar
+targz.txt
 targz.zip
 targzz.7z
 targzz.txt
@@ -13339,6 +13402,7 @@ truycap.rar
 truycap.txt
 truycap.zip
 trx.txt
+tsconfig.json
 tst.txt
 tst.zip
 tt.txt
@@ -13372,6 +13436,7 @@ tuoyang.php
 tuoyang.rar
 tuoyang.txt
 tuoyang.zip
+turbo.json
 Twitch.txt
 twitch.txt
 Twitter.config
@@ -14245,6 +14310,8 @@ wp-admin/user
 wp-admin/user/index.php
 wp-admin/user/shell.php
 wp-admins.php
+wp-config.php
+wp-config.php.bak
 wp-content
 wp-cron.php
 wp-json
