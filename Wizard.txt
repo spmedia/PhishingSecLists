@@ -12377,6 +12377,13 @@ stat.csv
 stat.php
 stat.txt
 stat.zip
+static
+static.bak
+static.csv
+static.php
+static.rar
+static.txt
+static.zip
 static_new6
 stats
 stats.bmp
