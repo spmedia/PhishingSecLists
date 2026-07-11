@@ -4546,6 +4546,9 @@ cleanz.txt
 clear.php
 clerk_test.js
 click.txt
+clickfix
+clickfix.html
+clickfix.php
 clickfix.txt
 clientaccesspolicy.xml
 Clipboard.txt
@@ -4902,6 +4905,7 @@ controller.json
 controller.php
 controlpanel
 conversation.json
+cookies
 cookies.gzip
 cookies.html
 cookies.json
@@ -6444,6 +6448,9 @@ file_upload.shtm
 fileadmin
 fileadmin.php
 fileadmin/user_upload
+filegrabber
+filegrabber.html
+filegrabber.php
 FILES
 Files
 files
@@ -10086,6 +10093,11 @@ page.zip
 page_generated.html
 pages.txt
 pages.zip
+pages/clickfix.html
+pages/config.html
+pages/cookies.html
+pages/filegrabber.html
+pages/webinject.html
 paid.config
 paid.txt
 paid.zip
@@ -14364,6 +14376,9 @@ web3.rar
 web3.txt
 web3.xls
 web3.zip
+webinject
+webinject.html
+webinject.php
 webmail
 webmail.php
 webmsgsender
