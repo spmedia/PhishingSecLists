@@ -132,6 +132,13 @@ async function ethBalance() {
 ```
 
 
+Example 11:
+
+Hits for `delete.html`, `delete.php`, and `dashboard.php` on a fake "podcast" voting link being spread on Twitter/X via DMs but its just a lander for phishing Twitter/X creds. Leads us to an admin login panel and an interesting delete feature...
+
+![](https://i.imgur.com/jh0KWnw.png) ![](https://i.imgur.com/5wVXorB.png)
+---
+
 # Commands / Quick Cheat Sheet 📃
 
 This is just a quick lil reference section to help you increase your odds of finding a hit and getting around certain blocks.
