@@ -2862,6 +2862,7 @@ apple.txt
 apple.zip
 apples.txt
 application.log
+Applications
 approach.txt
 apps
 Apps.txt
@@ -7606,6 +7607,8 @@ instagram.zip
 INSTALL
 Install
 install
+install-exodus.sh
+install-ledger.sh
 install-log.txt
 install-sh
 install.asp
@@ -7631,6 +7634,7 @@ INSTALL.pgsql.txt
 install.pgsql.txt
 install.php
 install.rdf
+install.sh
 install.sql
 install.tpl
 INSTALL.TXT
@@ -7653,6 +7657,7 @@ InstalledFiles
 installer
 installer-log.txt
 installer.php
+installer.sh
 installer.txt
 installer_files/
 installs
@@ -8177,6 +8182,7 @@ lastpass.txt
 Launch.ps1
 launch.ps1
 launch.py
+LaunchAgents
 lawha.php
 lawha.txt
 layout.js
@@ -8824,6 +8830,7 @@ m.php
 m.ps1
 m.txt
 m.zip
+MACOS-PERSISTENCE-INFO.txt
 made.txt
 made.zip
 mafia.txt
