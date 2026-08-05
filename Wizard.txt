@@ -3168,6 +3168,7 @@ ayan.zip
 aza.txt
 aza.zip
 azure.txt
+b
 b.7z
 b.bak
 b.csv
@@ -4183,6 +4184,7 @@ buy.txt
 buy.zip
 buying.txt
 buys.txt
+c
 c.7z
 c.bak
 c.csv
@@ -5376,6 +5378,7 @@ cve.txt
 cves.txt
 cyber.txt
 cybersec.txt
+d
 d.7z
 d.bak
 d.csv
@@ -6148,6 +6151,7 @@ duplicates.txt
 dupped.txt
 dups.txt
 DXJS.zip
+e
 e-money.html
 e-money.php
 e-money.txt
@@ -7239,6 +7243,7 @@ funding.zip
 funds.csv
 funds.txt
 funds.zip
+g
 g.7z
 g.bak
 g.bmp
@@ -7482,6 +7487,7 @@ gv.php
 gv.rar
 gv.txt
 gv.zip
+h
 h.7z
 h.bak
 h.csv
@@ -7792,6 +7798,7 @@ hunters.txt
 hunters.zip
 huy.txt
 huy.zip
+i
 i.7z
 i.bak
 i.csv
@@ -8234,6 +8241,7 @@ istimara.txt
 italian.txt
 italy.txt
 itunes.log
+j
 j.7z
 j.bak
 j.csv
@@ -8324,6 +8332,7 @@ juneproxies.txt
 Junk
 junk
 junk.php
+k
 k.7z
 k.bak
 k.csv
@@ -8603,6 +8612,7 @@ kycdoc.zip
 kycdocs.zip
 kys.txt
 kys.zip
+l
 l.7z
 l.bak
 l.csv
@@ -9353,6 +9363,7 @@ lure.php
 lure.txt
 luy.php
 luy.txt
+m
 m.7z
 m.bak
 m.csv
@@ -9953,6 +9964,7 @@ mysqli.php
 mysqlitedb.db
 mysqlmanager/
 mytest.php
+n
 n.7z
 n.bak
 n.csv
@@ -10281,6 +10293,7 @@ nyet.txt
 nyet.zip
 nywila.php
 nywila.txt
+o
 o.7z
 o.bak
 o.csv
@@ -10669,6 +10682,7 @@ own.db
 own.json
 own.txt
 owns.txt
+p
 p.7z
 p.bak
 p.csv
@@ -11125,14 +11139,17 @@ paunggu.rar
 paunggu.txt
 paunggu.zip
 paxful
+pay
 pay.txt
 pay.zip
 payee.txt
 payee.zip
 payer.txt
 payer.zip
+payload
 payload.ps1
 payload_1.ps1
+payloads
 payment.csv
 payment.txt
 payment.zip
@@ -11758,6 +11775,7 @@ pyphisher.txt
 pyt.txt
 python.txt
 pz.txt
+q
 q.7z
 q.bak
 q.csv
@@ -11821,6 +11839,7 @@ quotes.txt
 quotes.zip
 qwe
 qwerty.php
+r
 r.7z
 r.bak
 r.csv
@@ -12148,6 +12167,7 @@ ruupphaap.html
 ruupphaap.json
 ruupphaap.php
 ruupphaap.txt
+s
 s.7z
 s.bak
 s.csv
@@ -13476,6 +13496,7 @@ SystemErr.log
 systemlogin
 SystemOut.log
 systempanel
+t
 t.7z
 t.bak
 t.csv
@@ -14554,6 +14575,8 @@ tuma
 tuma.php
 tuma.txt
 tumblr.txt
+tunnel
+tunnel_payloads
 tuoyang.gzip
 tuoyang.html
 tuoyang.log
@@ -14576,6 +14599,7 @@ tx.txt
 tx.zip
 txt.php
 txt.txt
+u
 u.7z
 u.bak
 u.csv
@@ -14993,6 +15017,7 @@ uuu.zip
 uwu.json
 uwu.txt
 uwu.zip
+v
 v.7z
 v.bak
 v.csv
@@ -15230,6 +15255,7 @@ vv.zip
 vvv.txt
 vvv.zip
 vyvod.txt
+w
 w.7z
 w.bak
 w.csv
@@ -15616,6 +15642,7 @@ www.rar
 www.txt
 www.zip
 wwww.txt
+x
 x.7z
 x.bak
 x.csv
@@ -15668,6 +15695,7 @@ xxx.txt
 xxx.zip
 xxxx.txt
 xyz.txt
+y
 y.7z
 y.bak
 y.csv
@@ -15747,6 +15775,7 @@ YYDS.zip
 yyds.zip
 yyy.txt
 yyy.zip
+z
 z.7z
 z.bak
 z.csv
