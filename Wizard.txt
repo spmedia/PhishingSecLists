@@ -4741,6 +4741,16 @@ closeds.txt
 closers.txt
 closers.zip
 closes.txt
+cloud
+cloud.csv
+cloud.gzip
+cloud.htm
+cloud.html
+cloud.json
+cloud.php
+cloud.rar
+cloud.txt
+cloud.zip
 cloudflare.csv
 cloudflare.json
 cloudflare.log
@@ -4748,6 +4758,7 @@ cloudflare.php
 cloudflare.rar
 cloudflare.txt
 cloudflare.zip
+clouds
 cmd.php
 CN.txt
 cn.txt
