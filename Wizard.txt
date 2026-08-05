@@ -2870,6 +2870,8 @@ api/email
 api/emails
 api/error_log
 api/exfil
+api/get
+api/get/directions
 api/heartbeat
 api/info
 api/infos
@@ -4081,6 +4083,7 @@ build.log
 build.php
 build.txt
 build.zip
+build/manifest.json
 build_notes.txt
 builds
 builds.7z
@@ -8109,6 +8112,7 @@ joiner.txt
 joins.txt
 joinz.txt
 jpmorgan.txt
+js
 jsconfig.json
 json.json
 jui.txt
@@ -9287,6 +9291,7 @@ main.gzip
 main.html
 main.json
 main.php
+main.ts
 main.txt
 mainnet.txt
 malware.exe
@@ -11777,6 +11782,8 @@ reservado.txt
 reset.php
 resets.txt
 resets.zip
+resources/js
+resources/js/main.ts
 response.txt
 response.zip
 responses.txt
