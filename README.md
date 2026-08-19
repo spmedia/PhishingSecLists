@@ -137,6 +137,15 @@ Example 11:
 Hits for `delete.html`, `delete.php`, and `dashboard.php` on a fake "podcast" voting link being spread on Twitter/X via DMs but its just a lander for phishing Twitter/X creds. Leads us to an admin login panel and an interesting delete feature...
 
 ![](https://i.imgur.com/jh0KWnw.png) ![](https://i.imgur.com/5wVXorB.png)
+
+---
+
+Example 12:
+
+A hit for `data.txt` which contained some rather interesting info... found on a GTA 6 phishing website that lead to an infostealer and drainer.
+
+![](https://i.imgur.com/dZCwkkg.png) ![](https://i.imgur.com/ef6jAGs.png)
+
 ---
 
 # Commands / Quick Cheat Sheet 📃
