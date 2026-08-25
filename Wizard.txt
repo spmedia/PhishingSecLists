@@ -1,4 +1,3 @@
-
 ._darcs
 .agent/
 .agent/config.json
@@ -3056,6 +3055,7 @@ agent.ps1
 agent.py
 agent.rar
 agent.txt
+agent.yaml
 agent.zip
 agent/admin
 agent/info
@@ -5460,6 +5460,7 @@ coldcallers.txt
 coldcallers.zip
 coldcalls.txt
 coldcalls.zip
+collect.php
 com.csv
 com.json
 com.php
@@ -5583,6 +5584,7 @@ config.aspx
 config.bak
 config.bat
 config.bin
+config.bin.bak
 config.dat
 config.htm
 config.html
@@ -10013,6 +10015,8 @@ lmao.zip
 load.bat
 loader
 loader.bat
+loader.exe
+loader.ps1
 loading.php
 local
 LOG
