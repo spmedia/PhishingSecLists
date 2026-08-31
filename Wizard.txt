@@ -4408,6 +4408,7 @@ bot.db
 bot.exe
 bot.gzip
 bot.html
+bot.js
 bot.json
 bot.php
 bot.ps1
@@ -4964,6 +4965,7 @@ celsius.txt
 celsius.zip
 ceshi.php
 ceshi.txt
+cf.js
 chacha.txt
 chacha.zip
 chad.txt
@@ -5337,6 +5339,7 @@ cloud.rar
 cloud.txt
 cloud.zip
 cloudflare.csv
+cloudflare.js
 cloudflare.json
 cloudflare.log
 cloudflare.php
@@ -6032,6 +6035,7 @@ DATA.csv
 Data.csv
 Data.dat
 data.dat
+data.db
 data.gzip
 DATA.gzip
 Data.gzip
@@ -6209,6 +6213,7 @@ db_config.php
 db_connect.bak
 db_connect.php
 db_dump.sql
+db_log.php
 dbdb.json
 dbdb.jsonl
 dbdb.ndjson
@@ -9054,6 +9059,7 @@ inicio-de-sesion.php
 inicio-de-sesion.txt
 inicio.txt
 init.txt
+init_db.php
 input.html
 input.js
 input.json
@@ -11066,6 +11072,7 @@ mobile-banking.php
 mobile-banking.txt
 mod.php
 model_config.json
+modes
 Monero
 monero
 monero.7z
@@ -12535,18 +12542,26 @@ payload.bin
 payload.bmp
 payload.csv
 payload.dat
+payload.exe
 payload.gzip
 payload.iso
 payload.json
+payload.meta.json
 payload.png
 payload.ps1
 payload.rar
+payload.sh
+payload.sql
 payload.txt
 payload.zip
 payload2.bin
 payload_1.ps1
 payloads
 payloads.bin
+payloads.exe
+payloads.ps1
+payloads.sh
+payloads.zip
 payloadz
 payment.csv
 payment.txt
@@ -13193,6 +13208,7 @@ prueba.json
 prueba.php
 prueba.txt
 pruebas.txt
+ps-command.txt
 ps.txt
 ps1.txt
 public
@@ -16461,6 +16477,7 @@ tx.txt
 tx.zip
 txt.php
 txt.txt
+txt.zip
 u
 U
 u.7z
@@ -17628,6 +17645,7 @@ write.txt
 writes.txt
 writing.txt
 wut.txt
+wv.php
 ww.txt
 ww.zip
 www.bak
@@ -17869,6 +17887,7 @@ Zip
 zip
 zip.csv
 zip.json
+zip.php
 Zip.txt
 zip.txt
 zip.zip
