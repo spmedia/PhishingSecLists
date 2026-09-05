@@ -2414,6 +2414,7 @@ abc.txt
 abeg.txt
 abeg.zip
 abhiyan.txt
+about.php
 abuse.txt
 abuse.zip
 abuses.txt
@@ -2437,6 +2438,7 @@ access.dll
 access.exe
 access.json
 access.log
+access.log.1
 access.mdb
 access.php
 access.ps1
@@ -3329,6 +3331,7 @@ api/pass
 api/password
 api/private
 api/register
+api/render-report
 api/secrets
 api/stats
 api/status
@@ -3354,6 +3357,8 @@ api/v1/status
 api/v1/swagger
 api/v1/users
 api/v2
+api/v2/products
+api/v2/users
 api/v3
 api/v4
 api/v5
@@ -3454,6 +3459,7 @@ archive.csv
 archive.json
 archive.jsonl
 archive.ndjson
+archive.php
 archive.tar
 archive.txt
 archive.zip
@@ -3492,6 +3498,7 @@ asdfsdg.txt
 asdg.txt
 asdgv.txt
 askdjfh.txt
+asp
 asset
 asset-manifest.json
 asset.txt
@@ -4032,6 +4039,7 @@ banner.csv
 banner.htm
 banner.html
 banner.json
+banner.php
 banner.txt
 banner.zip
 banners.txt
@@ -6314,6 +6322,7 @@ ddd.zip
 dddd.txt
 de.txt
 dead.csv
+dealer
 DEBUG
 Debug
 debug
@@ -7961,6 +7970,7 @@ fortinet.log
 fortinet.rar
 fortinet.txt
 fortinet.zip
+forum
 forum.aspx
 forum.bat
 forum.config
@@ -8961,6 +8971,7 @@ ikhtibar.php
 ikhtibar.txt
 il.txt
 il.zip
+image
 image.txt
 image.zip
 imagenes.gzip
@@ -9226,6 +9237,7 @@ Install.php
 install.php
 Install.ps1
 install.ps1
+install.py
 Install.rar
 install.rar
 install.rdf
@@ -9275,6 +9287,7 @@ Installer.php
 installer.php
 Installer.ps1
 installer.ps1
+installer.py
 Installer.rar
 installer.rar
 installer.sh
@@ -9399,6 +9412,7 @@ isp.log
 israel.txt
 istimara.php
 istimara.txt
+it.js
 italian.txt
 italy.txt
 itunes.log
@@ -12062,6 +12076,7 @@ Orders.txt
 orders.txt
 orders.xls
 orders.zip
+os
 osint.txt
 osint.zip
 otp_files/f(1).txt
@@ -12218,12 +12233,14 @@ page.js
 page.tsx
 page.zip
 page_generated.html
+pages
 pages.txt
 pages.zip
 pages/clickfix.html
 pages/config.html
 pages/cookies.html
 pages/filegrabber.html
+pages/index
 pages/webinject.html
 paid.config
 paid.txt
@@ -14350,6 +14367,7 @@ Scrub.txt
 scrub.txt
 Scrubbed.txt
 scrubbed.txt
+sdk
 se.php
 se.txt
 se.zip
@@ -16627,6 +16645,7 @@ traffic.html
 traffic.txt
 trafficstats.txt
 trafficstats.zip
+training
 trans.csv
 transaction.csv
 transaction.txt
@@ -17359,6 +17378,9 @@ valids.txt
 validusers.txt
 validz.csv
 validz.txt
+var
+var/log
+var/log/apache2
 vector_store_test.js
 vendor
 vendor.csv
