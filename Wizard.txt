@@ -4117,7 +4117,9 @@ bdjw.txt
 BDJW.zip
 bdjw.zip
 beacon
+bee.php
 bees.csv
+bees.php
 beicui.txt
 beicui.zip
 bep-bat.php
@@ -10294,6 +10296,10 @@ loader.exe
 loader.ps1
 loading.php
 local
+lockedin.txt
+lockedin.zip
+lockin.txt
+lockin.zip
 LOG
 Log
 log
@@ -12734,7 +12740,9 @@ payyy.txt
 pdo.bak
 pdo.php
 pe.txt
+pea.pgp
 pea.txt
+peas.php
 Peas.txt
 peas.txt
 peaz.txt
@@ -18246,6 +18254,8 @@ zips.rar
 ZIPS.txt
 zips.txt
 zips.zip
+znbot
+Znbot
 zoin.rar
 zoin.txt
 zoin.zip
