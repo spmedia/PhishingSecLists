@@ -161,6 +161,7 @@
 0.aspx
 0.bak
 0.bat
+0.conf
 0.config
 0.cs
 0.csv
@@ -212,6 +213,7 @@
 1.bat
 1.bin
 1.cmd
+1.conf
 1.config
 1.cs
 1.csv
@@ -439,6 +441,7 @@
 2.bak
 2.bat
 2.bin
+2.conf
 2.config
 2.cs
 2.csv
@@ -2360,6 +2363,7 @@ a.bat
 A.bin
 a.bin
 a.cmd
+a.conf
 a.config
 a.cs
 A.csv
@@ -3606,6 +3610,7 @@ b.bak
 b.bat
 B.bin
 b.bin
+b.conf
 b.config
 b.cs
 B.csv
@@ -4312,6 +4317,7 @@ black.php
 black.txt
 blacklist
 blacklist.7z
+blacklist.conf
 blacklist.csv
 blacklist.dat
 blacklist.gzip
@@ -4467,6 +4473,7 @@ BOT
 bot
 bot.bak
 bot.bat
+bot.conf
 bot.config
 bot.csv
 bot.db
@@ -4478,6 +4485,7 @@ bot.json
 bot.php
 bot.ps1
 bot.rar
+bot.sh
 BOT.txt
 bot.txt
 bot.zip
@@ -4526,6 +4534,7 @@ bots
 bots.7z
 bots.bak
 bots.bat
+bots.conf
 bots.csv
 bots.db
 bots.exe
@@ -4537,6 +4546,7 @@ bots.mp4
 bots.php
 bots.ps1
 bots.rar
+bots.sh
 BOTS.txt
 bots.txt
 bots.zip
@@ -4695,6 +4705,7 @@ c.bak
 c.bat
 C.bin
 c.bin
+c.conf
 c.config
 c.cs
 C.csv
@@ -5614,6 +5625,7 @@ combolists3.zip
 combolistt.txt
 combolistz.csv
 combolog.csv
+combos.conf
 combos.csv
 combos.gzip
 combos.html
@@ -5667,6 +5679,7 @@ concha.csv
 concha.gzip
 concha.rar
 concha.txt
+conf.conf
 conf.txt
 conf1.txt
 conf2.txt
@@ -8206,6 +8219,7 @@ geo.zip
 geoip.txt
 geolocation
 germany.txt
+get.conf
 getting-started.html
 getting-started.php
 getting-started.txt
@@ -8282,6 +8296,7 @@ go.bak
 go.bat
 Go.bin
 go.bin
+go.conf
 go.config
 go.cs
 Go.csv
@@ -8935,6 +8950,8 @@ i.zip
 ibank.html
 ibank.php
 ibank.txt
+iBlacklist.conf
+iblacklist.conf
 icloud.7z
 icloud.gzip
 icloud.html
@@ -13115,6 +13132,7 @@ polygon.txt
 poor.csv
 poor.txt
 poor.zip
+post.conf
 postcss.config.cjs
 postcss.config.js
 pp.csv
@@ -14024,6 +14042,7 @@ run.aspx
 run.bak
 run.bat
 run.bin
+run.conf
 run.config
 run.cs
 run.csv
@@ -14600,6 +14619,7 @@ shabi.zip
 shark
 shell.aspx
 shell.bat
+shell.conf
 shell.config
 shell.cs
 shell.csv
@@ -14611,8 +14631,10 @@ shell.php
 shell.ps1
 shell.py
 shell.txt
+shelled.conf
 shelled.txt
 shellphish.txt
+shells.conf
 shells.php
 shells.txt
 shenma.txt
@@ -15229,6 +15251,7 @@ start.bat
 START.bin
 Start.bin
 start.bin
+start.conf
 start.config
 start.cs
 START.csv
@@ -15571,7 +15594,9 @@ swaggerui
 swapped.txt
 swaps.txt
 swaps2.txt
+swat.conf
 swat.csv
+swat.sh
 swat.txt
 swat.zip
 swats.csv
@@ -15596,7 +15621,9 @@ syslog
 system
 system-administration
 system-prompt.txt
+system.conf
 system.log
+system.sh
 system.zip
 system/cache
 system/cron/cron.txt
@@ -15688,6 +15715,7 @@ targ-2026.zip
 targ.7z
 targ.bak
 targ.bin
+targ.conf
 targ.csv
 targ.gzip
 targ.html
@@ -15784,6 +15812,7 @@ targs-2026.zip
 targs.7z
 targs.bak
 targs.bin
+targs.conf
 targs.csv
 Targs.gzip
 targs.gzip
@@ -17739,6 +17768,7 @@ wetin.txt
 wetin.zip
 wewe.php
 wewe.txt
+wget.conf
 wget.txt
 what.csv
 what.txt
