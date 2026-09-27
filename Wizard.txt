@@ -3079,12 +3079,14 @@ aga.txt
 aga.zip
 Agent
 agent
+AGENT
 agent.7z
 agent.bak
 agent.bin
 agent.json
 agent.log
 AGENT.md
+agent.md
 agent.php
 agent.ps1
 agent.py
@@ -3107,6 +3109,7 @@ Agents
 agents
 agents.json
 AGENTS.md
+agents.md
 agents.php
 agents.txt
 agents.zip
@@ -5073,6 +5076,7 @@ changing.zip
 channel.csv
 channel.txt
 channel.zip
+channels
 channels.csv
 channels.txt
 channels.zip
@@ -6638,6 +6642,7 @@ dinero.zip
 ding.csv
 ding.txt
 ding.zip
+dir
 dir.json
 dir.jsonl
 dir.ndjson
@@ -6814,6 +6819,7 @@ draining.txt
 draining.zip
 drains.txt
 dread.txt
+dreams
 drizzle.config.ts
 drop.txt
 drop.zip
@@ -7832,6 +7838,7 @@ files/uploads
 files/uploads.txt
 files/uploads.zip
 files/valid.txt
+filesystem
 filez.rar
 filez.txt
 filter.csv
@@ -8579,6 +8586,8 @@ healthy
 healthy.json
 healthy.txt
 healthy.zip
+HEARTBEAT.md
+heartbeat.md
 heck.txt
 hecked.txt
 hecked.zip
@@ -8682,10 +8691,12 @@ hohol.rar
 hohol.txt
 hohol.zip
 holo.txt
+home
 home.7z
 home.html
 home.php
 home.txt
+home.yaml
 home.zip
 home0.zip
 home0php
@@ -8733,6 +8744,8 @@ hook.php
 hook.txt
 hooked.php
 hooked.txt
+hooks
+HOOKS
 hooks.php
 hooks.txt
 hospital.txt
@@ -8966,6 +8979,8 @@ id.rar
 ID.txt
 id.txt
 id.zip
+IDENTITY.md
+identity.md
 idk
 idk.dat
 idk.log
@@ -11066,6 +11081,8 @@ meme.txt
 memes.txt
 memlogin/
 memory
+MEMORY.md
+memory.md
 men.json
 men.jsonl
 men.ndjson
@@ -14057,6 +14074,7 @@ run.py
 run.rar
 run.txt
 run.zip
+runtime.lock
 rus.txt
 Russia.txt
 russia.txt
@@ -14807,6 +14825,7 @@ sitsipwe.txt
 sitsipwe.zip
 six.txt
 six.zip
+skills.yaml
 skim.txt
 skimmed.txt
 skimmed.zip
@@ -15011,6 +15030,8 @@ sothanai.html
 sothanai.json
 sothanai.php
 sothanai.txt
+SOUL.md
+soul.md
 sound.mp3
 source
 sp1d3r.txt
@@ -15511,6 +15532,7 @@ submitzz.txt
 submitzzz.txt
 subs
 subs.txt
+subscriptions
 success.json
 success.php
 Success.txt
@@ -16625,6 +16647,8 @@ tools.7z
 tools.config
 tools.gzip
 tools.html
+TOOLS.md
+tools.md
 tools.php
 tools.rar
 Tools.txt
@@ -17102,6 +17126,7 @@ USDT.txt
 usdt.txt
 User
 user
+USER
 user-account.html
 user-account.php
 user-account.txt
@@ -17117,6 +17142,8 @@ user.db
 user.json
 user.jsonl
 user.log
+USER.md
+user.md
 user.ndjson
 user.php
 user.ps1
@@ -17928,6 +17955,7 @@ words.txt
 words.zip
 Work
 work
+WORK
 work.7z
 work.aspx
 work.csv
@@ -17993,6 +18021,10 @@ works.php
 Works.txt
 works.txt
 works.zip
+workspace
+WORKSPACE
+workspace-state.json
+workspace-state.lock
 wot.txt
 wp-admin
 wp-admin.php
