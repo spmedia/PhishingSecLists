@@ -3136,9 +3136,11 @@ agent/test
 agent/user
 AGENT_INSTRUCTIONS.md
 agent_test.py
+agentix.log
 Agents
 agents
 agents.json
+agents.log
 AGENTS.md
 agents.md
 agents.php
@@ -3219,6 +3221,7 @@ alpha.config
 alpha.csv
 alpha.doc
 alpha.docx
+alpha.exe
 alpha.gzip
 alpha.htm
 alpha.html
@@ -4276,6 +4279,7 @@ betas.zip
 betatest.txt
 betterment.txt
 bg.mp3
+bg.zip
 biaodan.php
 biaodan.txt
 Biden.txt
@@ -4725,6 +4729,8 @@ builds.php
 builds.rar
 builds.txt
 builds.zip
+bumper.exe
+bumper.ps1
 bun.lockb
 bunfig.toml
 burner.txt
@@ -5471,6 +5477,7 @@ closers.txt
 closers.zip
 closes.txt
 cloud
+CLOUD
 cloud.csv
 cloud.gzip
 cloud.htm
@@ -5860,6 +5867,7 @@ controller.php
 controlpanel
 conversation.json
 cookie
+cookie.json
 cookies
 cookies.gzip
 cookies.html
@@ -7698,6 +7706,7 @@ family.txt
 FanDuel.txt
 fanduel.txt
 faq
+fast.exe
 fatal_errors.log
 fb.json
 fb.log
@@ -8728,6 +8737,7 @@ hi.txt
 hi.zip
 hidden.7z
 hidden.csv
+hidden.exe
 hidden.gzip
 hidden.htm
 hidden.html
@@ -9419,7 +9429,10 @@ Installer.zip
 installer.zip
 installer_files/
 installs
+installs.json
+Installs.log
 installs.txt
+Installs.txt
 installs.zip
 installs2.txt
 installsbot.txt
@@ -9446,6 +9459,7 @@ insurance.gzip
 insurance.rar
 insurance.txt
 insurance.zip
+Intall.log
 integration.php
 Intel
 intel
@@ -11368,6 +11382,7 @@ money.zip
 moneyy.txt
 mongo-express
 monies.txt
+monte.ocx
 months.txt
 months.zip
 more.rar
@@ -11599,6 +11614,7 @@ new.bat
 new.config
 new.csv
 new.dat
+new.exe
 new.gzip
 new.html
 new.json
@@ -12029,6 +12045,7 @@ old.accdb
 old.config
 old.csv
 old.dat
+old.exe
 old.gzip
 old.html
 old.log
@@ -13224,6 +13241,7 @@ pncbank.txt
 pnpm-debug.log
 pnpm-lock.yaml
 pnpm-lock.yaml.bak
+poc.exe
 pochi.php
 pochi.txt
 pochta.php
@@ -13785,6 +13803,7 @@ queues.txt
 quick-deposit.html
 quick-deposit.php
 quick-deposit.txt
+quick.exe
 quickstart.html
 QUICKSTART.md
 quickstart.php
@@ -13877,12 +13896,14 @@ raw.php
 raw.txt
 rce.txt
 rce.zip
+RDP
 rdp.7z
 rdp.html
 rdp.php
 rdp.rar
 RDP.txt
 rdp.txt
+rdp.xlsx
 rdp.zip
 RDPS.txt
 rdps.txt
@@ -14290,6 +14311,8 @@ saloyed.csv
 saloyed.txt
 saloyed.zip
 salvado.txt
+SAM
+sam
 samarppikka.gzip
 samarppikka.html
 samarppikka.json
@@ -15759,6 +15782,7 @@ sysbackup
 sysinfo.txt
 syslog
 system
+SYSTEM
 system-administration
 system-prompt.txt
 system.conf
@@ -17092,6 +17116,7 @@ upd.txt
 update
 update.bak
 update.json
+update.log
 update.ps1
 update.txt
 update.zip
@@ -17706,6 +17731,10 @@ voicemail.txt
 voicemails.mp3
 voicemails.txt
 voices.mp3
+voip.csv
+voip.json
+voip.txt
+voip.zip
 vouch.txt
 vouched.txt
 vouching.txt
@@ -18453,6 +18482,7 @@ zoinbase.php
 zoinbase.rar
 zoinbase.txt
 zoinbase.zip
+zoip.zip
 ZQSG.txt
 zqsg.txt
 ZQSG.zip
