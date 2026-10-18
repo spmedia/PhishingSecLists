@@ -148,6 +148,14 @@ A hit for `data.txt` which contained some rather interesting info... found on a 
 
 ---
 
+Example 13:
+
+Scanning an AI vibe coded ransomware DLS from a new group that started posting victims and a hit for `README.md` pops in the root directory. It exposes the server IP and a lot of other things lol. This lets us know these are skids and also can then go take down their infra or at least try to if its not bulletproof servers.
+
+![](https://i.imgur.com/HOwr9F5.png)
+
+---
+
 # Commands / Quick Cheat Sheet 📃
 
 This is just a quick lil reference section to help you increase your odds of finding a hit and getting around certain blocks.
