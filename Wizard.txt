@@ -144,6 +144,7 @@
 .opencode.json
 .opencode/
 .output/
+.pip
 .pnpmfile.cjs
 .prettierignore
 .prettierrc
@@ -2708,6 +2709,7 @@ ad
 ad.csv
 ad.html
 ad.txt
+ad.xml
 ad.zip
 ada.bak
 ada.csv
@@ -3043,6 +3045,7 @@ ads.gzip
 ads.html
 ads.rar
 ads.txt
+ads.xml
 ads.zip
 adult.json
 adult.jsonl
@@ -3108,9 +3111,9 @@ affz.csv
 affz.txt
 aga.txt
 aga.zip
+AGENT
 Agent
 agent
-AGENT
 agent.7z
 agent.bak
 agent.bin
@@ -3633,6 +3636,7 @@ authorized.txt
 auths
 auths.csv
 auths.txt
+auto.py
 AutoFill.txt
 Autofill.txt
 autofill.txt
@@ -3712,6 +3716,7 @@ baba.zip
 babel.config.js
 babel.config.js.bak
 bacc.zip
+BACK
 back
 back-up
 back-ups
@@ -3749,6 +3754,7 @@ backs.json
 backs.jsonl
 backs.ndjson
 backs.zip
+BACKUP
 backup
 backup-db
 backup.7z
@@ -3847,7 +3853,9 @@ bak.js
 bak.json
 bak.jsonl
 bak.ndjson
+bak.txt
 bak.zip
+bak2.txt
 balance.7z
 balance.csv
 balance.gzip
@@ -4332,6 +4340,7 @@ bitches.zip
 Bitcoin
 bitcoin.7z
 bitcoin.bak
+bitcoin.config
 Bitcoin.csv
 bitcoin.csv
 bitcoin.dat
@@ -4530,6 +4539,7 @@ borang.php
 borang.txt
 BOT
 bot
+bot.arm
 bot.bak
 bot.bat
 bot.conf
@@ -4541,6 +4551,7 @@ bot.gzip
 bot.html
 bot.js
 bot.json
+bot.log
 bot.php
 bot.ps1
 bot.rar
@@ -4594,12 +4605,14 @@ bots.7z
 bots.bak
 bots.bat
 bots.conf
+bots.config
 bots.csv
 bots.db
 bots.exe
 bots.gzip
 bots.html
 bots.json
+bots.log
 bots.mp3
 bots.mp4
 bots.php
@@ -4634,6 +4647,7 @@ botz
 botz.csv
 botz.exe
 botz.json
+botz.log
 botz.php
 botz.txt
 botz.zip
@@ -4691,6 +4705,7 @@ bsky.txt
 btc
 btc.7z
 btc.bak
+btc.config
 btc.csv
 btc.gzip
 btc.html
@@ -4698,6 +4713,7 @@ btc.ini
 btc.jpeg
 btc.jpg
 btc.json
+btc.log
 btc.php
 btc.png
 btc.rar
@@ -4716,6 +4732,7 @@ build.htm
 build.html
 build.log
 build.php
+build.sh
 build.txt
 build.zip
 build/manifest.json
@@ -4800,14 +4817,17 @@ c.txt
 c.xls
 C.zip
 c.zip
+c2
 c2.bmp
 c2.gzip
 c2.jpg
 c2.json
+c2.log
 c2.php
 c2.png
 c2.txt
 c2.zip
+c2_vps
 ca.csv
 ca.json
 ca.jsonl
@@ -5321,6 +5341,8 @@ chinese.txt
 Chinese.zip
 chinese.zip
 chineseemail.txt
+chisel.exe
+chisel.log
 chitra.gzip
 chitra.html
 chitra.json
@@ -5430,6 +5452,7 @@ cleans.ndjson
 cleans.txt
 cleans.zip
 cleans1.txt
+cleanup.sh
 cleanusernames.txt
 cleanz.txt
 clear.php
@@ -5476,8 +5499,8 @@ closeds.txt
 closers.txt
 closers.zip
 closes.txt
-cloud
 CLOUD
+cloud
 cloud.csv
 cloud.gzip
 cloud.htm
@@ -5766,6 +5789,7 @@ config.ini
 config.js
 config.json
 config.log
+CONFIG.md
 Config.php
 config.php
 config.php.bak
@@ -5868,6 +5892,7 @@ controlpanel
 conversation.json
 cookie
 cookie.json
+cookie.txt
 cookies
 cookies.gzip
 cookies.html
@@ -5926,6 +5951,7 @@ cpns.zip
 cpu.php
 cpu.txt
 cpus.txt
+crack
 crack.csv
 crack.json
 crack.log
@@ -6630,8 +6656,8 @@ DEPLOY.md
 deploy.md
 deploy.sh
 deploy.yml
-deployment.md
 DEPLOYMENT.md
+deployment.md
 deployment.txt
 depo.csv
 depo.txt
@@ -6758,6 +6784,7 @@ disimpan.php
 disimpan.txt
 dist.zip
 dist/index.html.bak
+dl
 dll
 dls.csv
 dls.json
@@ -6924,6 +6951,7 @@ dropped.zip
 drops.txt
 drops.zip
 drupal.json
+dstat.log
 dummy.html
 dummy.php
 Dump
@@ -6957,6 +6985,7 @@ dumpz.dat
 dumpz.log
 dumpz.txt
 dumpzz.txt
+DUO-SERVER.md
 duo.txt
 duo.zip
 dup.txt
@@ -7599,6 +7628,7 @@ exploited.txt
 exploited.zip
 exploiting.txt
 exploiting.zip
+exploits.py
 exploits.txt
 exploits.zip
 explore
@@ -8053,8 +8083,10 @@ force.txt
 forced.txt
 forge.py
 forgot-password
+form.html
 form.js
 form.php
+form2.html
 forma.php
 forma.txt
 format.json
@@ -8270,6 +8302,7 @@ g.ps1
 g.py
 G.rar
 g.rar
+g.sh
 g.sql
 G.txt
 g.txt
@@ -8322,6 +8355,7 @@ geoip.txt
 geolocation
 germany.txt
 get.conf
+get.log
 getting-started.html
 getting-started.php
 getting-started.txt
@@ -8589,6 +8623,9 @@ h.txt
 h.xls
 H.zip
 h.zip
+h1.txt
+h2.txt
+h3.txt
 hack.csv
 hack.html
 hack.php
@@ -8841,8 +8878,8 @@ hook.php
 hook.txt
 hooked.php
 hooked.txt
-hooks
 HOOKS
+hooks
 hooks.php
 hooks.txt
 hospital.txt
@@ -8990,6 +9027,7 @@ htekset.rar
 htekset.txt
 htekset.zip
 html.zip
+http.config
 http.log
 HTTP.txt
 http.txt
@@ -8998,6 +9036,7 @@ httpd.conf
 httpd.txt
 httpproxies.txt
 httpproxy.txt
+https.config
 https.log
 HTTPS.txt
 https.txt
@@ -9090,6 +9129,7 @@ ids.dat
 IDs.txt
 ids.txt
 ids.zip
+idx.html
 ig.log
 IG.txt
 ig.txt
@@ -9390,6 +9430,7 @@ install_
 INSTALL_admin
 install_manifest.txt
 install_mgr.log
+install_panel.sh
 installation.php
 installation/
 installed.json
@@ -9431,8 +9472,8 @@ installer_files/
 installs
 installs.json
 Installs.log
-installs.txt
 Installs.txt
+installs.txt
 installs.zip
 installs2.txt
 installsbot.txt
@@ -10434,6 +10475,7 @@ loader.exe
 loader.ps1
 loading.php
 local
+LOCAL-GUIDE.md
 lockedin.txt
 lockedin.zip
 lockin.txt
@@ -12214,6 +12256,9 @@ ops.zip
 optimism.txt
 opz.txt
 opz.zip
+oracle.py
+oracle.txt
+oracle_results.json
 order.json
 Order.txt
 order.txt
@@ -12306,6 +12351,7 @@ P.gzip
 p.gzip
 P.htm
 P.html
+p.jar
 p.js
 P.json
 p.json
@@ -12973,6 +13019,7 @@ phish.dat
 phish.db
 phish.html
 phish.json
+phish.log
 phish.mp3
 phish.php
 PHISH.txt
@@ -13267,7 +13314,9 @@ polygon.txt
 poor.csv
 poor.txt
 poor.zip
+portal.py
 post.conf
+post.log
 postcss.config.cjs
 postcss.config.js
 pp.csv
@@ -13356,8 +13405,8 @@ prompt.bak
 prompt.bin
 prompt.json
 prompt.log
-prompt.md
 PROMPT.md
+prompt.md
 prompt.php
 prompt.ps1
 prompt.py
@@ -13373,8 +13422,8 @@ prompter.txt
 prompter.zip
 prompts
 prompts.json
-prompts.md
 PROMPTS.md
+prompts.md
 prompts.txt
 prompts/
 prompts/coding.md
@@ -13687,6 +13736,7 @@ pw.csv
 pw.gzip
 pw.json
 pw.jsonl
+pw.log
 pw.ndjson
 pw.php
 pw.rar
@@ -13707,6 +13757,7 @@ pwnned.txt
 pwns.txt
 pws.csv
 pws.gzip
+pws.log
 pws.txt
 PWS.vbs
 pws.vbs
@@ -13719,7 +13770,9 @@ px.txt
 pxs.txt
 py.php
 py.txt
+py64.zip
 pycache
+pydrop.dll
 pyphisher.txt
 pyt.txt
 python.txt
@@ -13894,6 +13947,7 @@ rats.zip
 ratted.txt
 raw.php
 raw.txt
+rce.py
 rce.txt
 rce.zip
 RDP
@@ -13910,6 +13964,7 @@ rdps.txt
 read.7z
 read.bak
 read.json
+READ.md
 read.php
 read.txt
 read.zip
@@ -14049,9 +14104,11 @@ reports.log
 reports.txt
 reports.zip
 request
+request.log
 request.php
 requests
 requests.json
+requests.log
 requests.php
 requests.txt
 requirements-dev.txt
@@ -15033,6 +15090,7 @@ SMTPs.txt
 smtps.txt
 smtps.zip
 Snap
+snap
 snap.config
 Snap.txt
 snap.txt
@@ -15367,6 +15425,7 @@ srds.txt
 srds.zip
 ss.txt
 ss.zip
+ssh
 ssn.csv
 SSN.txt
 ssn.txt
@@ -15623,6 +15682,7 @@ subjects.php
 subjects.txt
 submit
 submit.asp
+submit.config
 submit.csv
 submit.db
 submit.gzip
@@ -15640,6 +15700,7 @@ Submit.zip
 submit.zip
 Submits
 submits
+submits.config
 submits.csv
 submits.ini
 submits.json
@@ -15781,8 +15842,8 @@ sysadmins
 sysbackup
 sysinfo.txt
 syslog
-system
 SYSTEM
+system
 system-administration
 system-prompt.txt
 system.conf
@@ -16060,6 +16121,8 @@ TASKS.md
 tasks.php
 tasks.txt
 tasks/todo.md
+TCP
+tcp
 tcp.txt
 tdbank.txt
 tdbank.zip
@@ -16503,8 +16566,8 @@ testing.js
 testing.json
 testing.jsonl
 testing.log
-testing.md
 TESTING.md
+testing.md
 testing.mp3
 testing.ndjson
 testing.nfo
@@ -16865,6 +16928,7 @@ transactions.log
 transactions.rar
 transactions.txt
 transactions.zip
+transfer
 transfer.7z
 transfer.csv
 transfer.gzip
@@ -17161,8 +17225,8 @@ upload/upload.php
 upload2.php
 upload_backup
 upload_file.php
-uploaded
 UPLOADED
+uploaded
 uploaded.gzip
 uploaded.txt
 uploaded.zip
@@ -17275,9 +17339,9 @@ usdt.php
 usdt.rar
 USDT.txt
 usdt.txt
+USER
 User
 user
-USER
 user-account.html
 user-account.php
 user-account.txt
@@ -18109,9 +18173,9 @@ words.json
 words.log
 words.txt
 words.zip
+WORK
 Work
 work
-WORK
 work.7z
 work.aspx
 work.csv
@@ -18177,8 +18241,8 @@ works.php
 Works.txt
 works.txt
 works.zip
-workspace
 WORKSPACE
+workspace
 workspace-state.json
 workspace-state.lock
 wot.txt
@@ -18472,8 +18536,8 @@ zips.rar
 ZIPS.txt
 zips.txt
 zips.zip
-znbot
 Znbot
+znbot
 zoin.rar
 zoin.txt
 zoin.zip
