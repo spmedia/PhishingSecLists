@@ -3211,6 +3211,7 @@ al.txt
 al.zip
 ali
 ali.txt
+alive_all.txt
 all
 all.log
 all.txt
@@ -3640,6 +3641,7 @@ auto.py
 AutoFill.txt
 Autofill.txt
 autofill.txt
+autostash.log
 AV.lnk
 avax.csv
 AVAX.txt
@@ -5136,6 +5138,9 @@ cf.js
 chacha.txt
 chacha.zip
 chad.txt
+chain.log
+chain2.log
+chain3.log
 chan.gzip
 chan.html
 chan.json
@@ -7555,6 +7560,7 @@ EU.jsonl
 eu.jsonl
 EU.ndjson
 eu.ndjson
+eu_scan
 euemail.txt
 euemails.txt
 eumail.txt
@@ -8243,14 +8249,20 @@ fud.zip
 fudd.txt
 fuder.php
 fuds.txt
+full
+FULL
 full.txt
 full_logs
 full_logs.txt
+fullDE
 fulls.csv
 Fulls.txt
 fulls.txt
 fulls.zip
 fulls2.txt
+fullUS
+fullz
+FULLZ
 fullz.csv
 fullz.txt
 fullz.zip
@@ -11113,6 +11125,7 @@ marketing-campaign.php
 marketing-campaign.txt
 mars.php
 mars.txt
+masscan.log
 MASTER
 master
 master.csv
@@ -11799,6 +11812,7 @@ NNSL.txt
 nnsl.txt
 node_modules
 node_modules.zip
+nohub.log
 noname.txt
 None.txt
 none.txt
@@ -13375,6 +13389,7 @@ product.txt
 product.zip
 products.txt
 products.zip
+progress.log
 PROGRESS.md
 proj.csv
 proj.txt
@@ -14216,6 +14231,11 @@ rok-tuk.txt
 rolex.csv
 rolex.txt
 rolex.zip
+rolling.log
+rolling1.log
+rolling2.log
+rolling3.log
+rolling_state
 rollup.config.js
 root
 root.db
@@ -15545,6 +15565,8 @@ stats.html
 stats.jpeg
 stats.jpg
 stats.json
+STATS.md
+stats.md
 stats.mp3
 stats.mp4
 stats.pdf
@@ -15562,6 +15584,8 @@ status
 status.gzip
 status.json
 STATUS.md
+sTATUS.md
+status.md
 status.php
 status.txt
 status.zip
@@ -17287,6 +17311,7 @@ us_phone_num.txt
 us_phone_number.txt
 us_phone_numbers.txt
 us_phones.txt
+us_scan
 usa.7z
 usa.bmp
 usa.csv
