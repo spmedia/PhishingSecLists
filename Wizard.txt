@@ -366,6 +366,7 @@
 12.rar
 12.txt
 12.zip
+122.php
 123.csv
 123.txt
 123.zip
@@ -492,6 +493,7 @@
 2.log
 2.ndjson
 2.php
+2.png
 2.ps1
 2.py
 2.rar
@@ -2221,8 +2223,11 @@
 69.zip
 6969.txt
 6969.zip
+6_月区域经理会议统计_无效明细.xlsx
+6_月区域经理会议统计_有效.xlsx
 6fig.txt
 6figs.txt
+6月数据_AI会议.xls
 7
 7.7z
 7.aspx
@@ -3642,6 +3647,7 @@ AutoFill.txt
 Autofill.txt
 autofill.txt
 autostash.log
+AutoSUID.sh
 AV.lnk
 avax.csv
 AVAX.txt
@@ -6091,6 +6097,7 @@ customers.txt
 customers.zip
 cutlet.txt
 cutlets.txt
+CVE-2026-43503.c
 cve.txt
 cves.txt
 cyber.txt
@@ -7619,6 +7626,7 @@ exoduswallet.txt
 exoduswallet.zip
 exoduswallets.csv
 exoduswallets.txt
+exp.py
 exploit.7z
 exploit.bak
 exploit.bin
@@ -7661,6 +7669,7 @@ exports.html
 exports.php
 exports.rar
 exports.zip
+Extension-Spoofer-main
 extract.csv
 extract.txt
 extract.zip
@@ -8956,6 +8965,7 @@ hosting.sh
 hosting.txt
 hosting.xls
 hosting.zip
+hosts
 hosts.7z
 hosts.bak
 hosts.bat
@@ -10367,6 +10377,7 @@ Linkedin.txt
 linkedin.txt
 linking.txt
 linking.zip
+linux-exploit-suggester.sh
 list
 list.aspx
 list.bat
@@ -13131,6 +13142,7 @@ photo.zip
 photos.zip
 php
 php.ini
+php.php
 php.txt
 php/config.php
 php_info.php
@@ -13213,6 +13225,7 @@ pics.txt
 Pics.zip
 pics.zip
 picture.zip
+Pictures
 pictures.zip
 PICZ
 Picz
@@ -14862,9 +14875,11 @@ shell.dll
 shell.exe
 shell.json
 shell.php
+shell.php.png
 shell.ps1
 shell.py
 shell.txt
+shell1
 shelled.conf
 shelled.txt
 shellphish.txt
@@ -15041,6 +15056,8 @@ sitsipwe.txt
 sitsipwe.zip
 six.txt
 six.zip
+skills
+skills-lock.json
 skills.yaml
 skim.txt
 skimmed.txt
@@ -15767,6 +15784,7 @@ success.zip
 success/success.txt
 sudo.txt
 sudo.zip
+sudo_chwoot.sh
 suka.txt
 suka.zip
 sukka.txt
@@ -18623,3 +18641,7 @@ zzzzz.txt
 электронная почта
 электронная-почта.php
 электронная_почта.txt
+工资表汇总
+归档
+抚州鹰潭门店数据
+表格核算
