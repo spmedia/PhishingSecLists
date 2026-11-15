@@ -4195,6 +4195,7 @@ bdjw.txt
 BDJW.zip
 bdjw.zip
 beacon
+beacon.ps1
 bee.php
 bees.csv
 bees.php
@@ -4377,6 +4378,7 @@ bitcoinpanel
 bitcoins
 bitcoins.csv
 bitcoins.txt
+bitfinex
 bitmart.txt
 bitpay.gzip
 bitpay.rar
@@ -5130,6 +5132,7 @@ ccz.zip
 cdc.txt
 cdc.zip
 cdn-cgi/trace
+cdp.hta
 cell.txt
 celsius.7z
 celsius.bak
@@ -8644,7 +8647,11 @@ h.txt
 h.xls
 H.zip
 h.zip
+h1.ps1
 h1.txt
+h1b.ps1
+h1c.ps1
+h2.ps1
 h2.txt
 h3.txt
 hack.csv
@@ -8694,7 +8701,9 @@ happy.json
 happy.txt
 happy.zip
 harrypotter.txt
+harvest.hta
 harvest.txt
+harvest2.hta
 harvested.txt
 hash
 hash.php
@@ -8714,6 +8723,10 @@ hc
 hc.php
 hc.txt
 hc.zip
+hcdp.ps1
+hcdp2.ps1
+hcdp3.ps1
+hcdp_scan.ps1
 he.txt
 head.php
 head.zip
@@ -9041,6 +9054,11 @@ hotmails.zip
 houston.txt
 houston.zip
 howto.mp3
+hta_beacon2.hta
+hta_implant.hta
+hta_task.hta
+hta_task2.hta
+hta_task3.hta
 htekset.gzip
 htekset.html
 htekset.log
@@ -9076,6 +9094,7 @@ hunters.txt
 hunters.zip
 huy.txt
 huy.zip
+hwallet.ps1
 I
 i
 I.7z
@@ -9573,6 +9592,7 @@ ip.dat
 ip.db
 ip.json
 ip.log
+ip.ps1
 IP.txt
 ip.txt
 ip.zip
@@ -12919,6 +12939,7 @@ payload.csv
 payload.dat
 payload.exe
 payload.gzip
+payload.hta
 payload.iso
 payload.json
 payload.meta.json
@@ -12989,6 +13010,7 @@ pesa.txt
 pgp.txt
 pgp.zip
 ph1sh.txt
+phantom
 phantom.bak
 phantom.csv
 phantom.json
@@ -14298,6 +14320,8 @@ run.py
 run.rar
 run.txt
 run.zip
+runner.hta
+runner3.hta
 runtime.lock
 rus.txt
 Russia.txt
@@ -14639,6 +14663,7 @@ Scrub.txt
 scrub.txt
 Scrubbed.txt
 scrubbed.txt
+sct.sct
 sdk
 se.php
 se.txt
@@ -14954,6 +14979,7 @@ simpan.json
 simpan.php
 simpan.txt
 simpanan.txt
+simple_beacon.hta
 SIMS.txt
 sims.txt
 simswap.txt
@@ -17975,6 +18001,7 @@ way.json
 way.txt
 wayo.txt
 wayo.zip
+wazirx
 wbtc.txt
 wdym.7z
 wdym.csv
