@@ -3353,18 +3353,26 @@ api/
 api/2/explore/
 api/api
 api/auth
+api/blog
+api/build
+api/builds
 api/call
 api/calls
+api/chat
+api/chats
 api/config
 api/data
 api/debug
+api/demo
 api/device
 api/device/service
 api/email
 api/emails
+api/emergency
 api/error_log
 api/exfil
 api/files
+api/gate
 api/get
 api/get/directions
 api/graphql
@@ -3402,6 +3410,8 @@ api/swagger.yml
 api/test
 api/testing
 api/tests
+api/traffic
+api/trial
 api/upload
 api/uploads
 api/user
@@ -3424,6 +3434,7 @@ api/v3
 api/v4
 api/v5
 api/version
+api/visits
 API_DOCS.md
 api_key.txt
 api_keys.json
@@ -4239,6 +4250,7 @@ beta.gzip
 beta.htm
 beta.html
 beta.ini
+beta.js
 beta.json
 beta.jsonl
 beta.log
@@ -4356,6 +4368,7 @@ bitcoin.dat
 bitcoin.gzip
 bitcoin.html
 bitcoin.ini
+bitcoin.js
 Bitcoin.json
 bitcoin.json
 bitcoin.log
@@ -4740,6 +4753,7 @@ build-notes.txt
 build.csv
 build.htm
 build.html
+build.js
 build.log
 build.php
 build.sh
@@ -4747,6 +4761,8 @@ build.txt
 build.zip
 build/manifest.json
 build_notes.txt
+builder
+builder.js
 builds
 builds.7z
 builds.csv
@@ -5074,6 +5090,8 @@ cartera.html
 cartera.json
 cartera.php
 cartera.txt
+case
+cases
 cash-withdrawal.html
 cash-withdrawal.php
 cash-withdrawal.txt
@@ -5186,6 +5204,7 @@ Chase.zip
 chase.zip
 Chat
 chat
+chat 
 chat.bak
 chat.config
 chat.json
@@ -5260,6 +5279,7 @@ cheats.zip
 cheatz.txt
 check.csv
 check.html
+check.js
 check.mp3
 check.php
 check.txt
@@ -5545,6 +5565,7 @@ cockli.txt
 cockli.zip
 code.csv
 code.html
+code.js
 code.php
 code.rar
 code.txt
@@ -6699,6 +6720,7 @@ deposits.txt
 deposits.zip
 DESIGN.md
 DESIGN_SYSTEM.md
+desk
 desksoft
 Desktop
 desktop
@@ -7549,6 +7571,7 @@ Ethereum
 ethereum.csv
 ethereum.gzip
 ethereum.html
+ethereum.js
 ethereum.php
 ethereum.rar
 Ethereum.txt
@@ -10512,9 +10535,11 @@ lmao.json
 lmao.txt
 lmao.zip
 load.bat
+load.js
 loader
 loader.bat
 loader.exe
+loader.js
 loader.ps1
 loading.php
 local
@@ -12960,10 +12985,12 @@ payloads.sh
 payloads.zip
 payloadz
 payment.csv
+payment.js
 payment.txt
 payment.zip
 payment_request.php
 payments.csv
+payments.js
 payments.txt
 payments.zip
 paymentt.txt
@@ -13968,6 +13995,7 @@ rag_test.js
 railway.json
 ramp.txt
 ramp4u.txt
+ransom.js
 ransom.txt
 ransomware.txt
 ransomware.zip
@@ -14272,6 +14300,8 @@ rolling2.log
 rolling3.log
 rolling_state
 rollup.config.js
+room
+room/enter
 root
 root.db
 root.json
@@ -15260,6 +15290,7 @@ sol.zip
 solana.bak
 solana.csv
 solana.gzip
+solana.js
 solana.json
 solana.log
 solana.php
@@ -15595,10 +15626,14 @@ stat.zip
 static
 static.bak
 static.csv
+static.html
+static.js
 static.php
 static.rar
 static.txt
 static.zip
+static/app
+static/ransom.js
 static_new6
 stats
 stats.bmp
