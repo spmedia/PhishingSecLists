@@ -53,6 +53,7 @@
 .cline/
 .clineignore
 .clinerules
+.cobaltstrike.beacon_keys
 .codeiumignore
 .codex
 .codex/config.toml
@@ -186,6 +187,7 @@
 .nuxt/
 .nuxt/dist
 .nxc
+.onion
 .openai/
 .openai/config.json
 .opencode
@@ -215,6 +217,8 @@
 .s3cfg
 .secret
 .secrets
+.sliver
+.sliver-client
 .specstory
 .specstory/history
 .ssh
@@ -252,6 +256,7 @@
 .windsurfrules
 .wizard
 .wizards
+.x
 .yarnrc
 0
 0.7z
@@ -2143,6 +2148,7 @@
 3389.txt
 365.txt
 365.zip
+3dsecure.php
 3Q.txt
 3q.txt
 3Q.zip
@@ -2439,6 +2445,7 @@
 9999.txt
 99999.txt
 __pycache__
+__utm.gif
 _app.js
 _app.tsx
 _backup
@@ -2586,6 +2593,8 @@ account-login.txt
 account.html
 account.php
 account.txt
+account/update
+account/verify
 account2026.7z
 account2026.aspx
 account2026.bak
@@ -2764,6 +2773,7 @@ active.php
 actives.csv
 actives.php
 actives.txt
+activity
 actor.aspx
 actor.bat
 actor.config
@@ -3236,6 +3246,7 @@ agents/login
 agents/logs
 agents/panel
 agents/README.md
+agscript
 ahorrar.txt
 ai
 ai-generated.html
@@ -3379,11 +3390,13 @@ androids.csv
 androids.txt
 angular.json
 animated.gif
+announcements.json
 anon
 anonymous
 ansible.cfg
 anthropic_key.txt
 anthropic_test.js
+antibot.php
 aol.csv
 aol.json
 AOL.txt
@@ -3624,6 +3637,7 @@ archives
 archives.csv
 archives.txt
 archives.zip
+artifact.exe
 artifact.html
 artifact.txt
 artifacts
@@ -4249,6 +4263,7 @@ bantueklaew.html
 bantueklaew.json
 bantueklaew.php
 bantueklaew.txt
+barclays.zip
 barua
 barua.php
 barua.txt
@@ -4300,6 +4315,8 @@ bdjw.txt
 BDJW.zip
 bdjw.zip
 beacon
+beacon.bin
+beacon.exe
 beacon.ps1
 bee.php
 bees.csv
@@ -4407,8 +4424,11 @@ biaodan.php
 biaodan.txt
 Biden.txt
 biden.txt
+billing.php
 bin
 bin.csv
+bin.exe
+bin_list.csv
 Binance
 binance.config
 binance.csv
@@ -4430,6 +4450,7 @@ bins.7z
 bins.csv
 Bins.rar
 bins.rar
+bins.sh
 Bins.txt
 bins.txt
 Bins.zip
@@ -4576,6 +4597,8 @@ blocked.rar
 blocked.txt
 blocked.zip
 blocked2.txt
+blocked_ips.txt
+blocker.php
 blocking.csv
 blocking.txt
 blocking2.txt
@@ -4597,6 +4620,7 @@ blocks.php
 blocks.txt
 blocks2.txt
 blockz.txt
+blog.json
 blya.7z
 blya.bak
 blya.csv
@@ -4692,6 +4716,7 @@ bot6.txt
 bot7.txt
 bot8.txt
 bot9.txt
+bot_token.txt
 botadmin
 botnet
 botnet.bak
@@ -4840,6 +4865,7 @@ btc.rar
 BTC.txt
 btc.txt
 btc.zip
+btc_addresses.txt
 btcc.gzip
 btcc.rar
 btcc.txt
@@ -4862,7 +4888,9 @@ build.zip
 build/manifest.json
 build_notes.txt
 builder
+builder.exe
 builder.js
+builder.php
 builds
 builds.7z
 builds.csv
@@ -4955,6 +4983,7 @@ c2.txt
 c2.zip
 c2_vps
 c99.php
+ca
 ca.csv
 ca.json
 ca.jsonl
@@ -5134,6 +5163,7 @@ cao.txt
 cao.zip
 Capture.txt
 capture.txt
+captured.json
 Captures.txt
 captures.txt
 car.txt
@@ -5310,6 +5340,7 @@ chat
 chat 
 chat.bak
 chat.config
+chat.db
 chat.json
 chat.jsonl
 chat.log
@@ -5324,6 +5355,7 @@ chat.zip
 chat1.txt
 chat2.txt
 chat_history.json
+chat_id.txt
 chat_widget_test.js
 chatbot.log
 chatbot.txt
@@ -5352,6 +5384,7 @@ chatgpt_template.php
 chatlogs.txt
 Chats
 CHATS
+chats
 chats.7z
 chats.bak
 chats.gzip
@@ -5395,6 +5428,7 @@ checked.php
 Checked.txt
 checked.txt
 checked.zip
+checker
 checker.bin
 checker.gzip
 checker.html
@@ -5609,6 +5643,7 @@ clickfix.txt
 client.7z
 client.bak
 client.bin
+client.exe
 client.json
 client.log
 client.php
@@ -5619,8 +5654,10 @@ client.txt
 client.zip
 client_debug_log.txt
 client_debug_logs.txt
+client_portal
 client_secret.json
 clientaccesspolicy.xml
+clients
 Clipboard.txt
 clone.html
 clone.php
@@ -5664,6 +5701,8 @@ cloudflare.rar
 cloudflare.txt
 cloudflare.zip
 clouds
+cm
+cmd.hta
 cmd.php
 CN.txt
 cn.txt
@@ -5671,6 +5710,8 @@ CN.zip
 cn.zip
 cn_email.txt
 cobalt.dll
+cobaltstrike.jar
+cobaltstrike.store
 cockli.csv
 cockli.txt
 cockli.zip
@@ -5895,6 +5936,7 @@ comms.php
 comms.txt
 comot.txt
 comot.zip
+companies.json
 complaint.txt
 complaints.txt
 COMPLETION_REPORT.md
@@ -5980,6 +6022,7 @@ configure.php
 configures.htm
 configures.html
 configures.php
+confirm
 confirm.php
 conn.bak
 conn.php
@@ -6083,11 +6126,13 @@ correos-electronicos.html
 correos-electronicos.json
 correos-electronicos.php
 correos-electronicos.txt
+countdown.json
 cover.txt
 covered.txt
 cpanel
 cpanel.gzip
 cpanel.json
+cpanel.php
 cpanel.txt
 cpanel.zip
 cpanels
@@ -6174,6 +6219,7 @@ crimes.csv
 crimes.txt
 crimes.zip
 cron
+cron.sh
 crossdomain.xml
 crowdstrike.txt
 crowdstrike.zip
@@ -6215,6 +6261,7 @@ cryptocom.zip
 cryptos.txt
 cryptos.xlsx
 cryptos.zip
+css
 cuenta.txt
 cuentas.txt
 cunkuan.txt
@@ -6246,6 +6293,7 @@ CVE-2026-43503.c
 cve.txt
 cves.txt
 CVS/Entries
+cvv.txt
 cyber.txt
 cybersec.txt
 D
@@ -6651,6 +6699,9 @@ December.txt
 december.txt
 December.zip
 DECISIONS.md
+decryptor
+decryptor_test
+decryptors
 dedup.txt
 dedup1.txt
 dedup2.txt
@@ -6862,6 +6913,7 @@ desktop.ini
 desktop.txt
 Desktop.zip
 desktop.zip
+details.lnk
 details.txt
 details.zip
 dev
@@ -6957,6 +7009,9 @@ dist.zip
 dist/index.html.bak
 dl
 dll
+dlr.arm
+dlr.mips
+dlr.x86
 dls.csv
 dls.json
 dls.txt
@@ -7014,6 +7069,8 @@ docs/roadmap.md
 docs/setup.md
 docs/todo.md
 docs/troubleshooting.md
+document.docm
+document.exe
 documentation
 Documents
 documents
@@ -7095,6 +7152,7 @@ doxxed.csv
 doxxed.txt
 doxxed.zip
 doxxx.txt
+dpixel
 draft.html
 draft.php
 draft_page.tsx
@@ -7140,6 +7198,7 @@ dropbox.txt
 dropbox.zip
 dropped.txt
 dropped.zip
+dropper.exe
 drops.txt
 drops.zip
 drupal.json
@@ -7268,6 +7327,7 @@ earnings.png
 ebank.html
 ebank.php
 ebank.txt
+ebanking.zip
 ecosystem.config.js
 edge_function_test.ts
 ee.csv
@@ -7660,6 +7720,7 @@ emel.txt
 emoney.html
 emoney.php
 emoney.txt
+empire
 en.csv
 en.json
 en.txt
@@ -7802,8 +7863,10 @@ exchange.txt
 exchanges.php
 exchanges.txt
 execute.bat
+exfil
 exfil.txt
 exfil.zip
+exfil_data
 exfilled.txt
 Exodus
 exodus
@@ -8014,6 +8077,7 @@ fff.zip
 ffff.zip
 FILE
 file
+file.exe
 file.part01.rar
 file.part02.rar
 file.part03.rar
@@ -8539,6 +8603,7 @@ gambar.json
 gambar.php
 gambar.txt
 gandalf.txt
+gate.php
 gatsby-config.js
 gatsby-node.js
 gay.txt
@@ -8737,6 +8802,8 @@ gpt_output.js
 gpt_output.tsx
 gpt_response.html
 gpt_response.txt
+grabber
+grabber.php
 grafana
 graphiql
 graphql
@@ -8889,6 +8956,7 @@ haha.csv
 haha.txt
 hahaha.txt
 hahahaha.txt
+handler.rc
 hantar.gzip
 hantar.html
 hantar.json
@@ -8915,6 +8983,7 @@ hashes.txt
 hashes.zip
 haspyd.txt
 haspyd.zip
+havoc
 hbar.txt
 hc
 hc.php
@@ -9177,6 +9246,7 @@ hosting.sh
 hosting.txt
 hosting.xls
 hosting.zip
+hostname
 hosts
 hosts.7z
 hosts.bak
@@ -9253,6 +9323,9 @@ hotmails.zip
 houston.txt
 houston.zip
 howto.mp3
+hs_ed25519_public_key
+hs_ed25519_secret_key
+hsbc.zip
 hta_beacon2.hta
 hta_implant.hta
 hta_task.hta
@@ -9426,6 +9499,7 @@ imgs
 imgs.txt
 imgz
 implant.js
+implants
 implants.js
 implementation_plan.md
 IMPLEMENTATION_SUMMARY.md
@@ -9446,6 +9520,8 @@ inbox.zip
 inboxed.csv
 inboxs.csv
 inboxs.txt
+inc
+includes
 incoming.txt
 index-backup.html
 index-bak
@@ -9596,6 +9672,7 @@ infra
 infra.html
 infra.php
 infra.txt
+ing.zip
 ingia
 ingia.php
 ingia.txt
@@ -9608,6 +9685,8 @@ inicio-de-sesion.txt
 inicio.txt
 init.txt
 init_db.php
+injects
+injects.json
 input.html
 input.js
 input.json
@@ -9690,6 +9769,7 @@ install_panel.sh
 installation.php
 installation/
 installed.json
+installed_software.txt
 InstalledFiles
 Installer
 installer
@@ -9712,6 +9792,7 @@ Installer.json
 installer.json
 Installer.log
 installer.log
+installer.msi
 Installer.php
 installer.php
 Installer.ps1
@@ -9800,6 +9881,9 @@ inviting.html
 inviting.php
 inviting.txt
 inviting.zip
+invoice.doc
+invoice.exe
+invoice.xlsm
 IP
 ip
 ip.csv
@@ -10081,10 +10165,13 @@ key.txt
 key_log.txt
 key_logged.txt
 key_logger.txt
+keylog.txt
 keylogged.txt
 keylogger.dat
 keylogger.txt
+keylogs
 keylogs.txt
+keys
 keys.txt
 keyz.txt
 keyz.zip
@@ -10134,10 +10221,12 @@ kill.txt
 killed.txt
 killer.txt
 killing.txt
+kinsing
 kirim
 kirim.php
 kirim.txt
 kit
+kit.zip
 KITADMIN
 kitadmin
 kitadmin/log
@@ -10580,6 +10669,7 @@ leta.php
 leta.txt
 letsencrypt
 lgs.txt
+lib
 licenes.txt
 LICENSE
 license
@@ -10666,6 +10756,7 @@ list9.zip
 list_good.txt
 list_new.txt
 listen.mp3
+listeners.txt
 listenhere.mp3
 LISTS
 Lists
@@ -10702,9 +10793,11 @@ liuliuliu.txt
 liuliuliu.zip
 LIVE
 Live
+live
 live.csv
 live.db
 live.json
+live.php
 Live.txt
 live.txt
 Live.zip
@@ -10748,6 +10841,7 @@ LOCAL-GUIDE.md
 LocalSettings.php
 lockedin.txt
 lockedin.zip
+locker
 lockin.txt
 lockin.zip
 LOG
@@ -11108,6 +11202,7 @@ lookup.txt
 lookups.csv
 lookups.txt
 lookups.zip
+loot
 lord.sh
 lorem.html
 lovable-generated.html
@@ -11323,6 +11418,7 @@ Makefile
 male.json
 male.jsonl
 male.ndjson
+malleable.profile
 malware.exe
 malware.html
 malware.zip
@@ -11403,6 +11499,7 @@ master.zip
 master/
 master/portquotes_new/admin.log
 master1.txt
+master_key.bin
 Mastercard.txt
 mastercard.txt
 mastercard.zip
@@ -11474,6 +11571,7 @@ medical.php
 medical.txt
 medical.zip
 medicals.txt
+mega_links.txt
 meh.txt
 member
 member.php
@@ -11541,6 +11639,7 @@ message.zip
 messages.7z
 messages.bak
 messages.csv
+messages.db
 messages.gzip
 messages.html
 messages.json
@@ -11585,6 +11684,7 @@ metasploit.php
 metasploit.pl
 metasploit.txt
 metasploit.zip
+meterpreter.exe
 method.txt
 method.zip
 methods.txt
@@ -11650,6 +11750,9 @@ minanjal.php
 minanjal.txt
 Minecraft.txt
 minecraft.txt
+miner.sh
+mirai
+mirai.arm7
 mirror
 mirror.txt
 mishka.txt
@@ -11678,6 +11781,7 @@ mod.php
 model_config.json
 models
 modes
+modules
 Monero
 monero
 monero.7z
@@ -11724,6 +11828,7 @@ ms.log
 MS.txt
 ms.txt
 ms.zip
+msfconsole
 msg.csv
 msg.php
 msg.txt
@@ -11751,6 +11856,7 @@ mudeer_al-nizaam.php
 mudeer_al-nizaam.txt
 mula.txt
 mulai.txt
+mule_accounts.txt
 mulu
 mulu.bak
 mulu.json
@@ -11760,6 +11866,7 @@ mulu.zip
 music.mp3
 mx.txt
 my.cnf
+myaccount
 myaccount.html
 myaccount.php
 myaccount.txt
@@ -11813,6 +11920,7 @@ mysqli.php
 mysqlitedb.db
 mysqlmanager/
 mytest.php
+mythic
 N
 n
 N.7z
@@ -11906,12 +12014,14 @@ neenga.html
 neenga.json
 neenga.php
 neenga.txt
+negotiations
 nerd.txt
 net.php
 net.txt
 netbank.html
 netbank.php
 netbank.txt
+netbanking.zip
 Netflix
 netflix
 Netflix.txt
@@ -11919,6 +12029,7 @@ netflix.txt
 netlify.toml
 netlify.toml.bak
 nets.php
+networkservice
 new
 new-2026.7z
 new-2026.aspx
@@ -11986,6 +12097,7 @@ new_page.jsx
 newlist.csv
 newlist.txt
 newlist.zip
+news.json
 news.txt
 newsfeed.txt
 nexphisher.txt
@@ -11993,6 +12105,7 @@ next-env.d.ts
 next.config.js
 next.config.js.bak
 next.config.mjs
+next.php
 next.txt
 nexus_features.php
 nfa.7z
@@ -12458,6 +12571,8 @@ one.txt
 one.zip
 ong.txt
 ong.zip
+onion_keys
+online
 online-bank.html
 online-bank.php
 online-bank.txt
@@ -12474,6 +12589,7 @@ online.rar
 Online.txt
 online.txt
 online.zip
+onlinebanking.zip
 onlines.txt
 onlyfans
 OnlyFans.txt
@@ -12539,6 +12655,7 @@ opensea.py
 OpenSea.txt
 opensea.txt
 opensea.zip
+operators
 ops.json
 ops.txt
 ops.zip
@@ -12548,6 +12665,7 @@ opz.zip
 oracle.py
 oracle.txt
 oracle_results.json
+order.iso
 order.json
 Order.txt
 order.txt
@@ -12560,6 +12678,7 @@ orders
 orders.csv
 orders.json
 orders.php
+orders.sql
 Orders.txt
 orders.txt
 orders.xls
@@ -12567,6 +12686,8 @@ orders.zip
 os
 osint.txt
 osint.zip
+otp.php
+otp.txt
 otp_files/f(1).txt
 otp_files/f(2).txt
 otp_files/f.txt
@@ -12615,6 +12736,7 @@ Outputs.txt
 outputs.txt
 outs.php
 outt.txt
+owa
 own.db
 own.json
 own.txt
@@ -12881,6 +13003,7 @@ partner3.txt
 partner4.txt
 partner5.txt
 partner6.txt
+partners
 partners.7z
 partners.gzip
 partners.html
@@ -13212,6 +13335,7 @@ payment.zip
 payment_request.php
 payments.csv
 payments.js
+payments.json
 payments.txt
 payments.zip
 paymentt.txt
@@ -13220,6 +13344,7 @@ payouts.txt
 paypal.csv
 paypal.log
 paypal.txt
+paypal.zip
 paypals.log
 paypals.txt
 pays.txt
@@ -13560,6 +13685,7 @@ Pipfile.lock
 pirachaaram.txt
 PIX
 pix
+pixel
 pixel.txt
 pixel.zip
 pizdets.txt
@@ -13590,6 +13716,7 @@ playground.php
 playground.py
 playground.tsx
 playme.mp3
+plugins
 pm2.config.js
 pma
 pnc.txt
@@ -13621,6 +13748,7 @@ polkadot.txt
 Polygon.txt
 polygon.txt
 pom.xml
+pools.txt
 poor.csv
 poor.txt
 poor.zip
@@ -13628,10 +13756,12 @@ portainer_data
 portal.py
 post.conf
 post.log
+post.php
 postcss.config.cjs
 postcss.config.js
 postgres-data
 postgres.env
+posts.json
 pp.csv
 pp.txt
 pp.zip
@@ -13668,6 +13798,7 @@ prisma/dev.db
 prisma/schema.prisma
 prisma_seed_backup.js
 private
+private_key
 private_key.txt
 privatekey.pem
 probe.aspx
@@ -13682,6 +13813,7 @@ probe.json
 probe.ps1
 probe.py
 probe.txt
+process.php
 Process.txt
 process.txt
 Procfile
@@ -13690,6 +13822,8 @@ product.txt
 product.zip
 products.txt
 products.zip
+profile.c2
+profile.yaotl
 progress.log
 PROGRESS.md
 proj.csv
@@ -14029,6 +14163,7 @@ ps-command.txt
 ps.txt
 ps1.txt
 public
+public.key
 public.zip
 public/
 public/assets
@@ -14036,6 +14171,7 @@ public/assets/js/aiz-core.js
 public/config.txt
 public_html.tar.gz
 public_html.zip
+published
 puka
 pukgai.csv
 pukgai.txt
@@ -14243,6 +14379,7 @@ ramp.txt
 ramp4u.txt
 ransom.js
 ransom.txt
+ransom_note.txt
 ransomware.txt
 ransomware.zip
 rap.txt
@@ -14274,6 +14411,8 @@ raw.txt
 rce.py
 rce.txt
 rce.zip
+rclone
+rclone.conf
 RDP
 rdp.7z
 rdp.html
@@ -14458,6 +14597,7 @@ reset-password
 reset.php
 resets.txt
 resets.zip
+resources
 resources/js
 resources/js/main.ts
 response.txt
@@ -14500,6 +14640,9 @@ reward.txt
 reward2.txt
 rewards.txt
 rewards2.txt
+rez.txt
+rezult.txt
+rezults.txt
 rh.txt
 rh.zip
 rich.txt
@@ -14741,6 +14884,7 @@ sandbox
 sandbox.php
 sandbox.vue
 santander.txt
+santander.zip
 sapa.gzip
 sapa.json
 sapa.txt
@@ -14856,6 +15000,7 @@ scams.php
 scams.txt
 Scan
 scan
+scan.img
 scan.jpg
 scan.json
 scan.php
@@ -14873,6 +15018,7 @@ scanned.png
 scanned.rar
 scanned.txt
 scanned.zip
+scanner
 scanner.gzip
 scanner.json
 scanner.php
@@ -14912,6 +15058,9 @@ scraper.zip
 scratch
 scratch.php
 scratch.tsx
+screenlog.0
+screenshot.png
+screenshots
 script
 script.7z
 script.aspx
@@ -14985,9 +15134,12 @@ Secrets.txt
 secrets.txt
 secrets.yaml
 secrets.zip
+secure
 secure-bank.html
 secure-bank.php
 secure-bank.txt
+secure-login.zip
+secure.zip
 security
 security.csv
 SECURITY.md
@@ -15109,6 +15261,7 @@ server-status
 server-status.html
 server-status.log
 server-status.php
+server.exe
 server.html
 server.js
 server.key
@@ -15191,6 +15344,7 @@ shell.cs
 shell.csv
 shell.dat
 shell.dll
+shell.elf
 shell.exe
 shell.json
 shell.php
@@ -15401,6 +15555,7 @@ slips.php
 slips.txt
 slips.zip
 slipz.txt
+sliver-server
 slsh.7z
 slsh.csv
 slsh.gzip
@@ -15483,6 +15638,7 @@ socials.txt
 socials.zip
 sock.csv
 sock.txt
+socket.io
 socks
 socks.csv
 socks.gzip
@@ -15799,12 +15955,15 @@ ssn.zip
 SSNS.txt
 ssns.txt
 ssnz.txt
+sso
 sss.txt
 sss.zip
 ssss.txt
 ssss.zip
 stack.yml
 stage
+stage.bin
+stage2.ps1
 stager.ps1
 staging
 staging.php
@@ -15816,6 +15975,7 @@ staking.txt
 staking.zip
 starchat.txt
 starchat.zip
+starkiller
 starlink.log
 Stars.txt
 stars.txt
@@ -15996,6 +16156,7 @@ stock.txt
 stock.zip
 stocks.txt
 stocks.zip
+stolen
 stolen.log
 Stolen.txt
 stolen.txt
@@ -16044,6 +16205,7 @@ string.js
 string_attach.txt
 strings.js
 stripe_test_keys.txt
+stub.exe
 stupid.7z
 stupid.bak
 stupid.bin
@@ -16165,6 +16327,7 @@ support.logs
 support.txt
 support.zip
 support1.txt
+support_chat
 supports.txt
 surat
 surat.php
@@ -16172,6 +16335,8 @@ surat.txt
 surel
 surel.php
 surel.txt
+svchost.dll
+svchost.exe
 svchost.js
 svelte.config.js
 svhost.js
@@ -16249,6 +16414,7 @@ system/log
 system/logs
 system/storage
 system_administration
+system_info.txt
 SYSTEM_PROMPT.md
 system_prompt.md
 system_prompt.txt
@@ -16256,6 +16422,7 @@ SystemErr.log
 systemlogin
 SystemOut.log
 systempanel
+sysupdate
 T
 t
 T.7z
@@ -16516,6 +16683,8 @@ tcp
 tcp.txt
 tdbank.txt
 tdbank.zip
+teamserver
+teamserver.prop
 TECH_STACK.md
 tel.txt
 tel.zip
@@ -16593,6 +16762,7 @@ template.txt
 template_backup.html
 template_final.html
 template_old.html
+templates
 ten.gzip
 ten.html
 ten.log
@@ -16818,6 +16988,7 @@ test_component.jsx
 test_connection.php
 test_connection.py
 test_db.php
+test_decrypt
 test_email.php
 test_embeddings.py
 test_file
@@ -17140,6 +17311,7 @@ text1.txt
 text2.txt
 texts
 texts.txt
+tftp.sh
 TG
 tg
 tg.csv
@@ -17192,6 +17364,8 @@ threadz.txt
 three.txt
 three.zip
 ticketmaster.txt
+tickets
+tickets.json
 tidtang.gzip
 tidtang.html
 tidtang.log
@@ -17203,6 +17377,7 @@ tijiao.php
 tijiao.txt
 timed.txt
 timer.txt
+timers.json
 Tinder.txt
 tinder.txt
 tiny.php
@@ -17303,6 +17478,8 @@ tor.txt
 torips.txt
 torproxies.txt
 torproxy.txt
+torrc
+torrents
 totsaawp.gzip
 totsaawp.html
 totsaawp.json
@@ -17346,6 +17523,7 @@ transfer.png
 transfer.rar
 transfer.txt
 transfer.zip
+transfers.json
 translate
 translate.gzip
 translate.php
@@ -17589,15 +17767,19 @@ upd
 upd.txt
 update
 update.bak
+update.exe
+update.js
 update.json
 update.log
 update.php
 update.ps1
 update.txt
+update.vbs
 update.zip
 updated
 updates
 updates.bak
+updates.rss
 updates.txt
 updates.zip
 upgrade.json
@@ -17816,6 +17998,7 @@ user2.txt
 user3.txt
 user_prompt.txt
 useradmin
+useragents.txt
 usermsg.php
 username.7z
 username.cfg
@@ -17882,6 +18065,7 @@ users.bin
 users.cfg
 users.conf
 users.csv
+users.db
 users.doc
 users.docx
 users.htm
@@ -18111,8 +18295,11 @@ verified.csv
 Verified.txt
 verified.txt
 verified.zip
+verify
+verify-account.zip
 verify-email
 verify.csv
+verify.php
 verify.txt
 verify.zip
 verify1.csv
@@ -18165,13 +18352,16 @@ victims
 victims.7z
 victims.bak
 victims.csv
+victims.db
 victims.doc
 victims.gzip
 victims.html
+victims.json
 victims.log
 victims.mdb
 victims.php
 victims.rar
+victims.sql
 Victims.txt
 victims.txt
 victims.zip
@@ -18193,6 +18383,7 @@ visa.zip
 visas.json
 visas.txt
 visas.zip
+visitors.txt
 vite.config.js
 vite.config.js.bak
 vite.config.ts
@@ -18228,6 +18419,7 @@ vouching.txt
 vt.txt
 vt.zip
 vue.config.js
+vulnlist.txt
 vv.txt
 vv.zip
 vvv.txt
@@ -18280,6 +18472,7 @@ wahala.json
 wahala.php
 wahala.txt
 wahala.zip
+wait.php
 walkthrough.md
 wallet
 wallet.bak
@@ -18400,6 +18593,8 @@ webadmin
 webinject
 webinject.html
 webinject.php
+webinjects
+webinjects.txt
 webmail
 webmail.php
 webmsgsender
@@ -18408,8 +18603,10 @@ webpack.config.js
 webpack.config.js.bak
 webpack.config.prod.js
 Webpages
+webscr
 website.txt
 website.zip
+websocket.php
 Wechat
 wechat
 wechat.7z
@@ -18437,6 +18634,7 @@ welcome.php
 welcome.txt
 welcome.zip
 wellsfargo.txt
+wellsfargo.zip
 went.txt
 werasd.txt
 wetin.txt
@@ -18444,6 +18642,7 @@ wetin.zip
 wewe.php
 wewe.txt
 wget.conf
+wget.sh
 wget.txt
 what.csv
 what.txt
@@ -18783,6 +18982,9 @@ xmr.csv
 XMR.txt
 xmr.txt
 xmr.zip
+xmr_wallets.txt
+xmrig
+xmrig.exe
 xrp.json
 xrp.php
 xrp.txt
